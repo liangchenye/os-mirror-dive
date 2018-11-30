@@ -1,5 +1,18 @@
 # OS mirror data dive
 
+## SLE12 Dive
+### AIM
+How many packages were updated in SLE12 (12 ~ 12-SP3).
+
+### Data Source
+There is not open mirror for SLE, so I try to get the full iso from download.suse.com.
+The Archive.gz file is used in that ISOs.
+These files are trunked and saved under `./sle/data`.
+
+### Output
+
+The output is saved under `./sle/output`.
+
 ## CentOS 7 Dive
 ### AIM
 How many packages were updated in CentOS 7 (7.0 ~ 7.x).
