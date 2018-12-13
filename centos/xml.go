@@ -117,17 +117,18 @@ func Diff(f1 string, f2 string) {
 }
 
 func  main() {
-	full()
+	version := 6
+	full(version)
 	return
 }
 
-func full() {
-	f0 := "./data/7.0.xml"
-	f1 := "./data/7.1.xml"
-	f2 := "./data/7.2.xml"
-	f3 := "./data/7.3.xml"
-	f4 := "./data/7.4.xml"
-	f5 := "./data/7.5.xml"
+func full(v int) {
+	f0 := fmt.Sprintf("./data/%d.0.xml", v)
+	f1 := fmt.Sprintf("./data/%d.1.xml", v)
+	f2 := fmt.Sprintf("./data/%d.2.xml", v)
+	f3 := fmt.Sprintf("./data/%d.3.xml", v)
+	f4 := fmt.Sprintf("./data/%d.4.xml", v)
+	f5 := fmt.Sprintf("./data/%d.5.xml", v)
 
 	Diff(f0, f1)
 	Diff(f1, f2)
