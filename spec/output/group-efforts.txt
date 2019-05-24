@@ -1,0 +1,46 @@
+ 	 226.96313023489398
+Applications 	 0.2699778467295228
+Applications/Archiving 	 10.167656359753265
+Applications/Communications 	 4.272764933113218
+Applications/Databases 	 9.072589755647012
+Applications/Editors 	 16.090338459893683
+Applications/Emulators 	 6.243866942881276
+Applications/Engineering 	 1.0863171896531025
+Applications/File 	 55.3277965116512
+Applications/Internet 	 44.98441091735594
+Applications/Multimedia 	 22.976183565584655
+Applications/Productivity 	 2.3256110392484937
+Applications/Publishing 	 12.449211078539587
+Applications/System 	 124.31534113168983
+Applications/Text 	 22.866158093500083
+devel 	 0.12847612322734017
+Development/C 	 0.6126384518506544
+Development/Debug\ 	 0.14669413227912761
+Development/Debug 	 13.194472920044845
+Development/Debuggers 	 10.008983373513752
+Development Documentation 	 0.07401401234013598
+Development/Documentation 	 3.096756617611806
+Development/Java 	 0.987464640078396
+Development/Languages 	 53.00586083208203
+Development/Libraries 	 414.15672914535736
+Development/System 	 15.416438317888595
+Development/Tools 	 80.65320278553898
+Documentation 	 111.35002624036076
+Group efforts
+Networking/Diagnostic 	 1.103641122162831
+Productivity/Clustering/HA 	 4.994549554798003
+Productivity/Networking/Diagnostic 	 0.4010913539599402
+System/Base 	 8.62582981127504
+System Environment/Base 	 150.1689851197989
+System Environment/Daemons 	 79.68616112288974
+System Environment/Development 	 1.1673462677821544
+System Environment/Kernel\ 	 179.0654230747533
+System Environment/Kernel 	 6.658669112585303
+System Environment/Libraries 	 115.68249560637402
+System Environment/Shells 	 11.922433593545492
+System/Kernel 	 2.0083333333333333
+User Interface/Desktop 	 0.7020579886466463
+User Interface/Desktops 	 13.620349081855409
+User Interfaces/Desktops 	 0.5218087321818426
+User Interface/X 	 17.09652381415204
+User Interface/X Hardware Support 	 4.331189657597614
