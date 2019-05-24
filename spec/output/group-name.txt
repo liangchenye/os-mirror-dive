@@ -1,0 +1,2746 @@
+<  >  adcli
+<  >  adwaita-icon-theme
+<  >  adwaita-qt
+<  >  adwaita-qt
+<  >  aether
+<  >  akonadi
+<  >  ant
+<  >  aopalliance
+<  >  apache-commons-vfs
+<  >  apache-%{short_name}
+<  >  apache-%{short_name}
+<  >  apache-%{short_name}
+<  >  apache-%{short_name}
+<  >  apache-%{short_name}
+<  >  apache-%{short_name}
+<  >  apache-%{short_name}
+< Applications/Archiving >  cpio
+< Applications/Archiving >  dump
+< Applications/Archiving >  lzop
+< Applications/Archiving >  pax
+< Applications/Archiving >  sharutils
+< Applications/Archiving >  star
+< Applications/Archiving >  tar
+< Applications/Archiving >  udftools
+< Applications/Archiving >  unzip
+< Applications/Archiving >  zip
+< Applications/Communications >  efax
+< Applications/Communications >  ekiga
+< Applications/Communications >  lrzsz
+< Applications/Communications >  mgetty
+< Applications/Communications >  minicom
+< Applications/Communications >  telepathy-gabble
+< Applications/Communications >  telepathy-haze
+< Applications/Communications >  telepathy-salut
+< Applications/Databases >  mariadb
+< Applications/Databases >  postgresql
+< Applications/Databases >  postgresql-odbc
+< Applications/Databases >  PyGreSQL
+< Applications/Databases >  python-psycopg2
+< Applications/Databases >  rhdb-utils
+< Applications/Databases >  tcl-pgtcl
+< Applications/Databases >  virtuoso-opensource
+< Applications/Editors >  a2ps
+< Applications/Editors >  emacs
+< Applications/Editors >  emacs-php-mode
+< Applications/Editors >  gedit-plugins
+< Applications/Editors >  gettext
+< Applications/Editors >  git
+< Applications/Editors >  nano
+< Applications/Editors >  vim
+< Applications/Emulators >  advancecomp
+< Applications/Emulators >  ovmf
+< Applications/Emulators >  seabios
+< Applications/Emulators >  sgabios
+< Applications/Emulators >  SLOF
+< Applications/Emulators >  virt-manager
+< Applications/Engineering >  bc
+< Applications/Engineering >  gnuplot
+< Applications/Engineering >  units
+< Applications/File >  filebench
+< Applications/File >  findutils
+< Applications/File >  glusterfs
+< Applications/File >  gzip
+< Applications/File >  libarchive
+< Applications/File >  libreport
+< Applications/File >  ncompress
+< Applications/File >  pngcrush
+< Applications/File >  rear
+< Applications/File >  scl-utils
+< Applications/File >  tree
+< Applications/Internet >  bogofilter
+< Applications/Internet >  centos-bookmarks
+< Applications/Internet >  elinks
+< Applications/Internet >  esc
+< Applications/Internet >  fetchmail
+< Applications/Internet >  firefox
+< Applications/Internet >  ftp
+< Applications/Internet >  gnupg2
+< Applications/Internet >  ksshaskpass
+< Applications/Internet >  lftp
+< Applications/Internet >  libquvi-scripts
+< Applications/Internet >  lynx
+< Applications/Internet >  mailman
+< Applications/Internet >  mailx
+< Applications/Internet >  mozilla-filesystem
+< Applications/Internet >  mrtg
+< Applications/Internet >  mtr
+< Applications/Internet >  mutt
+< Applications/Internet >  netsniff-ng
+< Applications/Internet >  omping
+< Applications/Internet >  openldap
+< Applications/Internet >  openssl
+< Applications/Internet >  pidgin
+< Applications/Internet >  pidgin-sipe
+< Applications/Internet >  pptp
+< Applications/Internet >  procmail
+< Applications/Internet >  rsync
+< Applications/Internet >  socat
+< Applications/Internet >  spamassassin
+< Applications/Internet >  spice-gtk
+< Applications/Internet >  spice-xpi
+< Applications/Internet >  stunnel
+< Applications/Internet >  syslinux
+< Applications/Internet >  tcpdump
+< Applications/Internet >  thunderbird
+< Applications/Internet >  tomcat
+< Applications/Internet >  traceroute
+< Applications/Internet >  urlview
+< Applications/Internet >  wget
+< Applications/Internet >  whois
+< Applications/Internet >  x3270
+< Applications/Internet >  xchat
+< Applications/Internet >  xmlrpc-c
+< Applications >  mpitests
+< Applications/Multimedia >  alsa-firmware
+< Applications/Multimedia >  alsa-utils
+< Applications/Multimedia >  cdrdao
+< Applications/Multimedia >  compat-grilo02
+< Applications/Multimedia >  dcraw
+< Applications/Multimedia >  dvd+rw-tools
+< Applications/Multimedia >  dvgrab
+< Applications/Multimedia >  giflib
+< Applications/Multimedia >  gimp
+< Applications/Multimedia >  gimp-data-extras
+< Applications/Multimedia >  graphviz
+< Applications/Multimedia >  %{gstreamer}
+< Applications/Multimedia >  %{gstreamer}-plugins-good
+< Applications/Multimedia >  libburn
+< Applications/Multimedia >  libiec61883
+< Applications/Multimedia >  libsndfile
+< Applications/Multimedia >  libtheora
+< Applications/Multimedia >  netpbm
+< Applications/Multimedia >  optipng
+< Applications/Multimedia >  pavucontrol
+< Applications/Multimedia >  pngnq
+< Applications/Multimedia >  speex
+< Applications/Multimedia >  transfig
+< Applications/Multimedia >  vorbis-tools
+< Applications/Multimedia >  xsane
+< Applications/Productivity >  evolution
+< Applications/Productivity >  evolution-ews
+< Applications/Productivity >  libreoffice-voikko
+< Applications/Publishing >  emacs-auctex
+< Applications/Publishing >  enscript
+< Applications/Publishing >  ghostscript-fonts
+< Applications/Publishing >  gutenprint
+< Applications/Publishing >  latex2html
+< Applications/Publishing >  libexttextcat
+< Applications/Publishing >  linuxdoc-tools
+< Applications/Publishing >  mpage
+< Applications/Publishing >  passivetex
+< Applications/Publishing >  pnm2ppa
+< Applications/Publishing >  psutils
+< Applications/Publishing >  t1utils
+< Applications/Publishing >  texinfo
+< Applications/Publishing >  texlive
+< Applications/Publishing >  xmltoman
+< Applications/Publishing >  yelp-tools
+< Applications/System >  abrt
+< Applications/System >  aide
+< Applications/System >  alacarte
+< Applications/System >  alsa-tools
+< Applications/System >  amanda
+< Applications/System >  arpwatch
+< Applications/System >  asciidoc
+< Applications/System >  bacula
+< Applications/System >  bltk
+< Applications/System >  comps-extras
+< Applications/System >  conman
+< Applications/System >  console-setup
+< Applications/System >  crypto-utils
+< Applications/System >  cyrus-imapd
+< Applications/System >  dosfstools
+< Applications/System >  dropwatch
+< Applications/System >  ethtool
+< Applications/System >  fcoe-utils
+< Applications/System >  fio
+< Applications/System >  freeipmi
+< Applications/System >  fros
+< Applications/System >  gconf-editor
+< Applications/System >  gnome-packagekit
+< Applications/System >  gnome-system-log
+< Applications/System >  gnu-efi
+< Applications/System >  hdparm
+< Applications/System >  hyperv-daemons
+< Applications/System >  i2c-tools
+< Applications/System >  im-chooser
+< Applications/System >  imsettings
+< Applications/System >  iok
+< Applications/System >  iotop
+< Applications/System >  iptraf-ng
+< Applications/System >  ipvsadm
+< Applications/System >  kdeutils
+< Applications/System >  kexec-tools
+< Applications/System >  latencytop
+< Applications/System >  ledmon
+< Applications/System >  libhugetlbfs
+< Applications/System >  linuxconsoletools
+< Applications/System >  logwatch
+< Applications/System >  lorax
+< Applications/System >  lshw
+< Applications/System >  lsscsi
+< Applications/System >  mlocate
+< Applications/System >  mstflint
+< Applications/System >  mtools
+< Applications/System >  mt-st
+< Applications/System >  mtx
+< Applications/System >  %{name}
+< Applications/System >  nfs4-acl-tools
+< Applications/System >  nfsometer
+< Applications/System >  nfstest
+< Applications/System >  nmap
+< Applications/System >  nvmetcli
+< Applications/System >  opal-prd
+< Applications/System >  openchange
+< Applications/System >  opendnssec
+< Applications/System >  openscap
+< Applications/System >  patchutils
+< Applications/System >  pcp
+< Applications/System >  pinentry
+< Applications/System >  postfix
+< Applications/System >  powertop
+< Applications/System >  procps-ng
+< Applications/System >  psacct
+< Applications/System >  ps_mem
+< Applications/System >  psmisc
+< Applications/System >  %{python}
+< Applications/System >  python-setuptools
+< Applications/System >  rasdaemon
+< Applications/System >  rdate
+< Applications/System >  rdist
+< Applications/System >  sane-frontends
+< Applications/System >  sblim-cmpi-base
+< Applications/System >  sblim-cmpi-fsvol
+< Applications/System >  sblim-cmpi-network
+< Applications/System >  sblim-cmpi-nfsv3
+< Applications/System >  sblim-cmpi-nfsv4
+< Applications/System >  sblim-cmpi-params
+< Applications/System >  sblim-cmpi-sysfs
+< Applications/System >  sblim-cmpi-syslog
+< Applications/System >  sblim-gather
+< Applications/System >  sblim-sfcb
+< Applications/System >  sblim-sfcc
+< Applications/System >  sblim-smis-hba
+< Applications/System >  sblim-testsuite
+< Applications/System >  sblim-wbemcli
+< Applications/System >  screen
+< Applications/System >  sdparm
+< Applications/System >  setroubleshoot
+< Applications/System >  setroubleshoot-plugins
+< Applications/System >  setserial
+< Applications/System >  setuptool
+< Applications/System >  sos
+< Applications/System >  spice-vdagent
+< Applications/System >  sssd
+< Applications/System >  strongimcv
+< Applications/System >  symlinks
+< Applications/System >  sysstat
+< Applications/System >  system-config-users
+< Applications/System >  system-switch-java
+< Applications/System >  time
+< Applications/System >  tmux
+< Applications/System >  tpm-quote-tools
+< Applications/System >  ttmkfdir
+< Applications/System >  tuna
+< Applications/System >  unbound
+< Applications/System >  usbguard
+< Applications/System >  usb_modeswitch
+< Applications/System >  usb_modeswitch-data
+< Applications/System >  usbmuxd
+< Applications/System >  usbutils
+< Applications/System >  usermode
+< Applications/System >  vinagre
+< Applications/System >  virt-viewer
+< Applications/System >  which
+< Applications/System >  wpa_supplicant
+< Applications/System >  wsmancli
+< Applications/System >  xferstats
+< Applications/System >  xmlto
+< Applications/System >  yelp-xsl
+< Applications/Text >  diffutils
+< Applications/Text >  docbook5-schemas
+< Applications/Text >  docbook5-style-xsl
+< Applications/Text >  docbook-dtds
+< Applications/Text >  docbook-simple
+< Applications/Text >  docbook-slides
+< Applications/Text >  docbook-style-dsssl
+< Applications/Text >  docbook-style-xsl
+< Applications/Text >  docbook-utils
+< Applications/Text >  dos2unix
+< Applications/Text >  ed
+< Applications/Text >  gawk
+< Applications/Text >  grep
+< Applications/Text >  hspell
+< Applications/Text >  hunspell-af
+< Applications/Text >  hunspell-ak
+< Applications/Text >  hunspell-am
+< Applications/Text >  hunspell-ar
+< Applications/Text >  hunspell-as
+< Applications/Text >  hunspell-ast
+< Applications/Text >  hunspell-az
+< Applications/Text >  hunspell-be
+< Applications/Text >  hunspell-ber
+< Applications/Text >  hunspell-bg
+< Applications/Text >  hunspell-bn
+< Applications/Text >  hunspell-br
+< Applications/Text >  hunspell-ca
+< Applications/Text >  hunspell-cop
+< Applications/Text >  hunspell-csb
+< Applications/Text >  hunspell-cv
+< Applications/Text >  hunspell-cy
+< Applications/Text >  hunspell-da
+< Applications/Text >  hunspell-de
+< Applications/Text >  hunspell-dsb
+< Applications/Text >  hunspell-el
+< Applications/Text >  hunspell-en
+< Applications/Text >  hunspell-eo
+< Applications/Text >  hunspell-es
+< Applications/Text >  hunspell-et
+< Applications/Text >  hunspell-eu
+< Applications/Text >  hunspell-fa
+< Applications/Text >  hunspell-fj
+< Applications/Text >  hunspell-fo
+< Applications/Text >  hunspell-fr
+< Applications/Text >  hunspell-fur
+< Applications/Text >  hunspell-fy
+< Applications/Text >  hunspell-ga
+< Applications/Text >  hunspell-gd
+< Applications/Text >  hunspell-gl
+< Applications/Text >  hunspell-grc
+< Applications/Text >  hunspell-gu
+< Applications/Text >  hunspell-gv
+< Applications/Text >  hunspell-haw
+< Applications/Text >  hunspell-hi
+< Applications/Text >  hunspell-hil
+< Applications/Text >  hunspell-hr
+< Applications/Text >  hunspell-hsb
+< Applications/Text >  hunspell-ht
+< Applications/Text >  hunspell-hu
+< Applications/Text >  hunspell-hy
+< Applications/Text >  hunspell-ia
+< Applications/Text >  hunspell-id
+< Applications/Text >  hunspell-is
+< Applications/Text >  hunspell-it
+< Applications/Text >  hunspell-kk
+< Applications/Text >  hunspell-km
+< Applications/Text >  hunspell-kn
+< Applications/Text >  hunspell-ko
+< Applications/Text >  hunspell-ku
+< Applications/Text >  hunspell-ky
+< Applications/Text >  hunspell-la
+< Applications/Text >  hunspell-lb
+< Applications/Text >  hunspell-ln
+< Applications/Text >  hunspell-lt
+< Applications/Text >  hunspell-mai
+< Applications/Text >  hunspell-mg
+< Applications/Text >  hunspell-mi
+< Applications/Text >  hunspell-mk
+< Applications/Text >  hunspell-ml
+< Applications/Text >  hunspell-mn
+< Applications/Text >  hunspell-mos
+< Applications/Text >  hunspell-mr
+< Applications/Text >  hunspell-ms
+< Applications/Text >  hunspell-mt
+< Applications/Text >  hunspell-nds
+< Applications/Text >  hunspell-ne
+< Applications/Text >  hunspell-nl
+< Applications/Text >  hunspell-no
+< Applications/Text >  hunspell-nr
+< Applications/Text >  hunspell-nso
+< Applications/Text >  hunspell-ny
+< Applications/Text >  hunspell-oc
+< Applications/Text >  hunspell-om
+< Applications/Text >  hunspell-or
+< Applications/Text >  hunspell-pa
+< Applications/Text >  hunspell-pl
+< Applications/Text >  hunspell-pt
+< Applications/Text >  hunspell-qu
+< Applications/Text >  hunspell-quh
+< Applications/Text >  hunspell-ro
+< Applications/Text >  hunspell-ru
+< Applications/Text >  hunspell-rw
+< Applications/Text >  hunspell-sc
+< Applications/Text >  hunspell-se
+< Applications/Text >  hunspell-shs
+< Applications/Text >  hunspell-si
+< Applications/Text >  hunspell-sk
+< Applications/Text >  hunspell-sl
+< Applications/Text >  hunspell-smj
+< Applications/Text >  hunspell-so
+< Applications/Text >  hunspell-sq
+< Applications/Text >  hunspell-sr
+< Applications/Text >  hunspell-ss
+< Applications/Text >  hunspell-st
+< Applications/Text >  hunspell-sv
+< Applications/Text >  hunspell-sw
+< Applications/Text >  hunspell-ta
+< Applications/Text >  hunspell-te
+< Applications/Text >  hunspell-tet
+< Applications/Text >  hunspell-th
+< Applications/Text >  hunspell-ti
+< Applications/Text >  hunspell-tk
+< Applications/Text >  hunspell-tl
+< Applications/Text >  hunspell-tn
+< Applications/Text >  hunspell-tpi
+< Applications/Text >  hunspell-ts
+< Applications/Text >  hunspell-uk
+< Applications/Text >  hunspell-ur
+< Applications/Text >  hunspell-uz
+< Applications/Text >  hunspell-ve
+< Applications/Text >  hunspell-vi
+< Applications/Text >  hunspell-wa
+< Applications/Text >  hunspell-xh
+< Applications/Text >  hunspell-yi
+< Applications/Text >  hunspell-zu
+< Applications/Text >  hyphen
+< Applications/Text >  hyphen-as
+< Applications/Text >  hyphen-bg
+< Applications/Text >  hyphen-bn
+< Applications/Text >  hyphen-ca
+< Applications/Text >  hyphen-cy
+< Applications/Text >  hyphen-da
+< Applications/Text >  hyphen-de
+< Applications/Text >  hyphen-el
+< Applications/Text >  hyphen-es
+< Applications/Text >  hyphen-eu
+< Applications/Text >  hyphen-fa
+< Applications/Text >  hyphen-fo
+< Applications/Text >  hyphen-fr
+< Applications/Text >  hyphen-ga
+< Applications/Text >  hyphen-gl
+< Applications/Text >  hyphen-grc
+< Applications/Text >  hyphen-gu
+< Applications/Text >  hyphen-hi
+< Applications/Text >  hyphen-hsb
+< Applications/Text >  hyphen-hu
+< Applications/Text >  hyphen-ia
+< Applications/Text >  hyphen-id
+< Applications/Text >  hyphen-is
+< Applications/Text >  hyphen-it
+< Applications/Text >  hyphen-kn
+< Applications/Text >  hyphen-ku
+< Applications/Text >  hyphen-lt
+< Applications/Text >  hyphen-mi
+< Applications/Text >  hyphen-ml
+< Applications/Text >  hyphen-mn
+< Applications/Text >  hyphen-mr
+< Applications/Text >  hyphen-nl
+< Applications/Text >  hyphen-or
+< Applications/Text >  hyphen-pa
+< Applications/Text >  hyphen-pl
+< Applications/Text >  hyphen-pt
+< Applications/Text >  hyphen-ro
+< Applications/Text >  hyphen-ru
+< Applications/Text >  hyphen-sa
+< Applications/Text >  hyphen-sk
+< Applications/Text >  hyphen-sl
+< Applications/Text >  hyphen-sv
+< Applications/Text >  hyphen-ta
+< Applications/Text >  hyphen-te
+< Applications/Text >  hyphen-tk
+< Applications/Text >  hyphen-uk
+< Applications/Text >  indent
+< Applications/Text >  jing-trang
+< Applications/Text >  less
+< Applications/Text >  libgxps
+< Applications/Text >  libtasn1
+< Applications/Text >  m4
+< Applications/Text >  malaga-suomi-voikko
+< Applications/Text >  mythes-bg
+< Applications/Text >  mythes-ca
+< Applications/Text >  mythes-cs
+< Applications/Text >  mythes-da
+< Applications/Text >  mythes-de
+< Applications/Text >  mythes-el
+< Applications/Text >  mythes-en
+< Applications/Text >  mythes-es
+< Applications/Text >  mythes-fr
+< Applications/Text >  mythes-ga
+< Applications/Text >  mythes-hu
+< Applications/Text >  mythes-it
+< Applications/Text >  mythes-mi
+< Applications/Text >  mythes-ne
+< Applications/Text >  mythes-nl
+< Applications/Text >  mythes-pl
+< Applications/Text >  mythes-pt
+< Applications/Text >  mythes-ro
+< Applications/Text >  mythes-ru
+< Applications/Text >  mythes-sk
+< Applications/Text >  mythes-sl
+< Applications/Text >  mythes-sv
+< Applications/Text >  mythes-uk
+< Applications/Text >  openjade
+< Applications/Text >  openoffice-lv
+< Applications/Text >  openoffice.org-dict-cs_CZ
+< Applications/Text >  poppler
+< Applications/Text >  publican-redhat
+< Applications/Text >  saxon
+< Applications/Text >  sed
+< Applications/Text >  sgml-common
+< Applications/Text >  texi2html
+< Applications/Text >  xhtml1-dtds
+< Applications/Text >  xhtml2fo-style-xsl
+< Applications/Text >  zaf
+<  >  appstream-data
+<  >  args4j
+<  >  ark
+<  >  atinject
+<  >  atk
+<  >  at-spi2-atk
+<  >  at-spi2-core
+<  >  attica
+<  >  audiocd-kio
+<  >  autoconf-archive
+<  >  avahi
+<  >  awscli
+<  >  baobab
+<  >  base64coder
+<  >  bash-completion
+<  >  bcel
+<  >  bluedevil
+<  >  bsh
+<  >  cairo
+<  >  cal10n
+<  >  caribou
+<  >  cheese
+<  >  clevis
+<  >  clutter
+<  >  clutter-gst2
+<  >  clutter-gst3
+<  >  clutter-gtk
+<  >  cobertura
+<  >  cockpit
+<  >  cogl
+<  >  colord
+<  >  colord-gtk
+<  >  colord-kde
+<  >  compat-cheese314
+<  >  compat-colord10
+<  >  compat-glade315
+<  >  compat-gnome-desktop314
+<  >  compat-libmediaart0
+<  >  compat-PackageKit08
+<  >  control-center
+<  >  convmv
+<  >  copy-jdk-configs
+<  >  %{core_name}
+<  >  cpuid
+<  >  custodia
+<  >  dblatex
+<  >  dbus-python
+<  >  dbxtool
+<  >  dconf-editor
+< devel >  icedtea-web
+< Development/C >  libmatchbox
+< Development/Debug >  gcc
+< Development/Debuggers >  crash
+< Development/Debuggers >  crash-gcore-command
+< Development/Debuggers >  crash-ptdump-command
+< Development/Debuggers >  crash-trace-command
+< Development/Debuggers >  latrace
+< Development/Debuggers >  libunwind
+< Development/Debuggers >  lsof
+< Development/Debuggers >  ltrace
+< Development/Debuggers >  memstomp
+< Development/Debuggers >  %{?scl_prefix}valgrind
+< Development/Debuggers >  strace
+< Development/Debug >  glibc
+< Development/Debug >  shim
+< Development/Debug\ >  shim-signed
+< Development/Debug >  tog-pegasus
+< Development/Documentation >  bea-stax
+< Development Documentation >  flute
+< Development/Documentation >  gnu-getopt
+< Development/Documentation >  grantlee
+< Development/Documentation >  jaxen
+< Development/Documentation >  ldapjdk
+< Development/Documentation >  libbase
+< Development/Documentation >  libfonts
+< Development/Documentation >  libformula
+< Development/Documentation >  liblayout
+< Development/Documentation >  libloader
+< Development/Documentation >  librepository
+< Development/Documentation >  libserializer
+< Development/Documentation >  libvirt-java
+< Development/Documentation >  pentaho-libxml
+< Development/Documentation >  pentaho-reporting-flow-engine
+< Development/Java >  regexp
+< Development/Java >  sac
+< Development/Languages >  acpica-tools
+< Development/Languages >  babel
+< Development/Languages >  bash
+< Development/Languages >  cmpi-bindings
+< Development/Languages >  compat-gcc-44
+< Development/Languages >  criu
+< Development/Languages >  ecj
+< Development/Languages >  expect
+< Development/Languages >  gcc48
+< Development/Languages >  gnome-python2
+< Development/Languages >  libgpod
+< Development/Languages >  libpfm
+< Development/Languages >  librepo
+< Development/Languages >  perl
+< Development/Languages >  pexpect
+< Development/Languages >  php-pear
+< Development/Languages >  php-pecl-memcache
+< Development/Languages >  pyatspi
+< Development/Languages >  pygobject2
+< Development/Languages >  pygpgme
+< Development/Languages >  pygtk2
+< Development/Languages >  pyorbit
+< Development/Languages >  pytest
+< Development/Languages >  python-augeas
+< Development/Languages >  python-beaker
+< Development/Languages >  python-chardet
+< Development/Languages >  python-cpio
+< Development/Languages >  python-dateutil
+< Development/Languages >  python-decorator
+< Development/Languages >  python-dns
+< Development/Languages >  python-fpconst
+< Development/Languages >  python-inotify
+< Development/Languages >  python-ipaddr
+< Development/Languages >  python-jinja2
+< Development/Languages >  python-kitchen
+< Development/Languages >  python-krbV
+< Development/Languages >  python-mako
+< Development/Languages >  python-markupsafe
+< Development/Languages >  python-memcached
+< Development/Languages >  python-%{modname}
+< Development/Languages >  python-%{modulename}
+< Development/Languages >  python-nose
+< Development/Languages >  python-py
+< Development/Languages >  python-pycurl
+< Development/Languages >  python-pyudev
+< Development/Languages >  python-%{realname}
+< Development/Languages >  python-six
+< Development/Languages >  python-%{srcname}
+< Development/Languages >  python-tempita
+< Development/Languages >  python-urwid
+< Development/Languages >  python-virtualenv
+< Development/Languages >  python-webtest
+< Development/Languages >  python-which
+< Development/Languages >  pytz
+< Development/Languages >  pyusb
+< Development/Languages >  rarian
+< Development/Languages >  rrdtool
+< Development/Languages >  ruby
+< Development/Languages >  SOAPpy
+< Development/Languages >  sqlite
+< Development/Languages >  tcl
+< Development/Languages >  tclx
+< Development/Languages >  tix
+< Development/Languages >  tk
+< Development/Libraries >  389-ds-base
+< Development/Libraries >  accountsservice
+< Development/Libraries >  acl
+< Development/Libraries >  agg
+< Development/Libraries >  alsa-lib
+< Development/Libraries >  anaconda
+< Development/Libraries >  anaconda
+< Development/Libraries >  ant-%{base_name}
+< Development/Libraries >  antlr
+< Development/Libraries >  apache-parent
+< Development/Libraries >  apache-resource-bundles
+< Development/Libraries >  apache-%{short_name}
+< Development/Libraries >  apr
+< Development/Libraries >  apr-util
+< Development/Libraries >  aspell
+< Development/Libraries >  atlas
+< Development/Libraries >  at-spi
+< Development/Libraries >  attr
+< Development/Libraries >  audiofile
+< Development/Libraries >  autogen
+< Development/Libraries >  autotrace
+< Development/Libraries >  bison
+< Development/Libraries >  brasero
+< Development/Libraries >  btrfs-progs
+< Development/Libraries >  bwidget
+< Development/Libraries >  byaccj
+< Development/Libraries >  c-ares
+< Development/Libraries >  cdparanoia
+< Development/Libraries >  cdrkit
+< Development/Libraries >  celt051
+< Development/Libraries >  check
+< Development/Libraries >  cifs-utils
+< Development/Libraries >  codehaus-parent
+< Development/Libraries >  compat-cogl114
+< Development/Libraries >  compat-glibc
+< Development/Libraries >  compat-poppler022
+< Development/Libraries >  cpptest
+< Development/Libraries >  cups-filters
+< Development/Libraries >  curl
+< Development/Libraries >  dbus
+< Development/Libraries >  dbusmenu-qt
+< Development/Libraries >  dconf
+< Development/Libraries >  device-mapper-multipath
+< Development/Libraries >  dhcp
+< Development/Libraries >  dialog
+< Development/Libraries >  ding-libs
+< Development/Libraries >  dlm
+< Development/Libraries >  dotconf
+< Development/Libraries >  dovecot
+< Development/Libraries >  e2fsprogs
+< Development/Libraries >  edac-utils
+< Development/Libraries >  enchant
+< Development/Libraries >  espeak
+< Development/Libraries >  evolution-data-server
+< Development/Libraries >  evolution-mapi
+< Development/Libraries >  exempi
+< Development/Libraries >  expat
+< Development/Libraries >  %{far}02
+< Development/Libraries >  farstream
+< Development/Libraries >  felix-parent
+< Development/Libraries >  festival
+< Development/Libraries >  file
+< Development/Libraries >  flac
+< Development/Libraries >  flite
+< Development/Libraries >  fontforge
+< Development/Libraries >  fprintd
+< Development/Libraries >  freeglut
+< Development/Libraries >  freerdp
+< Development/Libraries >  freetype
+< Development/Libraries >  frei0r-plugins
+< Development/Libraries >  fuse
+< Development/Libraries >  gamin
+< Development/Libraries >  gavl
+< Development/Libraries >  gc
+< Development/Libraries >  GConf2
+< Development/Libraries >  gcr
+< Development/Libraries >  gd
+< Development/Libraries >  gdbm
+< Development/Libraries >  gdm
+< Development/Libraries >  gegl
+< Development/Libraries >  GeoIP
+< Development/Libraries >  glade3
+< Development/Libraries >  glassfish-dtd-parser
+< Development/Libraries >  glassfish-fastinfoset
+< Development/Libraries >  gmp
+< Development/Libraries >  gnome-dictionary
+< Development/Libraries >  gnome-icon-theme
+< Development/Libraries >  gnome-keyring
+< Development/Libraries >  gnome-menus
+< Development/Libraries >  gnutls
+< Development/Libraries >  gperftools
+< Development/Libraries >  gpgme
+< Development/Libraries >  gpm
+< Development/Libraries >  graphite2
+< Development/Libraries >  gsl
+< Development/Libraries >  gsm
+< Development/Libraries >  gstreamer-plugins-bad-free
+< Development/Libraries >  %{gstreamer}-plugins-base
+< Development/Libraries >  gstreamer-python
+< Development/Libraries >  gtk2
+< Development/Libraries >  gtkhtml3
+< Development/Libraries >  gtkspell
+< Development/Libraries >  gtk-vnc
+< Development/Libraries >  guile
+< Development/Libraries >  gupnp-dlna
+< Development/Libraries >  gupnp-igd
+< Development/Libraries >  hamcrest
+< Development/Libraries >  hesiod
+< Development/Libraries >  hsakmt
+< Development/Libraries >  httpcomponents-project
+< Development/Libraries >  hunspell
+< Development/Libraries >  hwloc
+< Development/Libraries >  ibus
+< Development/Libraries >  ibus-qt
+< Development/Libraries >  ibus-table
+< Development/Libraries >  id3tag
+< Development/Libraries >  ilmbase
+< Development/Libraries >  ImageMagick
+< Development/Libraries >  iniparser
+< Development/Libraries >  iperf3
+< Development/Libraries >  iproute
+< Development/Libraries >  irssi
+< Development/Libraries >  iscsi-initiator-utils
+< Development/Libraries >  iso-codes
+< Development/Libraries >  jansson
+< Development/Libraries >  jasper
+< Development/Libraries >  java-atk-wrapper
+< Development/Libraries >  jbigkit
+< Development/Libraries >  jboss-ejb-3.1-api
+< Development/Libraries >  jboss-interceptors-1.1-api
+< Development/Libraries >  jboss-jaxrpc-1.1-api
+< Development/Libraries >  jboss-parent
+< Development/Libraries >  jboss-servlet-2.5-api
+< Development/Libraries >  jboss-servlet-3.0-api
+< Development/Libraries >  jboss-specs-parent
+< Development/Libraries >  jboss-transaction-1.1-api
+< Development/Libraries >  jdepend
+< Development/Libraries >  jdom
+< Development/Libraries >  jetty-assembly-descriptors
+< Development/Libraries >  jetty-parent
+< Development/Libraries >  json-glib
+< Development/Libraries >  jsr-311
+< Development/Libraries >  junit
+< Development/Libraries >  jvnet-parent
+< Development/Libraries >  k3b
+< Development/Libraries >  kdegraphics
+< Development/Libraries >  kmod
+< Development/Libraries >  ladspa
+< Development/Libraries >  lapack
+< Development/Libraries >  lasso
+< Development/Libraries >  lcms2
+< Development/Libraries >  ldns
+< Development/Libraries >  libao
+< Development/Libraries >  libart_lgpl
+< Development/Libraries >  libassuan
+< Development/Libraries >  libasyncns
+< Development/Libraries >  libatasmart
+< Development/Libraries >  libavc1394
+< Development/Libraries >  libbluray
+< Development/Libraries >  libbonobo
+< Development/Libraries >  libbonoboui
+< Development/Libraries >  libcacard
+< Development/Libraries >  libcanberra
+< Development/Libraries >  libcap
+< Development/Libraries >  libcap-ng
+< Development/Libraries >  libcdio
+< Development/Libraries >  libcdio-paranoia
+< Development/Libraries >  libcgroup
+< Development/Libraries >  libchewing
+< Development/Libraries >  libcmpiutil
+< Development/Libraries >  libconfig
+< Development/Libraries >  libcroco
+< Development/Libraries >  libcryptui
+< Development/Libraries >  libdaemon
+< Development/Libraries >  libdb
+< Development/Libraries >  libdbi
+< Development/Libraries >  libdbi-drivers
+< Development/Libraries >  libdmapsharing
+< Development/Libraries >  libdmx
+< Development/Libraries >  libdv
+< Development/Libraries >  libdvdnav
+< Development/Libraries >  libdvdread
+< Development/Libraries >  libeasyfc
+< Development/Libraries >  libecap
+< Development/Libraries >  libedit
+< Development/Libraries >  libee
+< Development/Libraries >  libESMTP
+< Development/Libraries >  libevent
+< Development/Libraries >  libexif
+< Development/Libraries >  libfastjson
+< Development/Libraries >  libffi
+< Development/Libraries >  libfontenc
+< Development/Libraries >  libfprint
+< Development/Libraries >  libgcrypt
+< Development/Libraries >  libgdither
+< Development/Libraries >  libgee06
+< Development/Libraries >  libglade2
+< Development/Libraries >  libgnome
+< Development/Libraries >  libgnomecanvas
+< Development/Libraries >  libgnome-keyring
+< Development/Libraries >  libgnomeui
+< Development/Libraries >  libgovirt
+< Development/Libraries >  libgpg-error
+< Development/Libraries >  libgphoto2
+< Development/Libraries >  libgsf
+< Development/Libraries >  libgxim
+< Development/Libraries >  libhangul
+< Development/Libraries >  libhbaapi
+< Development/Libraries >  libhbalinux
+< Development/Libraries >  libical
+< Development/Libraries >  libICE
+< Development/Libraries >  libIDL
+< Development/Libraries >  libidn
+< Development/Libraries >  libimobiledevice
+< Development/Libraries >  libinvm-cim
+< Development/Libraries >  libinvm-cli
+< Development/Libraries >  libinvm-i18n
+< Development/Libraries >  libiodbc
+< Development/Libraries >  libiptcdata
+< Development/Libraries >  libiscsi
+< Development/Libraries >  libisofs
+< Development/Libraries >  libjpeg-turbo
+< Development/Libraries >  libjs
+< Development/Libraries >  libksba
+< Development/Libraries >  libldb
+< Development/Libraries >  liblockfile
+< Development/Libraries >  libmediaart
+< Development/Libraries >  libmemcached
+< Development/Libraries >  libmng
+< Development/Libraries >  libmnl
+< Development/Libraries >  libmodman
+< Development/Libraries >  libmpc
+< Development/Libraries >  libmpcdec
+< Development/Libraries >  libmsn
+< Development/Libraries >  libmspack
+< Development/Libraries >  libmusicbrainz
+< Development/Libraries >  libmusicbrainz5
+< Development/Libraries >  libmx
+< Development/Libraries >  libndp
+< Development/Libraries >  libnet
+< Development/Libraries >  libnetfilter_conntrack
+< Development/Libraries >  libnetfilter_cthelper
+< Development/Libraries >  libnetfilter_cttimeout
+< Development/Libraries >  libnetfilter_queue
+< Development/Libraries >  libnetfilter_queue
+< Development/Libraries >  libnfnetlink
+< Development/Libraries >  libnfsidmap
+< Development/Libraries >  libnice
+< Development/Libraries >  libnl
+< Development/Libraries >  libntlm
+< Development/Libraries >  liboauth
+< Development/Libraries >  libofa
+< Development/Libraries >  libogg
+< Development/Libraries >  liboil
+< Development/Libraries >  libosinfo
+< Development/Libraries >  libotf
+< Development/Libraries >  libpaper
+< Development/Libraries >  libpcap
+< Development/Libraries >  libpciaccess
+< Development/Libraries >  libpipeline
+< Development/Libraries >  libplist
+< Development/Libraries >  libpng
+< Development/Libraries >  libpng12
+< Development/Libraries >  libproxy
+< Development/Libraries >  libpwquality
+< Development/Libraries >  libqb
+< Development/Libraries >  libqmi
+< Development/Libraries >  libquvi
+< Development/Libraries >  librabbitmq
+< Development/Libraries >  LibRaw
+< Development/Libraries >  libraw1394
+< Development/Libraries >  librelp
+< Development/Libraries >  librsvg2
+< Development/Libraries >  librtas
+< Development/Libraries >  libsamplerate
+< Development/Libraries >  libseccomp
+< Development/Libraries >  libselinux
+< Development/Libraries >  libsemanage
+< Development/Libraries >  libsepol
+< Development/Libraries >  libservicelog
+< Development/Libraries >  libsexy
+< Development/Libraries >  lib%{shortname}
+< Development/Libraries >  libshout
+< Development/Libraries >  libSM
+< Development/Libraries >  libsmbios
+< Development/Libraries >  libsmi
+< Development/Libraries >  libspectre
+< Development/Libraries >  libspiro
+< Development/Libraries >  libssh2
+< Development/Libraries >  libtalloc
+< Development/Libraries >  libtar
+< Development/Libraries >  libtdb
+< Development/Libraries >  libteam
+< Development/Libraries >  libtevent
+< Development/Libraries >  libthai
+< Development/Libraries >  libtiff
+< Development/Libraries >  libtimezonemap
+< Development/Libraries >  libtirpc
+< Development/Libraries >  libtnc
+< Development/Libraries >  libtool
+< Development/Libraries >  libuninameslist
+< Development/Libraries >  libunistring
+< Development/Libraries >  libusb
+< Development/Libraries >  libusbmuxd
+< Development/Libraries >  libusbx
+< Development/Libraries >  libuser
+< Development/Libraries >  libutempter
+< Development/Libraries >  libvirt
+< Development/Libraries >  libvirt-cim
+< Development/Libraries >  libvirt-glib
+< Development/Libraries >  libvirt-python
+< Development/Libraries >  libvirt-snmp
+< Development/Libraries >  libvisual
+< Development/Libraries >  libvncserver
+< Development/Libraries >  libvoikko
+< Development/Libraries >  libvorbis
+< Development/Libraries >  libwebp
+< Development/Libraries >  libwmf
+< Development/Libraries >  libwnck3
+< Development/Libraries >  libwvstreams
+< Development/Libraries >  libX11
+< Development/Libraries >  libXau
+< Development/Libraries >  libXaw
+< Development/Libraries >  libXcomposite
+< Development/Libraries >  libXcursor
+< Development/Libraries >  libXdamage
+< Development/Libraries >  libXdmcp
+< Development/Libraries >  libXevie
+< Development/Libraries >  libXext
+< Development/Libraries >  libXfixes
+< Development/Libraries >  libXfont
+< Development/Libraries >  libXfont2
+< Development/Libraries >  libXft
+< Development/Libraries >  libXi
+< Development/Libraries >  libXinerama
+< Development/Libraries >  libxkbfile
+< Development/Libraries >  libxklavier
+< Development/Libraries >  libxml2
+< Development/Libraries >  libXmu
+< Development/Libraries >  libXp
+< Development/Libraries >  libXpm
+< Development/Libraries >  libXrandr
+< Development/Libraries >  libXrender
+< Development/Libraries >  libXres
+< Development/Libraries >  libXScrnSaver
+< Development/Libraries >  libxslt
+< Development/Libraries >  libXt
+< Development/Libraries >  libXtst
+< Development/Libraries >  libXv
+< Development/Libraries >  libXvMC
+< Development/Libraries >  libXxf86dga
+< Development/Libraries >  libXxf86misc
+< Development/Libraries >  libXxf86vm
+< Development/Libraries >  libyaml
+< Development/Libraries >  lldpad
+< Development/Libraries >  log4cxx
+< Development/Libraries >  lpsolve
+< Development/Libraries >  lzo
+< Development/Libraries >  m17n-db
+< Development/Libraries >  malaga
+< Development/Libraries >  marisa
+< Development/Libraries >  maven-deploy-plugin
+< Development/Libraries >  maven-shared
+< Development/Libraries >  memcached
+< Development/Libraries >  memkind
+< Development/Libraries >  mesa-demos
+< Development/Libraries >  mesa-libGLw
+< Development/Libraries >  metacity
+< Development/Libraries >  mobile-broadband-provider-info
+< Development/Libraries >  ModemManager
+< Development/Libraries >  motif
+< Development/Libraries >  mozjs17
+< Development/Libraries >  mozjs24
+< Development/Libraries >  mpfr
+< Development/Libraries >  mvapich2
+< Development/Libraries >  MySQL-python
+< Development/Libraries >  mythes
+< Development/Libraries >  ncurses
+< Development/Libraries >  nekohtml
+< Development/Libraries >  neon
+< Development/Libraries >  nettle
+< Development/Libraries >  network-manager-applet
+< Development/Libraries >  newt
+< Development/Libraries >  nspr
+< Development/Libraries >  nss
+< Development/Libraries >  nss_compat_ossl
+< Development/Libraries >  nss-softokn
+< Development/Libraries >  nss-util
+< Development/Libraries >  numpy
+< Development/Libraries >  ocaml-curses
+< Development/Libraries >  ocaml-xml-light
+< Development/Libraries >  opal
+< Development/Libraries >  opencc
+< Development/Libraries >  opencv
+< Development/Libraries >  openhpi
+< Development/Libraries >  OpenIPMI
+< Development/Libraries >  openmpi%{?_cc_name_suffix}
+< Development/Libraries >  openslp
+< Development/Libraries >  opensp
+< Development/Libraries >  open-vm-tools
+< Development/Libraries >  openwsman
+< Development/Libraries >  opus
+< Development/Libraries >  ORBit2
+< Development/Libraries >  orc
+< Development/Libraries >  ortp
+< Development/Libraries >  OSTree
+< Development/Libraries >  %{package_name}
+< Development/Libraries >  %{package_name}
+< Development/Libraries >  pakchois
+< Development/Libraries >  pam
+< Development/Libraries >  paps
+< Development/Libraries >  parted
+< Development/Libraries >  perl-Algorithm-Diff
+< Development/Libraries >  perl-AppConfig
+< Development/Libraries >  perl-App-cpanminus
+< Development/Libraries >  perl-Archive-Extract
+< Development/Libraries >  perl-Archive-Tar
+< Development/Libraries >  perl-Archive-Zip
+< Development/Libraries >  perl-Authen-SASL
+< Development/Libraries >  perl-autodie
+< Development/Libraries >  perl-Bit-Vector
+< Development/Libraries >  perl-B-Keywords
+< Development/Libraries >  perl-B-Lint
+< Development/Libraries >  perl-Browser-Open
+< Development/Libraries >  perl-Business-ISBN
+< Development/Libraries >  perl-Business-ISBN-Data
+< Development/Libraries >  perl-Capture-Tiny
+< Development/Libraries >  perl-Carp
+< Development/Libraries >  perl-Carp-Clan
+< Development/Libraries >  perl-CGI
+< Development/Libraries >  perl-CGI-Session
+< Development/Libraries >  perl-Class-Data-Inheritable
+< Development/Libraries >  perl-Class-Inspector
+< Development/Libraries >  perl-Class-ISA
+< Development/Libraries >  perl-Class-Load
+< Development/Libraries >  perl-Class-Load-XS
+< Development/Libraries >  perl-Class-Singleton
+< Development/Libraries >  perl-Clone
+< Development/Libraries >  perl-Compress-Raw-Bzip2
+< Development/Libraries >  perl-Compress-Raw-Zlib
+< Development/Libraries >  perl-Config-Simple
+< Development/Libraries >  perl-Config-Tiny
+< Development/Libraries >  perl-constant
+< Development/Libraries >  perl-Convert-ASN1
+< Development/Libraries >  perl-CPAN-Changes
+< Development/Libraries >  perl-CPAN-Meta
+< Development/Libraries >  perl-CPAN-Meta-Requirements
+< Development/Libraries >  perl-CPAN-Meta-YAML
+< Development/Libraries >  perl-%{cpan_name}
+< Development/Libraries >  perl-CPANPLUS
+< Development/Libraries >  perl-CPANPLUS-Dist-Build
+< Development/Libraries >  perl-Crypt-CBC
+< Development/Libraries >  perl-Crypt-DES
+< Development/Libraries >  perl-Crypt-OpenSSL-Bignum
+< Development/Libraries >  perl-Crypt-OpenSSL-Random
+< Development/Libraries >  perl-Crypt-OpenSSL-RSA
+< Development/Libraries >  perl-Crypt-PasswdMD5
+< Development/Libraries >  perl-Crypt-SSLeay
+< Development/Libraries >  perl-CSS-Tiny
+< Development/Libraries >  perl-Data-Dumper
+< Development/Libraries >  perl-Data-OptList
+< Development/Libraries >  perl-Data-Peek
+< Development/Libraries >  perl-Date-Calc
+< Development/Libraries >  perl-Date-Manip
+< Development/Libraries >  perl-DateTime
+< Development/Libraries >  perl-DateTime-Format-DateParse
+< Development/Libraries >  perl-DateTime-Locale
+< Development/Libraries >  perl-DateTime-TimeZone
+< Development/Libraries >  perl-DBD-MySQL
+< Development/Libraries >  perl-DBD-Pg
+< Development/Libraries >  perl-DBD-SQLite
+< Development/Libraries >  perl-DB_File
+< Development/Libraries >  perl-DBI
+< Development/Libraries >  perl-DBIx-Simple
+< Development/Libraries >  perl-Devel-CheckLib
+< Development/Libraries >  perl-Devel-Cover
+< Development/Libraries >  perl-Devel-Cycle
+< Development/Libraries >  perl-Devel-EnforceEncapsulation
+< Development/Libraries >  perl-Devel-Leak
+< Development/Libraries >  perl-Devel-StackTrace
+< Development/Libraries >  perl-Devel-Symdump
+< Development/Libraries >  perl-Digest
+< Development/Libraries >  perl-Digest-HMAC
+< Development/Libraries >  perl-Digest-MD5
+< Development/Libraries >  perl-Digest-SHA
+< Development/Libraries >  perl-Digest-SHA1
+< Development/Libraries >  perl-Dist-CheckConflicts
+< Development/Libraries >  perl-Email-Address
+< Development/Libraries >  perl-Encode
+< Development/Libraries >  perl-Encode-Detect
+< Development/Libraries >  perl-Encode-Locale
+< Development/Libraries >  perl-Env
+< Development/Libraries >  perl-Error
+< Development/Libraries >  perl-Exception-Class
+< Development/Libraries >  perl-Exporter
+< Development/Libraries >  perl-ExtUtils-Manifest
+< Development/Libraries >  perl-ExtUtils-ParseXS
+< Development/Libraries >  perl-FCGI
+< Development/Libraries >  perl-File-CheckTree
+< Development/Libraries >  perl-File-Copy-Recursive
+< Development/Libraries >  perl-File-Fetch
+< Development/Libraries >  perl-File-Find-Rule
+< Development/Libraries >  perl-File-Find-Rule-Perl
+< Development/Libraries >  perl-File-HomeDir
+< Development/Libraries >  perl-File-Inplace
+< Development/Libraries >  perl-File-Listing
+< Development/Libraries >  perl-File-Path
+< Development/Libraries >  perl-File-pushd
+< Development/Libraries >  perl-File-Remove
+< Development/Libraries >  perl-File-ShareDir
+< Development/Libraries >  perl-File-Slurp
+< Development/Libraries >  perl-File-Temp
+< Development/Libraries >  perl-File-Which
+< Development/Libraries >  perl-Filter
+< Development/Libraries >  perl-Font-AFM
+< Development/Libraries >  perl-Font-TTF
+< Development/Libraries >  perl-FreezeThaw
+< Development/Libraries >  perl-GD
+< Development/Libraries >  perl-GD-Barcode
+< Development/Libraries >  perl-Getopt-Long
+< Development/Libraries >  perl-gettext
+< Development/Libraries >  perl-GSSAPI
+< Development/Libraries >  perl-Hook-LexWrap
+< Development/Libraries >  perl-HTML-Format
+< Development/Libraries >  perl-HTML-FormatText-WithLinks
+< Development/Libraries >  perl-HTML-FormatText-WithLinks-AndTables
+< Development/Libraries >  perl-HTML-Parser
+< Development/Libraries >  perl-HTML-Tagset
+< Development/Libraries >  perl-HTML-Tree
+< Development/Libraries >  perl-HTTP-Cookies
+< Development/Libraries >  perl-HTTP-Daemon
+< Development/Libraries >  perl-HTTP-Date
+< Development/Libraries >  perl-HTTP-Message
+< Development/Libraries >  perl-HTTP-Negotiate
+< Development/Libraries >  perl-HTTP-Tiny
+< Development/Libraries >  perl-Image-Base
+< Development/Libraries >  perl-Image-Info
+< Development/Libraries >  perl-Image-Xbm
+< Development/Libraries >  perl-Image-Xpm
+< Development/Libraries >  perl-Inline
+< Development/Libraries >  perl-Inline-Files
+< Development/Libraries >  perl-IO-CaptureOutput
+< Development/Libraries >  perl-IO-Compress
+< Development/Libraries >  perl-IO-HTML
+< Development/Libraries >  perl-IO-Socket-INET6
+< Development/Libraries >  perl-IO-Socket-IP
+< Development/Libraries >  perl-IO-Socket-SSL
+< Development/Libraries >  perl-IO-String
+< Development/Libraries >  perl-IO-stringy
+< Development/Libraries >  perl-IO-Tty
+< Development/Libraries >  perl-IPC-Cmd
+< Development/Libraries >  perl-IPC-Run
+< Development/Libraries >  perl-IPC-Run3
+< Development/Libraries >  perl-JSON-PP
+< Development/Libraries >  perl-LDAP
+< Development/Libraries >  perl-libintl
+< Development/Libraries >  perl-libwww-perl
+< Development/Libraries >  perl-libxml-perl
+< Development/Libraries >  perl-List-MoreUtils
+< Development/Libraries >  perl-Locale-Codes
+< Development/Libraries >  perl-Locale-Maketext
+< Development/Libraries >  perl-Locale-Maketext-Gettext
+< Development/Libraries >  perl-Locale-PO
+< Development/Libraries >  perl-local-lib
+< Development/Libraries >  perl-Log-Message
+< Development/Libraries >  perl-Log-Message-Simple
+< Development/Libraries >  perl-LWP-MediaTypes
+< Development/Libraries >  perl-LWP-Protocol-https
+< Development/Libraries >  perl-Mail-DKIM
+< Development/Libraries >  perl-Mail-SPF
+< Development/Libraries >  perl-MailTools
+< Development/Libraries >  perl-Mixin-Linewise
+< Development/Libraries >  perl-Module-Build
+< Development/Libraries >  perl-Module-Implementation
+< Development/Libraries >  perl-Module-Install
+< Development/Libraries >  perl-Module-Load
+< Development/Libraries >  perl-Module-Load-Conditional
+< Development/Libraries >  perl-Module-Manifest
+< Development/Libraries >  perl-Module-Metadata
+< Development/Libraries >  perl-Module-Pluggable
+< Development/Libraries >  perl-Module-Runtime
+< Development/Libraries >  perl-Module-ScanDeps
+< Development/Libraries >  perl-Module-Signature
+< Development/Libraries >  perl-Mozilla-CA
+< Development/Libraries >  perl-Mozilla-LDAP
+< Development/Libraries >  perl-NetAddr-IP
+< Development/Libraries >  perl-Net-Daemon
+< Development/Libraries >  perl-Net-DNS
+< Development/Libraries >  perl-Net-DNS-Resolver-Programmable
+< Development/Libraries >  perl-Net-HTTP
+< Development/Libraries >  perl-Net-LibIDN
+< Development/Libraries >  perl-Net-SMTP-SSL
+< Development/Libraries >  perl-Net-SSLeay
+< Development/Libraries >  perl-Net-Telnet
+< Development/Libraries >  perl-Number-Compare
+< Development/Libraries >  perl-Object-Deadly
+< Development/Libraries >  perl-Package-DeprecationManager
+< Development/Libraries >  perl-Package-Generator
+< Development/Libraries >  perl-Package-Stash
+< Development/Libraries >  perl-Package-Stash-XS
+< Development/Libraries >  perl-PadWalker
+< Development/Libraries >  perl-Parallel-Iterator
+< Development/Libraries >  perl-Params-Check
+< Development/Libraries >  perl-Params-Util
+< Development/Libraries >  perl-Params-Validate
+< Development/Libraries >  perl-PAR-Dist
+< Development/Libraries >  perl-parent
+< Development/Libraries >  perl-Parse-CPAN-Meta
+< Development/Libraries >  perl-Parse-RecDescent
+< Development/Libraries >  perl-Parse-Yapp
+< Development/Libraries >  perl-PathTools
+< Development/Libraries >  perl-Perl4-CoreLibs
+< Development/Libraries >  perl-Perl-Critic
+< Development/Libraries >  perl-Perl-Critic-More
+< Development/Libraries >  perl-Perl-MinimumVersion
+< Development/Libraries >  perl-Perl-OSType
+< Development/Libraries >  perl-PlRPC
+< Development/Libraries >  perl-Pod-Checker
+< Development/Libraries >  perl-Pod-Coverage
+< Development/Libraries >  perl-Pod-Coverage-TrustPod
+< Development/Libraries >  perl-Pod-Eventual
+< Development/Libraries >  perl-Pod-LaTeX
+< Development/Libraries >  perl-podlators
+< Development/Libraries >  perl-Pod-Parser
+< Development/Libraries >  perl-Pod-Perldoc
+< Development/Libraries >  perl-Pod-POM
+< Development/Libraries >  perl-Pod-Simple
+< Development/Libraries >  perl-Pod-Spell
+< Development/Libraries >  perl-Pod-Usage
+< Development/Libraries >  perl-PPI
+< Development/Libraries >  perl-PPI-HTML
+< Development/Libraries >  perl-PPIx-Regexp
+< Development/Libraries >  perl-PPIx-Utilities
+< Development/Libraries >  perl-prefork
+< Development/Libraries >  perl-Probe-Perl
+< Development/Libraries >  perl-Readonly
+< Development/Libraries >  perl-Readonly-XS
+< Development/Libraries >  perl-Scalar-List-Utils
+< Development/Libraries >  perl-SGMLSpm
+< Development/Libraries >  perl-SNMP_Session
+< Development/Libraries >  perl-Socket
+< Development/Libraries >  perl-Socket6
+< Development/Libraries >  perl-Sort-Versions
+< Development/Libraries >  perl-srpm-macros
+< Development/Libraries >  perl-Storable
+< Development/Libraries >  perl-String-CRC32
+< Development/Libraries >  perl-String-Format
+< Development/Libraries >  perl-String-ShellQuote
+< Development/Libraries >  perl-String-Similarity
+< Development/Libraries >  perl-Sub-Exporter
+< Development/Libraries >  perl-Sub-Install
+< Development/Libraries >  perl-Sub-Uplevel
+< Development/Libraries >  perl-Switch
+< Development/Libraries >  perl-Syntax-Highlight-Engine-Kate
+< Development/Libraries >  perl-Sys-CPU
+< Development/Libraries >  perl-Sys-MemInfo
+< Development/Libraries >  perl-Sys-Syslog
+< Development/Libraries >  perl-Taint-Runtime
+< Development/Libraries >  perl-Task-Weaken
+< Development/Libraries >  perl-Template-Toolkit
+< Development/Libraries >  perl-TermReadKey
+< Development/Libraries >  perl-Term-UI
+< Development/Libraries >  perl-Test-ClassAPI
+< Development/Libraries >  perl-Test-CPAN-Meta
+< Development/Libraries >  perl-Test-Deep
+< Development/Libraries >  perl-Test-Differences
+< Development/Libraries >  perl-Test-DistManifest
+< Development/Libraries >  perl-Test-EOL
+< Development/Libraries >  perl-Test-Exception
+< Development/Libraries >  perl-Test-Fatal
+< Development/Libraries >  perl-Test-Harness
+< Development/Libraries >  perl-Test-HasVersion
+< Development/Libraries >  perl-Test-Inter
+< Development/Libraries >  perl-Test-Manifest
+< Development/Libraries >  perl-Test-Memory-Cycle
+< Development/Libraries >  perl-Test-MinimumVersion
+< Development/Libraries >  perl-Test-MockObject
+< Development/Libraries >  perl-Test-NoTabs
+< Development/Libraries >  perl-Test-NoWarnings
+< Development/Libraries >  perl-Test-Object
+< Development/Libraries >  perl-Test-Output
+< Development/Libraries >  perl-Test-Perl-Critic
+< Development/Libraries >  perl-Test-Pod
+< Development/Libraries >  perl-Test-Pod-Coverage
+< Development/Libraries >  perl-Test-Portability-Files
+< Development/Libraries >  perl-Test-Requires
+< Development/Libraries >  perl-Test-Script
+< Development/Libraries >  perl-Test-Simple
+< Development/Libraries >  perl-Test-Spelling
+< Development/Libraries >  perl-Test-SubCalls
+< Development/Libraries >  perl-Test-Synopsis
+< Development/Libraries >  perl-Test-Taint
+< Development/Libraries >  perl-Test-Tester
+< Development/Libraries >  perl-Test-Vars
+< Development/Libraries >  perl-Test-Warn
+< Development/Libraries >  perl-Test-Without-Module
+< Development/Libraries >  perl-Text-CharWidth
+< Development/Libraries >  perl-Text-CSV_XS
+< Development/Libraries >  perl-Text-Diff
+< Development/Libraries >  perl-Text-Glob
+< Development/Libraries >  perl-Text-Iconv
+< Development/Libraries >  perl-Text-ParseWords
+< Development/Libraries >  perl-Text-Soundex
+< Development/Libraries >  perl-Text-Unidecode
+< Development/Libraries >  perl-Text-WrapI18N
+< Development/Libraries >  perl-Thread-Queue
+< Development/Libraries >  perl-threads
+< Development/Libraries >  perl-threads-shared
+< Development/Libraries >  perl-Tie-IxHash
+< Development/Libraries >  perl-TimeDate
+< Development/Libraries >  perl-Time-HiRes
+< Development/Libraries >  perl-Time-Local
+< Development/Libraries >  perl-Tk
+< Development/Libraries >  perl-Tree-DAG_Node
+< Development/Libraries >  perl-Try-Tiny
+< Development/Libraries >  perl-Unicode-String
+< Development/Libraries >  perl-UNIVERSAL-can
+< Development/Libraries >  perl-UNIVERSAL-isa
+< Development/Libraries >  perl-URI
+< Development/Libraries >  perl-version
+< Development/Libraries >  perl-Version-Requirements
+< Development/Libraries >  perl-WWW-Curl
+< Development/Libraries >  perl-WWW-RobotRules
+< Development/Libraries >  perl-XML-Catalog
+< Development/Libraries >  perl-XML-DOM
+< Development/Libraries >  perl-XML-Dumper
+< Development/Libraries >  perl-XML-Filter-BufferText
+< Development/Libraries >  perl-XML-Grove
+< Development/Libraries >  perl-XML-Handler-YAWriter
+< Development/Libraries >  perl-XML-LibXML
+< Development/Libraries >  perl-XML-LibXSLT
+< Development/Libraries >  perl-XML-NamespaceSupport
+< Development/Libraries >  perl-XML-Parser
+< Development/Libraries >  perl-XML-RegExp
+< Development/Libraries >  perl-XML-SAX
+< Development/Libraries >  perl-XML-SAX-Base
+< Development/Libraries >  perl-XML-SAX-Writer
+< Development/Libraries >  perl-XML-Simple
+< Development/Libraries >  perl-XML-TokeParser
+< Development/Libraries >  perl-XML-TreeBuilder
+< Development/Libraries >  perl-XML-Twig
+< Development/Libraries >  perl-XML-Writer
+< Development/Libraries >  perl-XML-XPath
+< Development/Libraries >  perl-XML-XPathEngine
+< Development/Libraries >  perl-YAML
+< Development/Libraries >  perl-YAML-Syck
+< Development/Libraries >  perl-YAML-Tiny
+< Development/Libraries >  pixman
+< Development/Libraries >  plexus-component-factories-pom
+< Development/Libraries >  plexus-pom
+< Development/Libraries >  pm-utils
+< Development/Libraries >  polkit
+< Development/Libraries >  poppler-data
+< Development/Libraries >  popt
+< Development/Libraries >  ppp
+< Development/Libraries >  protobuf-c
+< Development/Libraries >  pth
+< Development/Libraries >  ptlib
+< Development/Libraries >  pycairo
+< Development/Libraries >  pyOpenSSL
+< Development/Libraries >  PyPAM
+< Development/Libraries >  pyparsing
+< Development/Libraries >  pyserial
+< Development/Libraries >  python-cherrypy
+< Development/Libraries >  python-cryptography
+< Development/Libraries >  python-enum34
+< Development/Libraries >  python-gudev
+< Development/Libraries >  python-hwdata
+< Development/Libraries >  python-iniparse
+< Development/Libraries >  python-jwt
+< Development/Libraries >  python-kmod
+< Development/Libraries >  python-lxml
+< Development/Libraries >  python-matplotlib
+< Development/Libraries >  python-netaddr
+< Development/Libraries >  python-netifaces
+< Development/Libraries >  python-oauthlib
+< Development/Libraries >  python-pygments
+< Development/Libraries >  python-requests-oauthlib
+< Development/Libraries >  python-rhsm
+< Development/Libraries >  python-sqlalchemy
+< Development/Libraries >  python-suds
+< Development/Libraries >  python-urlgrabber
+< Development/Libraries >  python-zope-interface
+< Development/Libraries >  pywbem
+< Development/Libraries >  pyxattr
+< Development/Libraries >  PyYAML
+< Development/Libraries >  qca2
+< Development/Libraries >  qjson
+< Development/Libraries >  rasqal
+< Development/Libraries >  readline
+< Development/Libraries >  recode
+< Development/Libraries >  relaxngcc
+< Development/Libraries >  rhnlib
+< Development/Libraries >  satyr
+< Development/Libraries >  sbc
+< Development/Libraries >  sblim-cmpi-devel
+< Development/Libraries >  sblim-indication_helper
+< Development/Libraries >  scipy
+< Development/Libraries >  SDL
+< Development/Libraries >  sg3_utils
+< Development/Libraries >  shared-desktop-ontologies
+< Development/Libraries >  %{short_name}-pom
+< Development/Libraries >  %{short_name}-pom
+< Development/Libraries >  %{short_name}-pom
+< Development/Libraries >  sip
+< Development/Libraries >  slang
+< Development/Libraries >  snapper
+< Development/Libraries >  snappy
+< Development/Libraries >  softhsm
+< Development/Libraries >  sonatype-oss-parent
+< Development/Libraries >  sonatype-plugins-parent
+< Development/Libraries >  soundtouch
+< Development/Libraries >  source-highlight
+< Development/Libraries >  sox
+< Development/Libraries >  speech-dispatcher
+< Development/Libraries >  spice
+< Development/Libraries >  spice-parent
+< Development/Libraries >  spice-protocol
+< Development/Libraries >  startup-notification
+< Development/Libraries >  stax2-api
+< Development/Libraries >  strigi
+< Development/Libraries >  subscription-manager
+< Development/Libraries >  sudo
+< Development/Libraries >  svrcore
+< Development/Libraries >  sysfsutils
+< Development/Libraries >  t1lib
+< Development/Libraries >  tcp_wrappers
+< Development/Libraries >  teckit
+< Development/Libraries >  telepathy-farstream
+< Development/Libraries >  telepathy-glib
+< Development/Libraries >  telepathy-logger
+< Development/Libraries >  telepathy-mission-control
+< Development/Libraries >  tn5250
+< Development/Libraries >  tncfhh
+< Development/Libraries >  tokyocabinet
+< Development/Libraries >  tpm-tools
+< Development/Libraries >  trousers
+< Development/Libraries >  udisks2
+< Development/Libraries >  unique3
+< Development/Libraries >  unixODBC
+< Development/Libraries >  upower
+< Development/Libraries >  uriparser
+< Development/Libraries >  ustr
+< Development/Libraries >  uuid
+< Development/Libraries >  v4l-utils
+< Development/Libraries >  velocity
+< Development/Libraries >  vigra
+< Development/Libraries >  vte3
+< Development/Libraries >  wavpack
+< Development/Libraries >  weld-parent
+< Development/Libraries >  wireshark
+< Development/Libraries >  xcb-proto
+< Development/Libraries >  xerces-j2
+< Development/Libraries >  xfsprogs
+< Development/Libraries >  xmlsec1
+< Development/Libraries >  xml-stylebook
+< Development/Libraries >  xorg-x11-drv-evdev
+< Development/Libraries >  xorg-x11-drv-mouse
+< Development/Libraries >  xorg-x11-drv-synaptics
+< Development/Libraries >  xorg-x11-drv-wacom
+< Development/Libraries >  xorg-x11-server
+< Development/Libraries >  xorg-x11-xkb-utils
+< Development/Libraries >  xsom
+< Development/Libraries >  xulrunner
+< Development/Libraries >  xz
+< Development/Libraries >  yajl
+< Development/Libraries >  yasm
+< Development/Libraries >  yelp
+< Development/Libraries >  yum-metadata-parser
+< Development/Libraries >  zlib
+< Development/Libraries >  zziplib
+< Development/System >  blktrace
+< Development/System >  brltty
+< Development/System >  checkpolicy
+< Development/System >  clucene
+< Development/System >  crda
+< Development/System >  dyninst
+< Development/System >  fontpackages
+< Development/System >  iowatcher
+< Development/System >  isomd5sum
+< Development/System >  libaio
+< Development/System >  oprofile
+< Development/System >  papi
+< Development/System >  pesign
+< Development/System >  pps-tools
+< Development/System >  redhat-rpm-config
+< Development/System >  systemtap
+< Development/System >  xorg-x11-drv-openchrome
+< Development/System >  xorg-x11-proto-devel
+< Development/System >  xorg-x11-util-macros
+< Development/Tools >  apache-ivy
+< Development/Tools >  autoconf
+< Development/Tools >  autoconf213
+< Development/Tools >  automake
+< Development/Tools >  automoc
+< Development/Tools >  boost
+< Development/Tools >  byacc
+< Development/Tools >  chrpath
+< Development/Tools >  cmake
+< Development/Tools >  cscope
+< Development/Tools >  ctags
+< Development/Tools >  cvsps
+< Development/Tools >  Cython
+< Development/Tools >  dbus-glib
+< Development/Tools >  dejagnu
+< Development/Tools >  desktop-file-utils
+< Development/Tools >  diffstat
+< Development/Tools >  dumpet
+< Development/Tools >  dwz
+< Development/Tools >  ElectricFence
+< Development/Tools >  elfutils
+< Development/Tools >  epydoc
+< Development/Tools >  fonttools
+< Development/Tools >  geronimo-parent-poms
+< Development/Tools >  gnome-common
+< Development/Tools >  gnome-doc-utils
+< Development/Tools >  gob2
+< Development/Tools >  gperf
+< Development/Tools >  groovy
+< Development/Tools >  help2man
+< Development/Tools >  highlight
+< Development/Tools >  hsqldb
+< Development/Tools >  icon-naming-utils
+< Development/Tools >  intltool
+< Development/Tools >  ipxe
+< Development/Tools >  itstool
+< Development/Tools >  ixpdimm_sw
+< Development/Tools >  ksc
+< Development/Tools >  langtable
+< Development/Tools >  libdrm
+< Development/Tools >  libdwarf
+< Development/Tools >  libkkc
+< Development/Tools >  libvpx
+< Development/Tools >  make
+< Development/Tools >  mercurial
+< Development/Tools >  patch
+< Development/Tools >  pcre
+< Development/Tools >  pcre2
+< Development/Tools >  pkgconfig
+< Development/Tools >  %{pkgname}
+< Development/Tools >  %{pkgname}%{?pkgsuffix}
+< Development/Tools >  %{pkgname}%{?pkgsuffix}
+< Development/Tools >  qt3
+< Development/Tools >  ras-utils
+< Development/Tools >  rcs
+< Development/Tools >  rpmlint
+< Development/Tools >  subversion
+< Development/Tools >  swig
+< Development/Tools >  trace-cmd
+< Development/Tools >  xdelta
+< Development/Tools >  xorg-sgml-doctools
+< Development/Tools >  xorg-x11-drv-intel
+< Development/Tools >  xrestop
+< Development/Tools >  yum-langpacks
+<  >  devhelp
+<  >  dleyna-connector-dbus
+<  >  dleyna-core
+<  >  dleyna-server
+<  >  dnssec-trigger
+< Documentation >  ant-contrib
+< Documentation >  apache-commons-exec
+< Documentation >  apache-%{jarname}
+< Documentation >  apache-rat
+< Documentation >  apache-%{short_name}
+< Documentation >  apache-%{short_name}
+< Documentation >  apache-%{short_name}
+< Documentation >  apache-%{short_name}
+< Documentation >  apache-%{short_name}
+< Documentation >  apache-%{short_name}
+< Documentation >  apache-%{short_name}
+< Documentation >  apache-%{short_name}
+< Documentation >  apache-%{short_name}
+< Documentation >  apache-%{short_name}
+< Documentation >  aqute-bnd
+< Documentation >  aqute-bndlib
+< Documentation >  atkmm
+< Documentation >  avalon-%{short_name}
+< Documentation >  avalon-%{short_name}
+< Documentation >  babl
+< Documentation >  batik
+< Documentation >  beust-%{short_name}
+< Documentation >  bsf
+< Documentation >  buildnumber-maven-plugin
+< Documentation >  byteman
+< Documentation >  bzr
+< Documentation >  cairomm
+< Documentation >  cdi-api
+< Documentation >  centos-indexhtml
+< Documentation >  cglib
+< Documentation >  cim-schema
+< Documentation >  codemodel
+< Documentation >  cppunit
+< Documentation >  cvs
+< Documentation >  dom4j
+< Documentation >  easymock
+< Documentation >  easymock2
+< Documentation >  exec-maven-plugin
+< Documentation >  felix-osgi-compendium
+< Documentation >  felix-osgi-obr
+< Documentation >  felix-utils
+< Documentation >  fftw
+< Documentation >  flex
+< Documentation >  fontconfig
+< Documentation >  geronimo-jaspic-spec
+< Documentation >  geronimo-jaxrpc
+< Documentation >  geronimo-jms
+< Documentation >  geronimo-jta
+< Documentation >  geronimo-osgi-support
+< Documentation >  geronimo-saaj
+< Documentation >  gimp-help
+< Documentation >  glassfish-el
+< Documentation >  glassfish-el-api
+< Documentation >  glassfish-jaxb
+< Documentation >  glassfish-jaxb-api
+< Documentation >  glassfish-jsp
+< Documentation >  glassfish-jsp-api
+< Documentation >  glm
+< Documentation >  gnome-user-docs
+< Documentation >  google-%{short_name}
+< Documentation >  groff
+< Documentation >  httpcomponents-client
+< Documentation >  httpcomponents-core
+< Documentation >  icu
+< Documentation >  inkscape
+< Documentation >  isdn4k-utils
+< Documentation >  istack-commons
+< Documentation >  jackson
+< Documentation >  jai-imageio-core
+< Documentation >  jakarta-commons-httpclient
+< Documentation >  jakarta-taglibs-standard
+< Documentation >  jandex
+< Documentation >  jansi-native
+< Documentation >  jarjar
+< Documentation >  java_cup
+< Documentation >  java-%{javaver}-%{origin}
+< Documentation >  java-%{javaver}-%{origin}
+< Documentation >  java-%{javaver}-%{origin}
+< Documentation >  javassist
+< Documentation >  jboss-annotations-1.1-api
+< Documentation >  jboss-el-2.2-api
+< Documentation >  jettison
+< Documentation >  jetty
+< Documentation >  jline
+< Documentation >  jsch
+< Documentation >  json-c
+< Documentation >  jss
+< Documentation >  keybinder3
+< Documentation >  liblognorm
+< Documentation >  liblouis
+< Documentation >  libmicrohttpd
+< Documentation >  libnl3
+< Documentation >  libpst
+< Documentation >  man-pages
+< Documentation >  man-pages-cs
+< Documentation >  man-pages-es
+< Documentation >  man-pages-fr
+< Documentation >  man-pages-it
+< Documentation >  man-pages-ja
+< Documentation >  man-pages-ko
+< Documentation >  man-pages-overrides
+< Documentation >  man-pages-pl
+< Documentation >  man-pages-ru
+< Documentation >  man-pages-zh-CN
+< Documentation >  maven
+< Documentation >  maven-antrun-plugin
+< Documentation >  maven-changes-plugin
+< Documentation >  maven-clean-plugin
+< Documentation >  maven-compiler-plugin
+< Documentation >  maven-dependency-plugin
+< Documentation >  maven-dependency-tree
+< Documentation >  maven-downloader
+< Documentation >  maven-doxia
+< Documentation >  maven-ear-plugin
+< Documentation >  maven-gpg-plugin
+< Documentation >  maven-install-plugin
+< Documentation >  maven-invoker
+< Documentation >  maven-invoker-plugin
+< Documentation >  maven-jarsigner-plugin
+< Documentation >  maven-osgi
+< Documentation >  maven-plugin-build-helper
+< Documentation >  maven-plugin-bundle
+< Documentation >  maven-plugin-tools
+< Documentation >  maven-project-info-reports-plugin
+< Documentation >  maven-release
+< Documentation >  maven-remote-resources-plugin
+< Documentation >  maven-reporting-exec
+< Documentation >  maven-repository-builder
+< Documentation >  maven-resources-plugin
+< Documentation >  maven-scm
+< Documentation >  maven-shared-incremental
+< Documentation >  maven-shared-jar
+< Documentation >  maven-site-plugin
+< Documentation >  maven-source-plugin
+< Documentation >  maven-surefire
+< Documentation >  maven-verifier
+< Documentation >  maven-verifier-plugin
+< Documentation >  maven-war-plugin
+< Documentation >  mpich
+< Documentation >  msv
+< Documentation >  ntp
+< Documentation >  objectweb-anttask
+< Documentation >  objectweb-asm
+< Documentation >  objectweb-asm4
+< Documentation >  openlmi-providers
+< Documentation >  pangomm
+< Documentation >  %{parent}-%{subname}
+< Documentation >  %{parent}-%{subname}
+< Documentation >  %{parent}-%{subname}
+< Documentation >  %{parent}-%{subname}
+< Documentation >  %{parent}-%{subname}
+< Documentation >  %{parent}-%{subproj}
+< Documentation >  pcsc-lite
+< Documentation >  pki-core
+< Documentation >  plexus-digest
+< Documentation >  plexus-interpolation
+< Documentation >  plexus-io
+< Documentation >  plexus-mail-sender
+< Documentation >  plexus-utils
+< Documentation >  plexus-velocity
+< Documentation >  polkit-qt
+< Documentation >  postgresql-jdbc
+< Documentation >  %{project}-framework
+< Documentation >  %{project}-shell
+< Documentation >  protobuf
+< Documentation >  publican
+< Documentation >  python-cups
+< Documentation >  %{python}-docs
+< Documentation >  python-nss
+< Documentation >  python-%{pkgname}
+< Documentation >  python-reportlab
+< Documentation >  python-smbc
+< Documentation >  python-sphinx
+< Documentation >  python-%{srcname}
+< Documentation >  qdox
+< Documentation >  qpdf
+< Documentation >  quota
+< Documentation >  rhino
+< Documentation >  rngom
+< Documentation >  rubygem-%{gem_name}
+< Documentation >  rubygem-%{gem_name}
+< Documentation >  rubygem-%{gem_name}
+< Documentation >  rubygem-%{gem_name}
+< Documentation >  sblim-cim-client2
+< Documentation >  scannotation
+< Documentation >  %{?scl_prefix}gdb
+< Documentation >  sisu
+< Documentation >  sisu-maven-plugin
+< Documentation >  si-units
+< Documentation >  slf4j
+< Documentation >  snakeyaml
+< Documentation >  stax-ex
+< Documentation >  suitesparse
+< Documentation >  system-config-date-docs
+< Documentation >  system-config-users-docs
+< Documentation >  tagsoup
+< Documentation >  tbb
+< Documentation >  txw2
+< Documentation >  webkitgtk3
+< Documentation >  wordnet
+< Documentation >  wsdl4j
+< Documentation >  ws-jaxme
+< Documentation >  xalan-j2
+< Documentation >  xerces-c
+< Documentation >  xml-commons-apis12
+< Documentation >  xmlgraphics-commons
+< Documentation >  xorg-x11-docs
+< Documentation >  xstream
+< Documentation >  xz-java
+<  >  doxygen
+<  >  dragon
+<  >  efivar
+<  >  empathy
+<  >  eog
+<  >  evince
+<  >  exiv2
+<  >  fabtests
+<  >  felix-bundlerepository
+<  >  felix-osgi-core
+<  >  felix-osgi-foundation
+<  >  file-roller
+<  >  firewalld
+<  >  fltk
+<  >  folks
+<  >  %{fontname}-fonts
+<  >  %{fontname}-fonts
+<  >  %{fontname}-fonts
+<  >  %{fontname}-fonts
+<  >  %{fontname}-fonts
+<  >  fop
+<  >  forge-parent
+<  >  fusesource-pom
+<  >  fwupd
+<  >  fwupdate
+<  >  gcab
+<  >  gdk-pixbuf2
+<  >  gedit
+<  >  genwqe-tools
+<  >  geoclue2
+<  >  geocode-glib
+<  >  geronimo-annotation
+<  >  glade
+<  >  glib2
+<  >  glibmm24
+<  >  glib-networking
+<  >  gl-manpages
+<  >  gnome-backgrounds
+<  >  gnome-bluetooth
+<  >  gnome-boxes
+<  >  gnome-calculator
+<  >  gnome-clocks
+<  >  gnome-color-manager
+<  >  gnome-contacts
+<  >  gnome-desktop3
+<  >  gnome-devel-docs
+<  >  gnome-disk-utility
+<  >  gnome-documents
+<  >  gnome-font-viewer
+<  >  gnome-getting-started-docs
+<  >  gnome-initial-setup
+<  >  gnome-online-accounts
+<  >  gnome-online-miners
+<  >  gnome-screenshot
+<  >  gnome-settings-daemon
+<  >  gnome-software
+<  >  gnome-system-monitor
+<  >  gnome-themes-standard
+<  >  gnome-tweak-tool
+<  >  gnome-weather
+<  >  gnote
+<  >  gobject-introspection
+<  >  golang
+<  >  golang-github-coreos-go-systemd
+<  >  golang-github-godbus-dbus
+<  >  golang-github-gorilla-context
+<  >  golang-github-gorilla-mux
+<  >  golang-github-kr-pty
+<  >  golang-github-syndtr-gocapability
+<  >  golang-googlecode-net
+<  >  golang-googlecode-sqlite
+<  >  golang-%{provider}-%{project}-%{repo}
+<  >  gom
+<  >  grilo
+<  >  grilo-plugins
+<  >  gsettings-desktop-schemas
+<  >  gsound
+<  >  gspell
+<  >  gssdp
+<  >  gstreamer1
+<  >  gstreamer1-plugins-bad-free
+<  >  gstreamer1-plugins-base
+<  >  gstreamer1-plugins-good
+<  >  gstreamer1-plugins-ugly-free
+<  >  gtk3
+<  >  gtk-doc
+<  >  gtkmm24
+<  >  gtkmm30
+<  >  gtksourceview3
+<  >  gtkspell3
+<  >  guava
+<  >  gucharmap
+<  >  gupnp
+<  >  gupnp-av
+<  >  gvfs
+<  >  gwenview
+<  >  harfbuzz
+<  >  hawkey
+<  >  hawtjni
+<  >  hexedit
+<  >  highcontrast-qt
+<  >  hivex
+<  >  http-parser
+<  >  httpunit
+<  >  icoutils
+<  >  ima-evm-utils
+<  >  infiniband-diags
+<  >  ipset
+<  >  isorelax
+<  >  jakarta-oro
+<  >  jansi
+<  >  javacc
+<  >  javacc-maven-plugin
+<  >  javamail
+<  >  javapackages-tools
+<  >  jdependency
+<  >  jetty-artifact-remote-resources
+<  >  jetty-build-support
+<  >  jetty-distribution-remote-resources
+<  >  jetty-test-policy
+<  >  jetty-toolchain
+<  >  jetty-version-maven-plugin
+<  >  jflex
+<  >  jna
+<  >  joda-convert
+<  >  joda-time
+<  >  jose
+<  >  jsoup
+<  >  jsr-305
+<  >  jtidy
+<  >  juk
+<  >  jzlib
+<  >  kaccessible
+<  >  kactivities
+<  >  kamera
+<  >  kate
+<  >  kcalc
+<  >  kcharselect
+<  >  kcolorchooser
+<  >  kcoloredit
+<  >  kdeartwork
+<  >  kde-baseapps
+<  >  kde-base-artwork
+<  >  kdegraphics-strigi-analyzer
+<  >  kdegraphics-thumbnailers
+<  >  kdelibs
+<  >  kdemultimedia
+<  >  kdenetwork
+<  >  kdepim
+<  >  kdepimlibs
+<  >  kdepim-runtime
+<  >  kdeplasma-addons
+<  >  kde-plasma-networkmanagement
+<  >  kde-print-manager
+<  >  kde-runtime
+<  >  kdesdk
+<  >  kde-settings
+<  >  kde-wallpapers
+<  >  kde-workspace
+<  >  kdf
+<  >  keytool-maven-plugin
+<  >  kgamma
+<  >  kgpg
+<  >  kiconedit
+<  >  kmag
+<  >  kmix
+<  >  kmod-kvdo
+<  >  kolourpaint
+<  >  konkretcmpi
+<  >  konsole
+<  >  kross-interpreters
+<  >  kruler
+<  >  ksaneplugin
+<  >  kscreen
+<  >  ksnapshot
+<  >  ktimer
+<  >  kwallet
+<  >  kxml
+<  >  libabw
+<  >  libappindicator
+<  >  libappstream-glib
+<  >  libblockdev
+<  >  libbluedevil
+<  >  libbytesize
+<  >  libcdr
+<  >  libchamplain
+<  >  libcmis
+<  >  libdbusmenu
+<  >  libdnet
+<  >  libepoxy
+<  >  libestr
+<  >  libetonyek
+<  >  libfreehand
+<  >  libgdata
+<  >  libgee
+<  >  libgepub
+<  >  libgexiv2
+<  >  libgnomekbd
+<  >  libgtop2
+<  >  libguestfs
+<  >  libguestfs-winsupport
+<  >  libgusb
+<  >  libgweather
+<  >  libhif
+<  >  libindicator
+<  >  libinput
+<  >  libkcddb
+<  >  libkcompactdisc
+<  >  libkdcraw
+<  >  libkexiv2
+<  >  libkipi
+<  >  libksane
+<  >  libkscreen
+<  >  liblangtag
+<  >  lib%{libname}
+<  >  libmbim
+<  >  libmspub
+<  >  libmwaw
+<  >  libnftnl
+<  >  libnotify
+<  >  libodfgen
+<  >  libopenraw
+<  >  liborcus
+<  >  libpagemaker
+<  >  libpeas
+<  >  libpinyin
+<  >  libreoffice
+<  >  librevenge
+<  >  libsecret
+<  >  libsigc++20
+<  >  libsoup
+<  >  libstaroffice
+<  >  libva
+<  >  libvdpau
+<  >  libverto
+<  >  libvisio
+<  >  libvma
+<  >  libwpd
+<  >  libwpg
+<  >  libwps
+<  >  libxcb
+<  >  libxkbcommon
+<  >  libxshmfence
+<  >  libyami
+<  >  libzapojit
+<  >  libzip
+<  >  libzmf
+<  >  log4j
+<  >  luksmeta
+<  >  lz4
+<  >  mallard-rng
+<  >  maven2
+<  >  maven-archiver
+<  >  maven-artifact-resolver
+<  >  maven-assembly-plugin
+<  >  maven-%{bname}
+<  >  maven-common-artifact-filters
+<  >  maven-dependency-analyzer
+<  >  maven-doxia-tools
+<  >  maven-ejb-plugin
+<  >  maven-enforcer
+<  >  maven-filtering
+<  >  maven-jar-plugin
+<  >  maven-javadoc-plugin
+<  >  maven-jxr
+<  >  maven-parent
+<  >  maven-%{pkgname}
+<  >  maven-plugin-testing
+<  >  maven-reporting-api
+<  >  maven-reporting-impl
+<  >  maven-script-interpreter
+<  >  maven-shade-plugin
+<  >  maven-shared-io
+<  >  maven-shared-utils
+<  >  mdds
+<  >  meanwhile
+<  >  mesa-libGLU
+<  >  modello
+<  >  mojo-parent
+<  >  mpg123
+<  >  munge-maven-plugin
+<  >  mutter
+<  >  nasm
+<  >  nautilus
+<  >  nepomuk-core
+<  >  nepomuk-widgets
+< Networking/Diagnostic >  qperf
+<  >  nftables
+<  >  nss-pem
+<  >  nvme-cli
+<  >  ocaml
+<  >  ocaml-calendar
+<  >  ocaml-camlp4
+<  >  ocaml-csv
+<  >  ocaml-extlib
+<  >  ocaml-fileutils
+<  >  ocaml-findlib
+<  >  ocaml-gettext
+<  >  ocaml-libvirt
+<  >  ocaml-ocamlbuild
+<  >  ocaml-srpm-macros
+<  >  okular
+<  >  opa-ff
+<  >  openjpeg
+<  >  openlmi-networking
+<  >  openlmi-storage
+<  >  openlmi-tools
+<  >  opensm
+<  >  openvswitch
+<  >  oscap-anaconda-addon
+<  >  oscap-anaconda-addon
+<  >  osinfo-db
+<  >  osinfo-db-tools
+<  >  oxygen-icon-theme
+<  >  p11-kit
+<  >  PackageKit
+<  >  pango
+<  >  %{parent}-%{subname}
+<  >  parfait
+<  >  perl-JSON
+<  >  perl-Pod-Plainer
+<  >  perl-Sys-Virt
+<  >  perltidy
+<  >  perl-Unicode-Map8
+<  >  plexus-archiver
+<  >  plexus-build-api
+<  >  plexus-cipher
+<  >  plexus-classworlds
+<  >  plexus-compiler
+<  >  plexus-component-api
+<  >  plexus-i18n
+<  >  plexus-interactivity
+<  >  plexus-sec-dispatcher
+<  >  po4a
+<  >  polkit-kde
+<  >  polkit-pkla-compat
+< Productivity/Clustering/HA >  resource-agents
+< Productivity/Networking/Diagnostic >  perftest
+<  >  pulseaudio
+<  >  pygobject3
+<  >  pykde4
+<  >  pyliblzma
+<  >  PyQt4
+<  >  python-backports
+<  >  python-backports-ssl_match_hostname
+<  >  python-cffi
+<  >  python-di
+<  >  python-gssapi
+<  >  python-jwcrypto
+<  >  python-ntplib
+<  >  python-%{pkgname}
+<  >  python-%{pyname}
+<  >  python-%{pypi_name}
+<  >  python-%{pypi_name}
+<  >  python-%{pypi_name}
+<  >  python-%{pypi_name}
+<  >  python-%{realname}
+<  >  python-requests
+<  >  python-setproctitle
+<  >  python-%{srcname}
+<  >  python-%{srcname}
+<  >  %{python}-twisted-core
+<  >  %{python}-twisted-web
+<  >  %{python}-twisted-words
+<  >  python-yubico
+<  >  qgnomeplatform
+<  >  qrencode
+<  >  Qt5
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-%{qt_module}
+<  >  qt5-qttools
+<  >  raptor2
+<  >  rdma-core
+<  >  realmd
+<  >  redhat-upgrade-dracut
+<  >  relaxngDatatype
+<  >  rest
+<  >  resteasy-base
+<  >  rhythmbox
+<  >  rpmdevtools
+<  >  samba
+<  >  seahorse
+<  >  seahorse-nautilus
+<  >  seahorse-sharing
+<  >  shotwell
+<  >  soprano
+<  >  SpiderMonkey %{mozjs_version}
+<  >  %{srcname}
+<  >  supermin
+<  >  sushi
+<  >  svgpart
+<  >  sweeper
+< System/Base >  dracut
+<  >  system-config-language
+<  >  systemd
+< System Environment/Base >  anaconda-user-help
+< System Environment/Base >  arptables
+< System Environment/Base >  at
+< System Environment/Base >  authconfig
+< System Environment/Base >  basesystem
+< System Environment/Base >  biosdevname
+< System Environment/Base >  bridge-utils
+< System Environment/Base >  ca-certificates
+< System Environment/Base >  centos-logos
+< System Environment/Base >  centos-release
+< System Environment/Base >  centos-release
+< System Environment/Base >  centos-release
+< System Environment/Base >  centos-userland-release
+< System Environment/Base >  cgdcbxd
+< System Environment/Base >  chkconfig
+< System Environment/Base >  cloud-init
+< System Environment/Base >  cloud-utils-growpart
+< System Environment/Base >  color-filesystem
+< System Environment/Base >  conntrack-tools
+< System Environment/Base >  coreutils
+< System Environment/Base >  corosync
+< System Environment/Base >  createrepo
+< System Environment/Base >  cronie
+< System Environment/Base >  crontabs
+< System Environment/Base >  cups-pk-helper
+< System Environment/Base >  deltarpm
+< System Environment/Base >  device-mapper-persistent-data
+< System Environment/Base >  dmidecode
+< System Environment/Base >  dmraid
+< System Environment/Base >  dstat
+< System Environment/Base >  ebtables
+< System Environment/Base >  efibootmgr
+< System Environment/Base >  environment-modules
+< System Environment/Base >  fence-agents
+< System Environment/Base >  fence-virt
+< System Environment/Base >  filesystem
+< System Environment/Base >  firstboot
+< System Environment/Base >  fuseiso
+< System Environment/Base >  gdisk
+< System Environment/Base >  grub2
+< System Environment/Base >  grubby
+< System Environment/Base >  hardlink
+< System Environment/Base >  hmaccalc
+< System Environment/Base >  hostname
+< System Environment/Base >  hwdata
+< System Environment/Base >  initial-setup
+< System Environment/Base >  initscripts
+< System Environment/Base >  ipmitool
+< System Environment/Base >  iprutils
+< System Environment/Base >  ipsilon
+< System Environment/Base >  iptables
+< System Environment/Base >  iptstate
+< System Environment/Base >  irqbalance
+< System Environment/Base >  iw
+< System Environment/Base >  kbd
+< System Environment/Base >  kde-filesystem
+< System Environment/Base >  keyutils
+< System Environment/Base >  krb5
+< System Environment/Base >  linuxptp
+< System Environment/Base >  logrotate
+< System Environment/Base >  lvm2
+< System Environment/Base >  mailcap
+< System Environment/Base >  man-db
+< System Environment/Base >  mcelog
+< System Environment/Base >  mdadm
+< System Environment/Base >  media-player-info
+< System Environment/Base >  memtest86+
+< System Environment/Base >  microcode_ctl
+< System Environment/Base >  mkbootdisk
+< System Environment/Base >  mod_fcgid
+< System Environment/Base >  net-tools
+< System Environment/Base >  NetworkManager
+< System Environment/Base >  NetworkManager-libreswan
+< System Environment/Base >  nss-pam-ldapd
+< System Environment/Base >  nvml
+< System Environment/Base >  openssh
+< System Environment/Base >  os-prober
+< System Environment/Base >  pam_krb5
+< System Environment/Base >  pam_pkcs11
+< System Environment/Base >  passwd
+< System Environment/Base >  pcs
+< System Environment/Base >  pcs
+< System Environment/Base >  pinfo
+< System Environment/Base >  plymouth
+< System Environment/Base >  policycoreutils
+< System Environment/Base >  powerpc-utils
+< System Environment/Base >  ppc64-diag
+< System Environment/Base >  prelink
+< System Environment/Base >  redhat-lsb
+< System Environment/Base >  rfkill
+< System Environment/Base >  rhn-client-tools
+< System Environment/Base >  rhnsd
+< System Environment/Base >  rng-tools
+< System Environment/Base >  rootfiles
+< System Environment/Base >  rpm
+< System Environment/Base >  rtkit
+< System Environment/Base >  sanlock
+< System Environment/Base >  scap-security-guide
+< System Environment/Base >  scap-workbench
+< System Environment/Base >  scrub
+< System Environment/Base >  selinux-policy
+< System Environment/Base >  setools
+< System Environment/Base >  setup
+< System Environment/Base >  sgpio
+< System Environment/Base >  shadow-utils
+< System Environment/Base >  shared-mime-info
+< System Environment/Base >  smartmontools
+< System Environment/Base >  squashfs-tools
+< System Environment/Base >  system-config-date
+< System Environment/Base >  system-config-firewall
+< System Environment/Base >  system-config-kdump
+< System Environment/Base >  system-config-keyboard
+< System Environment/Base >  system-config-kickstart
+< System Environment/Base >  system-config-printer
+< System Environment/Base >  system-storage-manager
+< System Environment/Base >  sysvinit
+< System Environment/Base >  tboot
+< System Environment/Base >  telepathy-filesystem
+< System Environment/Base >  tmpwatch
+< System Environment/Base >  tzdata
+< System Environment/Base >  unoconv
+< System Environment/Base >  virt-who
+< System Environment/Base >  x86info
+< System Environment/Base >  xdg-utils
+< System Environment/Base >  xfsdump
+< System Environment/Base >  xguest
+< System Environment/Base >  yp-tools
+< System Environment/Base >  yum
+< System Environment/Base >  yum-rhn-plugin
+< System Environment/Base >  yum-utils
+< System Environment/Daemons >  acpid
+< System Environment/Daemons >  audit
+< System Environment/Daemons >  authd
+< System Environment/Daemons >  autofs
+< System Environment/Daemons >  bind
+< System Environment/Daemons >  bluez
+< System Environment/Daemons >  booth
+< System Environment/Daemons >  cachefilesd
+< System Environment/Daemons >  certmonger
+< System Environment/Daemons >  chrony
+< System Environment/Daemons >  cups
+< System Environment/Daemons >  dnsmasq
+< System Environment/Daemons >  fedfs-utils
+< System Environment/Daemons >  finger
+< System Environment/Daemons >  freeradius
+< System Environment/Daemons >  ghostscript
+< System Environment/Daemons >  haproxy
+< System Environment/Daemons >  hplip
+< System Environment/Daemons >  httpd
+< System Environment/Daemons >  iputils
+< System Environment/Daemons >  isns-utils
+< System Environment/Daemons >  keepalived
+< System Environment/Daemons >  libreswan
+< System Environment/Daemons >  lm_sensors
+< System Environment/Daemons >  mcstrans
+< System Environment/Daemons >  migrationtools
+< System Environment/Daemons >  mipv6-daemon
+< System Environment/Daemons >  mod_auth_gssapi
+< System Environment/Daemons >  mod_auth_kerb
+< System Environment/Daemons >  mod_auth_mellon
+< System Environment/Daemons >  mod_authnz_pam
+< System Environment/Daemons >  mod_auth_openidc
+< System Environment/Daemons >  mod_intercept_form_submit
+< System Environment/Daemons >  mod_lookup_identity
+< System Environment/Daemons >  mod_nss
+< System Environment/Daemons >  mod_revocator
+< System Environment/Daemons >  mod_security
+< System Environment/Daemons >  mod_security_crs
+< System Environment/Daemons >  netlabel_tools
+< System Environment/Daemons >  net-snmp
+< System Environment/Daemons >  nfs-utils
+< System Environment/Daemons >  numad
+< System Environment/Daemons >  obexd
+< System Environment/Daemons >  obex-data-server
+< System Environment/Daemons >  oddjob
+< System Environment/Daemons >  opa-fm
+< System Environment/Daemons >  pacemaker
+< System Environment/Daemons >  portreserve
+< System Environment/Daemons >  qemu-guest-agent
+< System Environment/Daemons >  quagga
+< System Environment/Daemons >  radvd
+< System Environment/Daemons >  rpcbind
+< System Environment/Daemons >  rp-pppoe
+< System Environment/Daemons >  rsh
+< System Environment/Daemons >  rsyslog
+< System Environment/Daemons >  rsyslog
+< System Environment/Daemons >  rusers
+< System Environment/Daemons >  rwho
+< System Environment/Daemons >  sbd
+< System Environment/Daemons >  slapi-nis
+< System Environment/Daemons >  squid
+< System Environment/Daemons >  talk
+< System Environment/Daemons >  telnet
+< System Environment/Daemons >  tftp
+< System Environment/Daemons >  usbredir
+< System Environment/Daemons >  util-linux
+< System Environment/Daemons >  vsftpd
+< System Environment/Daemons >  wvdial
+< System Environment/Daemons >  xinetd
+< System Environment/Daemons >  ypbind
+< System Environment/Daemons >  ypserv
+< System Environment/Development >  infinipath-psm
+< System Environment/Kernel >  aic94xx-firmware
+< System Environment/Kernel >  fxload
+< System Environment/Kernel >  gfs2-utils
+< System Environment/Kernel >  ivtv-firmware
+< System Environment/Kernel >  kabi-yum-plugins
+< System Environment/Kernel\ >  kernel
+< System Environment/Kernel >  kpatch
+< System Environment/Kernel >  linux-firmware
+< System Environment/Kernel\ >  %{src_pkg_name}
+< System Environment/Libraries >  abrt-java-connector
+< System Environment/Libraries >  alsa-plugins
+< System Environment/Libraries >  augeas
+< System Environment/Libraries >  bind-dyndb-ldap
+< System Environment/Libraries >  bzip2
+< System Environment/Libraries >  ceph-common
+< System Environment/Libraries >  clufter
+< System Environment/Libraries >  compat-dapl
+< System Environment/Libraries >  compat-db
+< System Environment/Libraries >  compat-gcc-32
+< System Environment/Libraries >  compat-gcc-34
+< System Environment/Libraries >  compat-glew
+< System Environment/Libraries >  compat-gnome-bluetooth38
+< System Environment/Libraries >  compat-gnome-desktop38
+< System Environment/Libraries >  compat-libcap1
+< System Environment/Libraries >  compat-libgdata013
+< System Environment/Libraries >  compat-libgfortran-41
+< System Environment/Libraries >  compat-libgweather3
+< System Environment/Libraries >  compat-libtiff3
+< System Environment/Libraries >  compat-libxcb
+< System Environment/Libraries >  compat-openldap
+< System Environment/Libraries >  compat-opensm-libs
+< System Environment/Libraries >  compat-upower09
+< System Environment/Libraries >  coolkey
+< System Environment/Libraries >  cracklib
+< System Environment/Libraries >  %{?cross}binutils%{?_with_debug
+< System Environment/Libraries >  cryptsetup
+< System Environment/Libraries >  cyrus-sasl
+< System Environment/Libraries >  dapl
+< System Environment/Libraries >  festival-freebsoft-utils
+< System Environment/Libraries >  fipscheck
+< System Environment/Libraries >  foomatic
+< System Environment/Libraries >  foomatic-db
+< System Environment/Libraries >  fribidi
+< System Environment/Libraries >  gcc-libraries
+< System Environment/Libraries >  geoclue
+< System Environment/Libraries >  glew
+< System Environment/Libraries >  gnome-vfs2
+< System Environment/Libraries >  gnome-video-effects
+< System Environment/Libraries >  gssproxy
+< System Environment/Libraries >  ibus-chewing
+< System Environment/Libraries >  ibus-hangul
+< System Environment/Libraries >  ibus-kkc
+< System Environment/Libraries >  ibus-libpinyin
+< System Environment/Libraries >  ibus-m17n
+< System Environment/Libraries >  ibus-rawcode
+< System Environment/Libraries >  ibus-sayura
+< System Environment/Libraries >  ibus-table-chinese
+< System Environment/Libraries >  ibus-typing-booster
+< System Environment/Libraries >  ibutils
+< System Environment/Libraries >  ipa
+< System Environment/Libraries >  kio_sysinfo
+< System Environment/Libraries >  libevdev
+< System Environment/Libraries >  libfabric
+< System Environment/Libraries >  libibcommon
+< System Environment/Libraries >  libibmad
+< System Environment/Libraries >  libieee1284
+< System Environment/Libraries >  libmtp
+< System Environment/Libraries >  libpsm2
+< System Environment/Libraries >  libstoragemgmt
+< System Environment/Libraries >  libtranslit
+< System Environment/Libraries >  libusnic_verbs
+< System Environment/Libraries >  libwacom
+< System Environment/Libraries >  lksctp-tools
+< System Environment/Libraries >  llvm-private
+< System Environment/Libraries >  lockdev
+< System Environment/Libraries >  lua
+< System Environment/Libraries >  m17n-contrib
+< System Environment/Libraries >  m17n-lib
+< System Environment/Libraries >  m2crypto
+< System Environment/Libraries >  mesa
+< System Environment/Libraries >  mesa-private-llvm
+< System Environment/Libraries >  mod_wsgi
+< System Environment/Libraries >  mtdev
+< System Environment/Libraries >  mysql-connector-java
+< System Environment/Libraries >  mysql-connector-odbc
+< System Environment/Libraries >  ndctl
+< System Environment/Libraries >  netcf
+< System Environment/Libraries >  numactl
+< System Environment/Libraries >  nuxwdog
+< System Environment/Libraries >  opencryptoki
+< System Environment/Libraries >  OpenEXR
+< System Environment/Libraries >  openobex
+< System Environment/Libraries >  opensc
+< System Environment/Libraries >  openssl098e
+< System Environment/Libraries >  pciutils
+< System Environment/Libraries >  pcsc-lite-ccid
+< System Environment/Libraries >  perl-Newt
+< System Environment/Libraries >  phonon
+< System Environment/Libraries >  phonon-backend-gstreamer
+< System Environment/Libraries >  php
+< System Environment/Libraries >  pykickstart
+< System Environment/Libraries >  PyOpenGL
+< System Environment/Libraries >  pyparted
+< System Environment/Libraries >  python-blivet
+< System Environment/Libraries >  python-configobj
+< System Environment/Libraries >  python-configshell
+< System Environment/Libraries >  python-coverage
+< System Environment/Libraries >  python-dmidecode
+< System Environment/Libraries >  python-dtopt
+< System Environment/Libraries >  python-ethtool
+< System Environment/Libraries >  python-kerberos
+< System Environment/Libraries >  python-ldap
+< System Environment/Libraries >  python-linux-procfs
+< System Environment/Libraries >  python-meh
+< System Environment/Libraries >  python-%{oname}
+< System Environment/Libraries >  python-paste
+< System Environment/Libraries >  python-pillow
+< System Environment/Libraries >  python-ply
+< System Environment/Libraries >  python-pyasn1
+< System Environment/Libraries >  python-pycparser
+< System Environment/Libraries >  python-%{realname}
+< System Environment/Libraries >  python-rtslib
+< System Environment/Libraries >  python-schedutils
+< System Environment/Libraries >  python-slip
+< System Environment/Libraries >  python-%{srcname}
+< System Environment/Libraries >  python-%{srcname}
+< System Environment/Libraries >  python-%{srcname}
+< System Environment/Libraries >  python-webob
+< System Environment/Libraries >  qca-ossl
+< System Environment/Libraries >  qimageblitz
+< System Environment/Libraries >  Qt
+< System Environment/Libraries >  redland
+< System Environment/Libraries >  sane-backends
+< System Environment/Libraries >  %{?scl_prefix}%{?cross}binutils%{?_with_debug
+< System Environment/Libraries >  sendmail
+< System Environment/Libraries >  skkdic
+< System Environment/Libraries >  targetcli
+< System Environment/Libraries >  targetd
+< System Environment/Libraries >  tomcatjss
+< System Environment/Libraries >  volume_key
+< System Environment/Libraries >  words
+< System Environment/Libraries >  xcb-util
+< System Environment/Libraries >  xcb-util-image
+< System Environment/Libraries >  xcb-util-keysyms
+< System Environment/Libraries >  xcb-util-renderutil
+< System Environment/Libraries >  xcb-util-wm
+< System Environment/Libraries >  xorg-x11-xtrans-devel
+< System Environment/Shells >  ksh
+< System Environment/Shells >  mc
+< System Environment/Shells >  mksh
+< System Environment/Shells >  tcsh
+< System Environment/Shells >  zsh
+< System/Kernel >  %{kmod_name}
+<  >  taglib
+<  >  tang
+<  >  testng
+<  >  tex-fonts-hebrew
+<  >  totem
+<  >  totem-pl-parser
+<  >  tpm2-abrmd
+<  >  tpm2-tools
+<  >  tpm2-tss
+<  >  tracker
+<  >  tuned
+<  >  unicode-ucd
+<  >  unit-api
+<  >  uom-lib
+<  >  uom-parent
+<  >  uom-se
+<  >  uom-systems
+< User Interface/Desktop >  gnome-session
+< User Interface/Desktops >  fonts-tweak-tool
+< User Interface/Desktops >  gnome-abrt
+< User Interface/Desktops >  gnome-icon-theme-extras
+< User Interface/Desktops >  gnome-icon-theme-symbolic
+< User Interface/Desktops >  gnome-shell
+< User Interface/Desktops >  gnome-shell-extensions
+< User Interface/Desktops >  gnome-terminal
+< User Interface/Desktops >  hicolor-icon-theme
+< User Interface/Desktops >  kcm-gtk
+< User Interface/Desktops >  kdeaccessibility
+< User Interface/Desktops >  kdeadmin
+< User Interface/Desktops >  kde-l10n
+< User Interface/Desktops >  matchbox-window-manager
+< User Interface/Desktops >  mousetweaks
+< User Interface/Desktops >  nautilus-sendto
+< User Interface/Desktops >  orca
+< User Interface/Desktops >  oxygen-gtk
+< User Interface/Desktops >  oxygen-gtk2
+< User Interface/Desktops >  oxygen-gtk3
+< User Interface/Desktops >  redhat-menus
+< User Interface/Desktops >  sound-theme-freedesktop
+< User Interface/Desktops >  xdg-user-dirs
+< User Interface/Desktops >  xdg-user-dirs-gtk
+< User Interface/Desktops >  xsettings-kde
+< User Interfaces/Desktops >  kcm_touchpad
+< User Interface/X >  bitmap-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  %{fontname}-fonts
+< User Interface/X >  ghostscript-chinese
+< User Interface/X Hardware Support >  xorg-x11-drivers
+< User Interface/X Hardware Support >  xorg-x11-drv-ati
+< User Interface/X Hardware Support >  xorg-x11-drv-dummy
+< User Interface/X Hardware Support >  xorg-x11-drv-fbdev
+< User Interface/X Hardware Support >  xorg-x11-drv-keyboard
+< User Interface/X Hardware Support >  xorg-x11-drv-nouveau
+< User Interface/X Hardware Support >  xorg-x11-drv-qxl
+< User Interface/X Hardware Support >  xorg-x11-drv-v4l
+< User Interface/X Hardware Support >  xorg-x11-drv-vesa
+< User Interface/X Hardware Support >  xorg-x11-drv-vmmouse
+< User Interface/X Hardware Support >  xorg-x11-drv-vmware
+< User Interface/X Hardware Support >  xorg-x11-drv-void
+< User Interface/X >  html2ps
+< User Interface/X >  icc-profiles-openicc
+< User Interface/X >  imake
+< User Interface/X >  tigervnc
+< User Interface/X >  urw-fonts
+< User Interface/X >  xkeyboard-config
+< User Interface/X >  xorg-x11-fonts
+< User Interface/X >  xorg-x11-%{pkgname}
+< User Interface/X >  xorg-x11-%{pkgname}
+< User Interface/X >  xorg-x11-%{pkgname}
+< User Interface/X >  xorg-x11-%{pkgname}
+< User Interface/X >  xorg-x11-%{pkgname}
+< User Interface/X >  xorg-x11-%{pkgname}
+< User Interface/X >  xterm
+< User Interface/X >  xvattr
+<  >  vala
+<  >  vdo
+<  >  vino
+<  >  virt-p2v
+<  >  virt-top
+<  >  virt-what
+<  >  vte291
+<  >  vulkan
+<  >  watchdog
+<  >  wayland
+<  >  wayland-protocols
+<  >  webkitgtk4
+<  >  webrtc-audio-processing
+<  >  ws-commons-util
+<  >  xbean
+<  >  xdg-desktop-portal
+<  >  xdg-desktop-portal-gtk
+<  >  xml-commons-apis
+<  >  xml-commons-resolver
+<  >  xmlrpc
+<  >  xmlunit
+<  >  xmvn
+<  >  xorg-x11-drv-libinput
+<  >  xorg-x11-server-utils
+<  >  xpp3
+<  >  zenity
