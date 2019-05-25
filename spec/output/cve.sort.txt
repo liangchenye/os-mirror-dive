@@ -1,0 +1,22 @@
+ 89 41
+Applications/Archiving 5 3
+Applications/Databases 156 17
+Applications/Editors 9 8
+Applications/File 35 13
+Applications/Internet 501 316
+Applications/Multimedia 26 17
+Applications/System 47 16
+Applications/Text 13 3
+Development/Debug 24 16
+Development/Debuggers 1 1
+Development/Languages 20 15
+Development/Libraries 316 146
+Development/Tools 66 42
+Documentation 250 99
+System Environment/Base 54 21
+System Environment/Daemons 95 65
+System Environment/Kernel\ 277 111
+System Environment/Libraries 84 37
+System Environment/Shells 8 7
+User Interface/Desktops 1 1
+User Interface/X 9 8
