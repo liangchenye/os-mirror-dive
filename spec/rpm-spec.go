@@ -143,11 +143,17 @@ func RPMSpecNew(filename string) (RPMSpec, error) {
         	        field := strings.TrimSpace(infos[0])
 	                value := strings.TrimSpace(infos[1])
         	        if field == "Name" {
-	                        rs.Name = value
+				if len(rs.Name) < 2 {
+		                        rs.Name = value
+				}
         	        } else if field == "Version" {
-                	        rs.Version = value
+				if len(rs.Version) < 2 {
+	                	        rs.Version = value
+				}
         	        } else if field == "Group" {
-                	        rs.Group = value
+				if len(rs.Group) < 2 {
+	                	        rs.Group = value
+				}
 	                }
 		}
 
@@ -337,7 +343,11 @@ func DataMineGroupEfforts() {
 
 func DataMineGroupPackage() {
 	for _, rs := range globalSpecs {
-		fmt.Println("<", rs.Group, "> ", rs.Name)
+		if len(rs.Group) < 2 {
+			fmt.Println("Unknown", "\t", rs.Name)
+		} else {
+			fmt.Println(rs.Group, "\t", rs.Name)
+		}
 	}
 }
 
@@ -409,6 +419,37 @@ func DataMineTest() {
 }
 
 func DataMineGroupCVE(infos []CVEInfo) {
+	groupCVETotal := make(map[string]int)
+	groupCVEHigh := make(map[string]int)
+
+	specMap := make(map[string]RPMSpec)
+	for _, rs := range globalSpecs {
+		specMap[rs.Name] = rs
+	}
+
+	for _, cveInfo := range infos {
+		rs, ok := specMap[cveInfo.Name]
+		if !ok {
+//			fmt.Println("Cannot find the matched ", cveInfo.Name)
+			continue
+		}
+		total := cveInfo.Total
+		high := cveInfo.High
+		if val, ok := groupCVETotal[rs.Group]; ok {
+			groupCVETotal[rs.Group] = val + total
+		} else {
+			groupCVETotal[rs.Group] = total
+		}
+		if val, ok := groupCVEHigh[rs.Group]; ok {
+			groupCVEHigh[rs.Group] = val + high
+		} else {
+			groupCVEHigh[rs.Group] = high
+		}
+	}
+
+	for key, value := range groupCVETotal {
+		fmt.Println(key, value, groupCVEHigh[key])
+	}
 }
 
 func main() {
@@ -428,11 +469,11 @@ func main() {
 //	DataMineGroup()
 //	DataMineDev()
 //	DataMineGroupEfforts()
-//	DataMineGroupPackage()
+	DataMineGroupPackage()
 
 
-	infos := ReadCVEFile("cve.txt")	
-	DataMineGroupCVE(infos)
+//	infos := ReadCVEFile("cve.txt")	
+//	DataMineGroupCVE(infos)
 }
 
 

@@ -1,5 +1,6 @@
 Applications/Archiving 	 cpio
 Applications/Archiving 	 dump
+Applications/Archiving 	 k3b
 Applications/Archiving 	 lzop
 Applications/Archiving 	 pax
 Applications/Archiving 	 sharutils
@@ -8,28 +9,35 @@ Applications/Archiving 	 tar
 Applications/Archiving 	 udftools
 Applications/Archiving 	 unzip
 Applications/Archiving 	 zip
+Applications/Archiving 	 zziplib
+Applications/Communications 	 compat-gnome-bluetooth38
 Applications/Communications 	 efax
 Applications/Communications 	 ekiga
+Applications/Communications 	 freerdp
+Applications/Communications 	 irssi
 Applications/Communications 	 lrzsz
 Applications/Communications 	 mgetty
 Applications/Communications 	 minicom
 Applications/Communications 	 telepathy-gabble
 Applications/Communications 	 telepathy-haze
+Applications/Communications 	 telepathy-logger
 Applications/Communications 	 telepathy-salut
+Applications/Databases 	 hsqldb
 Applications/Databases 	 mariadb
 Applications/Databases 	 postgresql
+Applications/Databases 	 postgresql-jdbc
 Applications/Databases 	 postgresql-odbc
 Applications/Databases 	 PyGreSQL
 Applications/Databases 	 python-psycopg2
 Applications/Databases 	 rhdb-utils
+Applications/Databases 	 rrdtool
+Applications/Databases 	 sqlite3
 Applications/Databases 	 tcl-pgtcl
 Applications/Databases 	 virtuoso-opensource
-Applications/Editors 	 a2ps
 Applications/Editors 	 emacs
+Applications/Editors 	 emacs-auctex
 Applications/Editors 	 emacs-php-mode
 Applications/Editors 	 gedit-plugins
-Applications/Editors 	 gettext
-Applications/Editors 	 git
 Applications/Editors 	 nano
 Applications/Editors 	 vim
 Applications/Emulators 	 advancecomp
@@ -40,28 +48,34 @@ Applications/Emulators 	 SLOF
 Applications/Emulators 	 virt-manager
 Applications/Engineering 	 bc
 Applications/Engineering 	 gnuplot
+Applications/Engineering 	 mpitests
 Applications/Engineering 	 units
+Applications/File 	 bzip2
+Applications/File 	 file
 Applications/File 	 filebench
 Applications/File 	 findutils
-Applications/File 	 glusterfs
 Applications/File 	 gzip
-Applications/File 	 libarchive
-Applications/File 	 libreport
 Applications/File 	 ncompress
 Applications/File 	 pngcrush
 Applications/File 	 rear
+Applications/File 	 recode
 Applications/File 	 scl-utils
 Applications/File 	 tree
+Applications/File 	 xz
 Applications/Internet 	 bogofilter
 Applications/Internet 	 centos-bookmarks
+Applications/Internet 	 curl
 Applications/Internet 	 elinks
 Applications/Internet 	 esc
 Applications/Internet 	 fetchmail
+Applications/Internet 	 finger
 Applications/Internet 	 firefox
 Applications/Internet 	 ftp
-Applications/Internet 	 gnupg2
+Applications/Internet 	 icedtea-web
+Applications/Internet 	 iperf3
 Applications/Internet 	 ksshaskpass
 Applications/Internet 	 lftp
+Applications/Internet 	 libquvi
 Applications/Internet 	 libquvi-scripts
 Applications/Internet 	 lynx
 Applications/Internet 	 mailman
@@ -72,69 +86,90 @@ Applications/Internet 	 mtr
 Applications/Internet 	 mutt
 Applications/Internet 	 netsniff-ng
 Applications/Internet 	 omping
-Applications/Internet 	 openldap
-Applications/Internet 	 openssl
+Applications/Internet 	 openssh
 Applications/Internet 	 pidgin
 Applications/Internet 	 pidgin-sipe
 Applications/Internet 	 pptp
 Applications/Internet 	 procmail
+Applications/Internet 	 rsh
 Applications/Internet 	 rsync
 Applications/Internet 	 socat
 Applications/Internet 	 spamassassin
-Applications/Internet 	 spice-gtk
 Applications/Internet 	 spice-xpi
 Applications/Internet 	 stunnel
-Applications/Internet 	 syslinux
+Applications/Internet 	 talk
 Applications/Internet 	 tcpdump
+Applications/Internet 	 telnet
+Applications/Internet 	 tftp
 Applications/Internet 	 thunderbird
-Applications/Internet 	 tomcat
+Applications/Internet 	 tn5250
 Applications/Internet 	 traceroute
 Applications/Internet 	 urlview
 Applications/Internet 	 wget
 Applications/Internet 	 whois
+Applications/Internet 	 wireshark
 Applications/Internet 	 x3270
 Applications/Internet 	 xchat
-Applications/Internet 	 xmlrpc-c
-Applications 	 mpitests
+Applications/Internet 	 xulrunner
 Applications/Multimedia 	 alsa-firmware
+Applications/Multimedia 	 alsa-tools
 Applications/Multimedia 	 alsa-utils
+Applications/Multimedia 	 autotrace
+Applications/Multimedia 	 batik
+Applications/Multimedia 	 brasero
+Applications/Multimedia 	 cdparanoia
 Applications/Multimedia 	 cdrdao
 Applications/Multimedia 	 compat-grilo02
 Applications/Multimedia 	 dcraw
 Applications/Multimedia 	 dvd+rw-tools
 Applications/Multimedia 	 dvgrab
-Applications/Multimedia 	 giflib
+Applications/Multimedia 	 espeak
+Applications/Multimedia 	 festival
+Applications/Multimedia 	 flac
+Applications/Multimedia 	 flite
 Applications/Multimedia 	 gimp
 Applications/Multimedia 	 gimp-data-extras
 Applications/Multimedia 	 graphviz
 Applications/Multimedia 	 gstreamer
+Applications/Multimedia 	 gstreamer-plugins-bad-free
+Applications/Multimedia 	 %{gstreamer}-plugins-base
 Applications/Multimedia 	 %{gstreamer}-plugins-good
-Applications/Multimedia 	 libburn
-Applications/Multimedia 	 libiec61883
-Applications/Multimedia 	 libsndfile
-Applications/Multimedia 	 libtheora
-Applications/Multimedia 	 netpbm
+Applications/Multimedia 	 ImageMagick
+Applications/Multimedia 	 kdegraphics
+Applications/Multimedia 	 libvisual
 Applications/Multimedia 	 optipng
 Applications/Multimedia 	 pavucontrol
 Applications/Multimedia 	 pngnq
-Applications/Multimedia 	 speex
+Applications/Multimedia 	 sox
 Applications/Multimedia 	 transfig
 Applications/Multimedia 	 vorbis-tools
+Applications/Multimedia 	 wavpack
 Applications/Multimedia 	 xsane
 Applications/Productivity 	 evolution
 Applications/Productivity 	 evolution-ews
+Applications/Productivity 	 evolution-mapi
+Applications/Productivity 	 inkscape
+Applications/Productivity 	 lcms2
+Applications/Productivity 	 libpst
 Applications/Productivity 	 libreoffice-voikko
-Applications/Publishing 	 emacs-auctex
+Applications/Productivity 	 openoffice.org-dict-cs_CZ
+Applications/Productivity 	 strigi
+Applications/Publishing 	 a2ps
 Applications/Publishing 	 enscript
+Applications/Publishing 	 fontforge
+Applications/Publishing 	 ghostscript
 Applications/Publishing 	 ghostscript-fonts
-Applications/Publishing 	 gutenprint
+Applications/Publishing 	 groff
+Applications/Publishing 	 html2ps
 Applications/Publishing 	 latex2html
-Applications/Publishing 	 libexttextcat
 Applications/Publishing 	 linuxdoc-tools
 Applications/Publishing 	 mpage
+Applications/Publishing 	 paps
 Applications/Publishing 	 passivetex
 Applications/Publishing 	 pnm2ppa
 Applications/Publishing 	 psutils
+Applications/Publishing 	 publican
+Applications/Publishing 	 t1lib
 Applications/Publishing 	 t1utils
 Applications/Publishing 	 texinfo
 Applications/Publishing 	 texlive
@@ -143,17 +178,21 @@ Applications/Publishing 	 yelp-tools
 Applications/System 	 abrt
 Applications/System 	 aide
 Applications/System 	 alacarte
-Applications/System 	 alsa-tools
 Applications/System 	 amanda
+Applications/System 	 anaconda
+Applications/System 	 anaconda
+Applications/System 	 apache-%{short_name}
 Applications/System 	 arpwatch
 Applications/System 	 asciidoc
-Applications/System 	 bacula
 Applications/System 	 bltk
+Applications/System 	 bluez
+Applications/System 	 cdrkit
 Applications/System 	 comps-extras
 Applications/System 	 conman
 Applications/System 	 console-setup
 Applications/System 	 crypto-utils
-Applications/System 	 cyrus-imapd
+Applications/System 	 cryptsetup
+Applications/System 	 dialog
 Applications/System 	 dosfstools
 Applications/System 	 dropwatch
 Applications/System 	 ethtool
@@ -164,22 +203,28 @@ Applications/System 	 fros
 Applications/System 	 gconf-editor
 Applications/System 	 gnome-packagekit
 Applications/System 	 gnome-system-log
-Applications/System 	 gnu-efi
+Applications/System 	 gnupg2
+Applications/System 	 gpgme
 Applications/System 	 hdparm
-Applications/System 	 hyperv-daemons
+Applications/System 	 hwloc
 Applications/System 	 i2c-tools
 Applications/System 	 im-chooser
 Applications/System 	 imsettings
 Applications/System 	 iok
 Applications/System 	 iotop
+Applications/System 	 iproute
 Applications/System 	 iptraf-ng
 Applications/System 	 ipvsadm
+Applications/System 	 isdn4k-utils
+Applications/System 	 isomd5sum
+Applications/System 	 ixpdimm_sw
 Applications/System 	 kdeutils
 Applications/System 	 kexec-tools
 Applications/System 	 latencytop
 Applications/System 	 ledmon
-Applications/System 	 libhugetlbfs
+Applications/System 	 liblockfile
 Applications/System 	 linuxconsoletools
+Applications/System 	 lm_sensors
 Applications/System 	 logwatch
 Applications/System 	 lorax
 Applications/System 	 lshw
@@ -190,25 +235,26 @@ Applications/System 	 mtools
 Applications/System 	 mt-st
 Applications/System 	 mtx
 Applications/System 	 %{name}
+Applications/System 	 network-manager-applet
 Applications/System 	 nfs4-acl-tools
 Applications/System 	 nfsometer
 Applications/System 	 nfstest
 Applications/System 	 nmap
 Applications/System 	 nvmetcli
-Applications/System 	 opal-prd
 Applications/System 	 openchange
 Applications/System 	 opendnssec
-Applications/System 	 openscap
+Applications/System 	 open-vm-tools
+Applications/System 	 openwsman
+Applications/System 	 parted
 Applications/System 	 patchutils
+Applications/System 	 pciutils
 Applications/System 	 pcp
 Applications/System 	 pinentry
-Applications/System 	 postfix
 Applications/System 	 powertop
 Applications/System 	 procps-ng
 Applications/System 	 psacct
 Applications/System 	 ps_mem
 Applications/System 	 psmisc
-Applications/System 	 python
 Applications/System 	 python-setuptools
 Applications/System 	 rasdaemon
 Applications/System 	 rdate
@@ -234,34 +280,43 @@ Applications/System 	 setroubleshoot
 Applications/System 	 setroubleshoot-plugins
 Applications/System 	 setserial
 Applications/System 	 setuptool
+Applications/System 	 sg3_utils
+Applications/System 	 snapper
+Applications/System 	 softhsm
 Applications/System 	 sos
 Applications/System 	 spice-vdagent
 Applications/System 	 sssd
 Applications/System 	 strongimcv
+Applications/System 	 sudo
 Applications/System 	 symlinks
+Applications/System 	 syslinux
 Applications/System 	 sysstat
 Applications/System 	 system-config-users
 Applications/System 	 system-switch-java
 Applications/System 	 time
 Applications/System 	 tmux
+Applications/System 	 tncfhh
 Applications/System 	 tpm-quote-tools
+Applications/System 	 tpm-tools
 Applications/System 	 ttmkfdir
 Applications/System 	 tuna
-Applications/System 	 unbound
-Applications/System 	 usbguard
 Applications/System 	 usb_modeswitch
 Applications/System 	 usb_modeswitch-data
 Applications/System 	 usbmuxd
 Applications/System 	 usbutils
 Applications/System 	 usermode
+Applications/System 	 v4l-utils
 Applications/System 	 vinagre
 Applications/System 	 virt-viewer
+Applications/System 	 volume_key
 Applications/System 	 which
-Applications/System 	 wpa_supplicant
 Applications/System 	 wsmancli
 Applications/System 	 xferstats
 Applications/System 	 xmlto
+Applications/System 	 xvattr
+Applications/System 	 yelp
 Applications/System 	 yelp-xsl
+Applications/Text 	 aspell
 Applications/Text 	 diffutils
 Applications/Text 	 docbook5-schemas
 Applications/Text 	 docbook5-style-xsl
@@ -274,6 +329,7 @@ Applications/Text 	 docbook-utils
 Applications/Text 	 dos2unix
 Applications/Text 	 ed
 Applications/Text 	 gawk
+Applications/Text 	 gnome-dictionary
 Applications/Text 	 grep
 Applications/Text 	 hspell
 Applications/Text 	 hunspell-af
@@ -397,7 +453,6 @@ Applications/Text 	 hunspell-wa
 Applications/Text 	 hunspell-xh
 Applications/Text 	 hunspell-yi
 Applications/Text 	 hunspell-zu
-Applications/Text 	 hyphen
 Applications/Text 	 hyphen-as
 Applications/Text 	 hyphen-bg
 Applications/Text 	 hyphen-bn
@@ -447,8 +502,6 @@ Applications/Text 	 hyphen-uk
 Applications/Text 	 indent
 Applications/Text 	 jing-trang
 Applications/Text 	 less
-Applications/Text 	 libgxps
-Applications/Text 	 libtasn1
 Applications/Text 	 m4
 Applications/Text 	 malaga-suomi-voikko
 Applications/Text 	 mythes-bg
@@ -476,19 +529,16 @@ Applications/Text 	 mythes-sv
 Applications/Text 	 mythes-uk
 Applications/Text 	 openjade
 Applications/Text 	 openoffice
-Applications/Text 	 openoffice.org-dict-cs_CZ
-Applications/Text 	 poppler
+Applications/Text 	 opensp
 Applications/Text 	 publican-redhat
 Applications/Text 	 saxon
 Applications/Text 	 sed
 Applications/Text 	 sgml-common
 Applications/Text 	 texi2html
+Applications/Text 	 wordnet
 Applications/Text 	 xhtml1-dtds
 Applications/Text 	 xhtml2fo-style-xsl
 Applications/Text 	 zaf
-devel 	 icedtea-web
-Development/C 	 libmatchbox
-Development/Debug 	 gcc
 Development/Debuggers 	 crash
 Development/Debuggers 	 crash-gcore-command
 Development/Debuggers 	 crash-ptdump-command
@@ -498,62 +548,58 @@ Development/Debuggers 	 libunwind
 Development/Debuggers 	 lsof
 Development/Debuggers 	 ltrace
 Development/Debuggers 	 memstomp
+Development/Debuggers 	 %{?scl_prefix}gdb
 Development/Debuggers 	 %{?scl_prefix}valgrind
 Development/Debuggers 	 strace
-Development/Debug 	 glibc
 Development/Debug 	 shim
 Development/Debug\ 	 shim-signed
-Development/Debug 	 tog-pegasus
-Development/Documentation 	 bea-stax
-Development Documentation 	 flute
-Development/Documentation 	 gnu-getopt
-Development/Documentation 	 grantlee
-Development/Documentation 	 jaxen
-Development/Documentation 	 ldapjdk
-Development/Documentation 	 libbase
-Development/Documentation 	 libfonts
-Development/Documentation 	 libformula
-Development/Documentation 	 liblayout
-Development/Documentation 	 libloader
-Development/Documentation 	 librepository
-Development/Documentation 	 libserializer
-Development/Documentation 	 libvirt-java
-Development/Documentation 	 pentaho-libxml
-Development/Documentation 	 pentaho-reporting-flow-engine
-Development/Java 	 regexp
-Development/Java 	 sac
+Development/Java 	 ldapjdk
+Development/Java 	 plexus-velocity
 Development/Languages 	 acpica-tools
 Development/Languages 	 babel
-Development/Languages 	 bash
-Development/Languages 	 cmpi-bindings
+Development/Languages 	 compat-gcc-32
+Development/Languages 	 compat-gcc-34
 Development/Languages 	 compat-gcc-44
-Development/Languages 	 criu
+Development/Languages 	 easymock2
 Development/Languages 	 ecj
 Development/Languages 	 expect
+Development/Languages 	 gcc
 Development/Languages 	 gcc48
 Development/Languages 	 gnome-python2
-Development/Languages 	 libgpod
-Development/Languages 	 libpfm
-Development/Languages 	 librepo
+Development/Languages 	 groovy
+Development/Languages 	 gstreamer-python
+Development/Languages 	 guile
+Development/Languages 	 java
+Development/Languages 	 jre
+Development/Languages 	 js
+Development/Languages 	 lua
+Development/Languages 	 malaga
+Development/Languages 	 mozjs17
+Development/Languages 	 mozjs24
+Development/Languages 	 numpy
+Development/Languages 	 OpenJDK
 Development/Languages 	 perl
 Development/Languages 	 pexpect
+Development/Languages 	 php
 Development/Languages 	 php-pear
 Development/Languages 	 php-pecl-memcache
 Development/Languages 	 pyatspi
+Development/Languages 	 pycairo
 Development/Languages 	 pygobject2
 Development/Languages 	 pygpgme
 Development/Languages 	 pygtk2
 Development/Languages 	 pyorbit
 Development/Languages 	 pytest
+Development/Languages 	 python
 Development/Languages 	 python-augeas
 Development/Languages 	 python-beaker
 Development/Languages 	 python-chardet
 Development/Languages 	 python-cpio
+Development/Languages 	 python-cups
 Development/Languages 	 python-dateutil
 Development/Languages 	 python-decorator
 Development/Languages 	 python-dns
 Development/Languages 	 python-fpconst
-Development/Languages 	 python-inotify
 Development/Languages 	 python-ipaddr
 Development/Languages 	 python-jinja2
 Development/Languages 	 python-kitchen
@@ -564,157 +610,118 @@ Development/Languages 	 python-memcached
 Development/Languages 	 python-%{modname}
 Development/Languages 	 python-%{modulename}
 Development/Languages 	 python-nose
+Development/Languages 	 python-nss
 Development/Languages 	 python-py
 Development/Languages 	 python-pycurl
 Development/Languages 	 python-pyudev
 Development/Languages 	 python-%{realname}
 Development/Languages 	 python-six
+Development/Languages 	 python-smbc
 Development/Languages 	 python-%{srcname}
 Development/Languages 	 python-tempita
-Development/Languages 	 python-urwid
 Development/Languages 	 python-virtualenv
 Development/Languages 	 python-webtest
 Development/Languages 	 python-which
 Development/Languages 	 pytz
 Development/Languages 	 pyusb
-Development/Languages 	 rarian
-Development/Languages 	 rrdtool
+Development/Languages 	 qjson
 Development/Languages 	 ruby
+Development/Languages 	 rubygem
+Development/Languages 	 rubygem-bundler
+Development/Languages 	 rubygem-%{gem_name}
+Development/Languages 	 rubygems
 Development/Languages 	 SOAPpy
-Development/Languages 	 sqlite3
 Development/Languages 	 tcl
 Development/Languages 	 tclx
 Development/Languages 	 tix
 Development/Languages 	 tk
-Development/Libraries 	 389-ds-base
-Development/Libraries 	 accountsservice
-Development/Libraries 	 acl
-Development/Libraries 	 agg
-Development/Libraries 	 alsa-lib
-Development/Libraries 	 anaconda
-Development/Libraries 	 anaconda
+Development/Languages 	 yasm
 Development/Libraries 	 ant-%{base_name}
-Development/Libraries 	 antlr
+Development/Libraries 	 ant-contrib
+Development/Libraries 	 apache-commons-exec
+Development/Libraries 	 apache-%{jarname}
 Development/Libraries 	 apache-parent
+Development/Libraries 	 apache-rat
 Development/Libraries 	 apache-resource-bundles
 Development/Libraries 	 apache-%{short_name}
-Development/Libraries 	 apr
-Development/Libraries 	 apr-util
-Development/Libraries 	 aspell
-Development/Libraries 	 atlas
-Development/Libraries 	 at-spi
-Development/Libraries 	 attr
-Development/Libraries 	 audiofile
-Development/Libraries 	 autogen
-Development/Libraries 	 autotrace
-Development/Libraries 	 bison
-Development/Libraries 	 brasero
-Development/Libraries 	 btrfs-progs
+Development/Libraries 	 apache-%{short_name}
+Development/Libraries 	 apache-%{short_name}
+Development/Libraries 	 apache-%{short_name}
+Development/Libraries 	 apache-%{short_name}
+Development/Libraries 	 apache-%{short_name}
+Development/Libraries 	 apache-%{short_name}
+Development/Libraries 	 apache-%{short_name}
+Development/Libraries 	 apache-%{short_name}
+Development/Libraries 	 apache-%{short_name}
+Development/Libraries 	 avalon-%{short_name}
+Development/Libraries 	 avalon-%{short_name}
+Development/Libraries 	 beust-%{short_name}
+Development/Libraries 	 bsf
+Development/Libraries 	 buildnumber-maven-plugin
 Development/Libraries 	 bwidget
 Development/Libraries 	 byaccj
-Development/Libraries 	 c-ares
-Development/Libraries 	 cdparanoia
-Development/Libraries 	 cdrkit
-Development/Libraries 	 celt051
-Development/Libraries 	 check
-Development/Libraries 	 cifs-utils
+Development/Libraries 	 byteman
+Development/Libraries 	 cdi-api
+Development/Libraries 	 cim-schema
+Development/Libraries 	 cmpi-bindings
 Development/Libraries 	 codehaus-parent
+Development/Libraries 	 codemodel
 Development/Libraries 	 compat-cogl114
 Development/Libraries 	 compat-glibc
 Development/Libraries 	 compat-poppler022
-Development/Libraries 	 cpptest
-Development/Libraries 	 cups-filters
-Development/Libraries 	 curl
-Development/Libraries 	 dbus
-Development/Libraries 	 dbusmenu-qt
-Development/Libraries 	 dconf
-Development/Libraries 	 device-mapper-multipath
-Development/Libraries 	 dhcp
-Development/Libraries 	 dialog
+Development/Libraries 	 cppunit
 Development/Libraries 	 ding-libs
-Development/Libraries 	 dlm
-Development/Libraries 	 dotconf
-Development/Libraries 	 dovecot
-Development/Libraries 	 e2fsprogs
-Development/Libraries 	 edac-utils
-Development/Libraries 	 enchant
-Development/Libraries 	 espeak
-Development/Libraries 	 evolution-data-server
-Development/Libraries 	 evolution-mapi
-Development/Libraries 	 exempi
-Development/Libraries 	 expat
+Development/Libraries 	 dom4j
+Development/Libraries 	 dyninst
+Development/Libraries 	 easymock
+Development/Libraries 	 exec-maven-plugin
 Development/Libraries 	 %{far}02
 Development/Libraries 	 farstream
+Development/Libraries 	 felix-osgi-compendium
+Development/Libraries 	 felix-osgi-obr
 Development/Libraries 	 felix-parent
-Development/Libraries 	 festival
-Development/Libraries 	 file
-Development/Libraries 	 flac
-Development/Libraries 	 flite
-Development/Libraries 	 fontforge
-Development/Libraries 	 fprintd
-Development/Libraries 	 freeglut
-Development/Libraries 	 freerdp
-Development/Libraries 	 freetype
-Development/Libraries 	 frei0r-plugins
-Development/Libraries 	 fuse
+Development/Libraries 	 felix-utils
 Development/Libraries 	 gamin
-Development/Libraries 	 gavl
-Development/Libraries 	 gc
-Development/Libraries 	 GConf2
 Development/Libraries 	 gcr
-Development/Libraries 	 gd
-Development/Libraries 	 gdbm
-Development/Libraries 	 gdm
-Development/Libraries 	 gegl
 Development/Libraries 	 GeoIP
-Development/Libraries 	 glade3
+Development/Libraries 	 geronimo-jaspic-spec
+Development/Libraries 	 geronimo-jaxrpc
+Development/Libraries 	 geronimo-jms
+Development/Libraries 	 geronimo-jta
+Development/Libraries 	 geronimo-osgi-support
+Development/Libraries 	 geronimo-saaj
 Development/Libraries 	 glassfish-dtd-parser
+Development/Libraries 	 glassfish-el
+Development/Libraries 	 glassfish-el-api
 Development/Libraries 	 glassfish-fastinfoset
-Development/Libraries 	 gmp
-Development/Libraries 	 gnome-dictionary
-Development/Libraries 	 gnome-icon-theme
-Development/Libraries 	 gnome-keyring
-Development/Libraries 	 gnome-menus
-Development/Libraries 	 gnutls
-Development/Libraries 	 gperftools
-Development/Libraries 	 gpgme
-Development/Libraries 	 gpm
-Development/Libraries 	 graphite2
-Development/Libraries 	 gsl
-Development/Libraries 	 gsm
-Development/Libraries 	 gstreamer-plugins-bad-free
-Development/Libraries 	 %{gstreamer}-plugins-base
-Development/Libraries 	 gstreamer-python
-Development/Libraries 	 gtk2
-Development/Libraries 	 gtkhtml3
-Development/Libraries 	 gtkspell
+Development/Libraries 	 glassfish-jaxb
+Development/Libraries 	 glassfish-jaxb-api
+Development/Libraries 	 glassfish-jsp
+Development/Libraries 	 glassfish-jsp-api
+Development/Libraries 	 glm
+Development/Libraries 	 gnu-getopt
+Development/Libraries 	 google-%{short_name}
 Development/Libraries 	 gtk-vnc
-Development/Libraries 	 guile
-Development/Libraries 	 gupnp-dlna
-Development/Libraries 	 gupnp-igd
-Development/Libraries 	 hamcrest
-Development/Libraries 	 hesiod
-Development/Libraries 	 hsakmt
+Development/Libraries 	 httpcomponents-client
+Development/Libraries 	 httpcomponents-core
 Development/Libraries 	 httpcomponents-project
-Development/Libraries 	 hunspell
-Development/Libraries 	 hwloc
-Development/Libraries 	 ibus
-Development/Libraries 	 ibus-qt
-Development/Libraries 	 ibus-table
-Development/Libraries 	 id3tag
-Development/Libraries 	 ilmbase
-Development/Libraries 	 ImageMagick
-Development/Libraries 	 iniparser
-Development/Libraries 	 iperf3
-Development/Libraries 	 iproute
-Development/Libraries 	 irssi
-Development/Libraries 	 iscsi-initiator-utils
-Development/Libraries 	 iso-codes
-Development/Libraries 	 jansson
-Development/Libraries 	 jasper
+Development/Libraries 	 istack-commons
+Development/Libraries 	 jackson
+Development/Libraries 	 jakarta-commons-httpclient
+Development/Libraries 	 jakarta-taglibs-standard
+Development/Libraries 	 jandex
+Development/Libraries 	 jansi-native
 Development/Libraries 	 java-atk-wrapper
+Development/Libraries/Java 	 bea-stax
+Development/Libraries/Java 	 objectweb-asm
+Development/Libraries/Java 	 regexp
+Development/Libraries 	 javassist
+Development/Libraries/Java 	 ws-jaxme
+Development/Libraries 	 jaxen
 Development/Libraries 	 jbigkit
+Development/Libraries 	 jboss-annotations-1.1-api
 Development/Libraries 	 jboss-ejb-3.1-api
+Development/Libraries 	 jboss-el-2.2-api
 Development/Libraries 	 jboss-interceptors-1.1-api
 Development/Libraries 	 jboss-jaxrpc-1.1-api
 Development/Libraries 	 jboss-parent
@@ -724,280 +731,95 @@ Development/Libraries 	 jboss-specs-parent
 Development/Libraries 	 jboss-transaction-1.1-api
 Development/Libraries 	 jdepend
 Development/Libraries 	 jdom
+Development/Libraries 	 jettison
+Development/Libraries 	 jetty
 Development/Libraries 	 jetty-assembly-descriptors
 Development/Libraries 	 jetty-parent
-Development/Libraries 	 json-glib
+Development/Libraries 	 jline
+Development/Libraries 	 jsch
+Development/Libraries 	 json-c
 Development/Libraries 	 jsr-311
-Development/Libraries 	 junit
 Development/Libraries 	 jvnet-parent
-Development/Libraries 	 k3b
-Development/Libraries 	 kdegraphics
-Development/Libraries 	 kmod
-Development/Libraries 	 ladspa
+Development/Libraries 	 keybinder3
 Development/Libraries 	 lapack
-Development/Libraries 	 lasso
-Development/Libraries 	 lcms2
-Development/Libraries 	 ldns
-Development/Libraries 	 libao
-Development/Libraries 	 libart_lgpl
-Development/Libraries 	 libassuan
-Development/Libraries 	 libasyncns
-Development/Libraries 	 libatasmart
-Development/Libraries 	 libavc1394
-Development/Libraries 	 libbluray
-Development/Libraries 	 libbonobo
-Development/Libraries 	 libbonoboui
 Development/Libraries 	 libcacard
-Development/Libraries 	 libcanberra
-Development/Libraries 	 libcap
-Development/Libraries 	 libcap-ng
-Development/Libraries 	 libcdio
-Development/Libraries 	 libcdio-paranoia
 Development/Libraries 	 libcgroup
-Development/Libraries 	 libchewing
-Development/Libraries 	 libcmpiutil
-Development/Libraries 	 libconfig
-Development/Libraries 	 libcroco
-Development/Libraries 	 libcryptui
-Development/Libraries 	 libdaemon
-Development/Libraries 	 libdb
 Development/Libraries 	 libdbi
 Development/Libraries 	 libdbi-drivers
 Development/Libraries 	 libdmapsharing
-Development/Libraries 	 libdmx
-Development/Libraries 	 libdv
-Development/Libraries 	 libdvdnav
-Development/Libraries 	 libdvdread
-Development/Libraries 	 libeasyfc
+Development/Libraries 	 libdwarf
 Development/Libraries 	 libecap
-Development/Libraries 	 libedit
-Development/Libraries 	 libee
-Development/Libraries 	 libESMTP
-Development/Libraries 	 libevent
-Development/Libraries 	 libexif
 Development/Libraries 	 libfastjson
-Development/Libraries 	 libffi
-Development/Libraries 	 libfontenc
-Development/Libraries 	 libfprint
-Development/Libraries 	 libgcrypt
-Development/Libraries 	 libgdither
-Development/Libraries 	 libgee06
-Development/Libraries 	 libglade2
-Development/Libraries 	 libgnome
-Development/Libraries 	 libgnomecanvas
-Development/Libraries 	 libgnome-keyring
-Development/Libraries 	 libgnomeui
 Development/Libraries 	 libgovirt
-Development/Libraries 	 libgpg-error
 Development/Libraries 	 libgphoto2
-Development/Libraries 	 libgsf
-Development/Libraries 	 libgxim
-Development/Libraries 	 libhangul
-Development/Libraries 	 libhbaapi
-Development/Libraries 	 libhbalinux
-Development/Libraries 	 libical
-Development/Libraries 	 libICE
-Development/Libraries 	 libIDL
-Development/Libraries 	 libidn
-Development/Libraries 	 libimobiledevice
 Development/Libraries 	 libinvm-cim
 Development/Libraries 	 libinvm-cli
 Development/Libraries 	 libinvm-i18n
-Development/Libraries 	 libiodbc
 Development/Libraries 	 libiptcdata
-Development/Libraries 	 libiscsi
-Development/Libraries 	 libisofs
-Development/Libraries 	 libjpeg-turbo
-Development/Libraries 	 libjs
-Development/Libraries 	 libksba
 Development/Libraries 	 libldb
-Development/Libraries 	 liblockfile
+Development/Libraries 	 libmatchbox
 Development/Libraries 	 libmediaart
-Development/Libraries 	 libmemcached
-Development/Libraries 	 libmng
-Development/Libraries 	 libmnl
-Development/Libraries 	 libmodman
-Development/Libraries 	 libmpc
-Development/Libraries 	 libmpcdec
-Development/Libraries 	 libmsn
-Development/Libraries 	 libmspack
-Development/Libraries 	 libmusicbrainz
-Development/Libraries 	 libmusicbrainz5
-Development/Libraries 	 libmx
-Development/Libraries 	 libndp
-Development/Libraries 	 libnet
-Development/Libraries 	 libnetfilter_conntrack
-Development/Libraries 	 libnetfilter_cthelper
-Development/Libraries 	 libnetfilter_cttimeout
-Development/Libraries 	 libnetfilter_queue
-Development/Libraries 	 libnetfilter_queue
-Development/Libraries 	 libnfnetlink
-Development/Libraries 	 libnfsidmap
-Development/Libraries 	 libnice
+Development/Libraries 	 libmicrohttpd
 Development/Libraries 	 libnl
-Development/Libraries 	 libntlm
-Development/Libraries 	 liboauth
-Development/Libraries 	 libofa
-Development/Libraries 	 libogg
-Development/Libraries 	 liboil
+Development/Libraries 	 libnl3
 Development/Libraries 	 libosinfo
-Development/Libraries 	 libotf
-Development/Libraries 	 libpaper
 Development/Libraries 	 libpcap
-Development/Libraries 	 libpciaccess
 Development/Libraries 	 libpipeline
-Development/Libraries 	 libplist
-Development/Libraries 	 libpng
-Development/Libraries 	 libpng12
-Development/Libraries 	 libproxy
-Development/Libraries 	 libpwquality
-Development/Libraries 	 libqb
+Development/Libraries 	 libpsm2
 Development/Libraries 	 libqmi
-Development/Libraries 	 libquvi
-Development/Libraries 	 librabbitmq
-Development/Libraries 	 libraw
 Development/Libraries 	 LibRaw
-Development/Libraries 	 librelp
-Development/Libraries 	 librsvg2
-Development/Libraries 	 librtas
-Development/Libraries 	 libsamplerate
-Development/Libraries 	 libseccomp
-Development/Libraries 	 libselinux
-Development/Libraries 	 libsemanage
-Development/Libraries 	 libsepol
-Development/Libraries 	 libservicelog
-Development/Libraries 	 libsexy
-Development/Libraries 	 lib%{shortname}
-Development/Libraries 	 libshout
-Development/Libraries 	 libSM
-Development/Libraries 	 libsmbios
-Development/Libraries 	 libsmi
-Development/Libraries 	 libspectre
-Development/Libraries 	 libspiro
-Development/Libraries 	 libssh2
-Development/Libraries 	 libtalloc
-Development/Libraries 	 libtar
-Development/Libraries 	 libtdb
-Development/Libraries 	 libteam
-Development/Libraries 	 libtevent
-Development/Libraries 	 libthai
-Development/Libraries 	 libtiff
-Development/Libraries 	 libtimezonemap
-Development/Libraries 	 libtirpc
-Development/Libraries 	 libtnc
-Development/Libraries 	 libtool
-Development/Libraries 	 libuninameslist
-Development/Libraries 	 libunistring
-Development/Libraries 	 libusb
-Development/Libraries 	 libusbmuxd
-Development/Libraries 	 libusbx
-Development/Libraries 	 libuser
-Development/Libraries 	 libutempter
 Development/Libraries 	 libvirt
 Development/Libraries 	 libvirt-cim
 Development/Libraries 	 libvirt-glib
+Development/Libraries 	 libvirt-java
 Development/Libraries 	 libvirt-python
 Development/Libraries 	 libvirt-snmp
-Development/Libraries 	 libvisual
-Development/Libraries 	 libvncserver
-Development/Libraries 	 libvoikko
-Development/Libraries 	 libvorbis
 Development/Libraries 	 libwebp
-Development/Libraries 	 libwmf
-Development/Libraries 	 libwnck3
-Development/Libraries 	 libwvstreams
-Development/Libraries 	 libX11
-Development/Libraries 	 libXau
-Development/Libraries 	 libXaw
-Development/Libraries 	 libXcomposite
-Development/Libraries 	 libXcursor
-Development/Libraries 	 libXdamage
-Development/Libraries 	 libXdmcp
-Development/Libraries 	 libXevie
-Development/Libraries 	 libXext
-Development/Libraries 	 libXfixes
-Development/Libraries 	 libxfont
-Development/Libraries 	 libXfont2
-Development/Libraries 	 libXft
-Development/Libraries 	 libXi
-Development/Libraries 	 libXinerama
-Development/Libraries 	 libxkbfile
 Development/Libraries 	 libxklavier
 Development/Libraries 	 libxml2
-Development/Libraries 	 libXmu
-Development/Libraries 	 libXp
-Development/Libraries 	 libXpm
-Development/Libraries 	 libXrandr
-Development/Libraries 	 libXrender
-Development/Libraries 	 libXres
-Development/Libraries 	 libXScrnSaver
 Development/Libraries 	 libxslt
-Development/Libraries 	 libXt
-Development/Libraries 	 libXtst
-Development/Libraries 	 libXv
-Development/Libraries 	 libXvMC
-Development/Libraries 	 libXxf86dga
-Development/Libraries 	 libXxf86misc
-Development/Libraries 	 libXxf86vm
-Development/Libraries 	 libyaml
-Development/Libraries 	 lldpad
-Development/Libraries 	 log4cxx
-Development/Libraries 	 lpsolve
-Development/Libraries 	 lzo
-Development/Libraries 	 m17n-db
-Development/Libraries 	 malaga
 Development/Libraries 	 marisa
+Development/Libraries 	 maven-antrun-plugin
+Development/Libraries 	 maven-changes-plugin
+Development/Libraries 	 maven-clean-plugin
+Development/Libraries 	 maven-compiler-plugin
+Development/Libraries 	 maven-dependency-plugin
+Development/Libraries 	 maven-dependency-tree
 Development/Libraries 	 maven-deploy-plugin
+Development/Libraries 	 maven-doxia
+Development/Libraries 	 maven-ear-plugin
+Development/Libraries 	 maven-gpg-plugin
+Development/Libraries 	 maven-install-plugin
+Development/Libraries 	 maven-invoker-plugin
+Development/Libraries 	 maven-jarsigner-plugin
+Development/Libraries 	 maven-plugin-build-helper
+Development/Libraries 	 maven-plugin-tools
+Development/Libraries 	 maven-project-info-reports-plugin
+Development/Libraries 	 maven-release
+Development/Libraries 	 maven-remote-resources-plugin
+Development/Libraries 	 maven-resources-plugin
+Development/Libraries 	 maven-scm
 Development/Libraries 	 maven-shared
-Development/Libraries 	 memcached
-Development/Libraries 	 memkind
-Development/Libraries 	 mesa-demos
-Development/Libraries 	 mesa-libGLw
-Development/Libraries 	 metacity
-Development/Libraries 	 mobile-broadband-provider-info
-Development/Libraries 	 ModemManager
-Development/Libraries 	 motif
-Development/Libraries 	 mozjs17
-Development/Libraries 	 mozjs24
-Development/Libraries 	 mpfr
+Development/Libraries 	 maven-shared-incremental
+Development/Libraries 	 maven-site-plugin
+Development/Libraries 	 maven-source-plugin
+Development/Libraries 	 maven-surefire
+Development/Libraries 	 maven-verifier-plugin
+Development/Libraries 	 maven-war-plugin
+Development/Libraries 	 mpich
+Development/Libraries 	 msv
 Development/Libraries 	 mvapich2
 Development/Libraries 	 MySQL-python
-Development/Libraries 	 mythes
-Development/Libraries 	 ncurses
 Development/Libraries 	 nekohtml
-Development/Libraries 	 neon
 Development/Libraries 	 nettle
-Development/Libraries 	 network-manager-applet
-Development/Libraries 	 newt
-Development/Libraries 	 nspr
-Development/Libraries 	 nss
-Development/Libraries 	 nss_compat_ossl
-Development/Libraries 	 nss-softokn
-Development/Libraries 	 nss-util
-Development/Libraries 	 numpy
+Development/Libraries 	 objectweb-asm4
 Development/Libraries 	 ocaml-curses
 Development/Libraries 	 ocaml-xml-light
-Development/Libraries 	 opal
-Development/Libraries 	 opencc
 Development/Libraries 	 opencv
-Development/Libraries 	 openhpi
-Development/Libraries 	 OpenIPMI
 Development/Libraries 	 openmpi%{?_cc_name_suffix}
-Development/Libraries 	 openslp
-Development/Libraries 	 opensp
-Development/Libraries 	 open-vm-tools
-Development/Libraries 	 openwsman
-Development/Libraries 	 opus
-Development/Libraries 	 ORBit2
-Development/Libraries 	 orc
-Development/Libraries 	 ortp
-Development/Libraries 	 OSTree
 Development/Libraries 	 %{package_name}
 Development/Libraries 	 %{package_name}
-Development/Libraries 	 pakchois
-Development/Libraries 	 pam
-Development/Libraries 	 paps
-Development/Libraries 	 parted
+Development/Libraries 	 %{parent}-%{subname}
 Development/Libraries 	 perl-Algorithm-Diff
 Development/Libraries 	 perl-AppConfig
 Development/Libraries 	 perl-App-cpanminus
@@ -1333,18 +1155,18 @@ Development/Libraries 	 perl-XML-XPathEngine
 Development/Libraries 	 perl-YAML
 Development/Libraries 	 perl-YAML-Syck
 Development/Libraries 	 perl-YAML-Tiny
-Development/Libraries 	 pixman
 Development/Libraries 	 plexus-component-factories-pom
+Development/Libraries 	 plexus-digest
+Development/Libraries 	 plexus-interpolation
+Development/Libraries 	 plexus-io
 Development/Libraries 	 plexus-pom
-Development/Libraries 	 pm-utils
-Development/Libraries 	 polkit
+Development/Libraries 	 plexus-utils
+Development/Libraries 	 polkit-qt
+Development/Libraries 	 poppler
 Development/Libraries 	 poppler-data
-Development/Libraries 	 popt
-Development/Libraries 	 ppp
-Development/Libraries 	 protobuf-c
-Development/Libraries 	 pth
-Development/Libraries 	 ptlib
-Development/Libraries 	 pycairo
+Development/Libraries 	 %{project}-framework
+Development/Libraries 	 %{project}-shell
+Development/Libraries 	 protobuf
 Development/Libraries 	 pyOpenSSL
 Development/Libraries 	 PyPAM
 Development/Libraries 	 pyparsing
@@ -1355,6 +1177,7 @@ Development/Libraries 	 python-enum34
 Development/Libraries 	 python-gudev
 Development/Libraries 	 python-hwdata
 Development/Libraries 	 python-iniparse
+Development/Libraries 	 python-inotify
 Development/Libraries 	 python-jwt
 Development/Libraries 	 python-kmod
 Development/Libraries 	 python-lxml
@@ -1362,134 +1185,96 @@ Development/Libraries 	 python-matplotlib
 Development/Libraries 	 python-netaddr
 Development/Libraries 	 python-netifaces
 Development/Libraries 	 python-oauthlib
+Development/Libraries 	 python-pillow
+Development/Libraries 	 python-%{pkgname}
 Development/Libraries 	 python-pygments
+Development/Libraries 	 python-reportlab
 Development/Libraries 	 python-requests-oauthlib
 Development/Libraries 	 python-rhsm
 Development/Libraries 	 python-sqlalchemy
 Development/Libraries 	 python-suds
 Development/Libraries 	 python-urlgrabber
+Development/Libraries 	 python-urwid
 Development/Libraries 	 python-zope-interface
 Development/Libraries 	 pywbem
 Development/Libraries 	 pyxattr
 Development/Libraries 	 PyYAML
-Development/Libraries 	 qca2
-Development/Libraries 	 qjson
-Development/Libraries 	 rasqal
-Development/Libraries 	 readline
-Development/Libraries 	 recode
+Development/Libraries 	 qdox
 Development/Libraries 	 relaxngcc
+Development/Libraries 	 rhino
 Development/Libraries 	 rhnlib
-Development/Libraries 	 satyr
+Development/Libraries 	 rngom
 Development/Libraries 	 sbc
+Development/Libraries 	 sblim-cim-client2
 Development/Libraries 	 sblim-cmpi-devel
 Development/Libraries 	 sblim-indication_helper
+Development/Libraries 	 scannotation
 Development/Libraries 	 scipy
-Development/Libraries 	 SDL
-Development/Libraries 	 sg3_utils
-Development/Libraries 	 shared-desktop-ontologies
 Development/Libraries 	 %{short_name}-pom
 Development/Libraries 	 %{short_name}-pom
 Development/Libraries 	 %{short_name}-pom
-Development/Libraries 	 sip
-Development/Libraries 	 slang
-Development/Libraries 	 snapper
-Development/Libraries 	 snappy
-Development/Libraries 	 softhsm
+Development/Libraries 	 sisu
+Development/Libraries 	 slf4j
+Development/Libraries 	 snakeyaml
 Development/Libraries 	 sonatype-oss-parent
 Development/Libraries 	 sonatype-plugins-parent
-Development/Libraries 	 soundtouch
-Development/Libraries 	 source-highlight
-Development/Libraries 	 sox
-Development/Libraries 	 speech-dispatcher
-Development/Libraries 	 spice
 Development/Libraries 	 spice-parent
 Development/Libraries 	 spice-protocol
-Development/Libraries 	 startup-notification
 Development/Libraries 	 stax2-api
-Development/Libraries 	 strigi
-Development/Libraries 	 subscription-manager
-Development/Libraries 	 sudo
+Development/Libraries 	 stax-ex
 Development/Libraries 	 svrcore
-Development/Libraries 	 sysfsutils
-Development/Libraries 	 t1lib
-Development/Libraries 	 tcp_wrappers
 Development/Libraries 	 teckit
-Development/Libraries 	 telepathy-farstream
-Development/Libraries 	 telepathy-glib
-Development/Libraries 	 telepathy-logger
-Development/Libraries 	 telepathy-mission-control
-Development/Libraries 	 tn5250
-Development/Libraries 	 tncfhh
 Development/Libraries 	 tokyocabinet
-Development/Libraries 	 tpm-tools
-Development/Libraries 	 trousers
-Development/Libraries 	 udisks2
-Development/Libraries 	 unique3
-Development/Libraries 	 unixODBC
-Development/Libraries 	 upower
-Development/Libraries 	 uriparser
-Development/Libraries 	 ustr
-Development/Libraries 	 uuid
-Development/Libraries 	 v4l-utils
+Development/Libraries 	 txw2
 Development/Libraries 	 velocity
 Development/Libraries 	 vigra
-Development/Libraries 	 vte3
-Development/Libraries 	 wavpack
+Development/Libraries 	 webkitgtk3
 Development/Libraries 	 weld-parent
-Development/Libraries 	 wireshark
+Development/Libraries 	 wsdl4j
+Development/Libraries 	 xalan-j2
 Development/Libraries 	 xcb-proto
 Development/Libraries 	 xerces-j2
-Development/Libraries 	 xfsprogs
-Development/Libraries 	 xmlsec
-Development/Libraries 	 xml-stylebook
-Development/Libraries 	 xorg-x11-drv-evdev
-Development/Libraries 	 xorg-x11-drv-mouse
-Development/Libraries 	 xorg-x11-drv-synaptics
-Development/Libraries 	 xorg-x11-drv-wacom
-Development/Libraries 	 xorg-x11-server-Xorg
-Development/Libraries 	 xorg-x11-xkb-utils
+Development/Libraries 	 xmlgraphics-commons
 Development/Libraries 	 xsom
-Development/Libraries 	 xulrunner
-Development/Libraries 	 xz
+Development/Libraries 	 xstream
+Development/Libraries 	 xz-java
 Development/Libraries 	 yajl
-Development/Libraries 	 yasm
-Development/Libraries 	 yelp
 Development/Libraries 	 yum-metadata-parser
-Development/Libraries 	 zlib
-Development/Libraries 	 zziplib
 Development/System 	 blktrace
-Development/System 	 brltty
 Development/System 	 checkpolicy
 Development/System 	 clucene
-Development/System 	 crda
-Development/System 	 dyninst
 Development/System 	 fontpackages
+Development/System 	 gnu-efi
 Development/System 	 iowatcher
-Development/System 	 isomd5sum
-Development/System 	 libaio
 Development/System 	 oprofile
 Development/System 	 papi
 Development/System 	 pesign
-Development/System 	 pps-tools
 Development/System 	 redhat-rpm-config
 Development/System 	 systemtap
-Development/System 	 xorg-x11-drv-openchrome
 Development/System 	 xorg-x11-proto-devel
 Development/System 	 xorg-x11-util-macros
+Development/Tools 	 antlr
 Development/Tools 	 apache-ivy
+Development/Tools 	 aqute-bnd
+Development/Tools 	 aqute-bndlib
 Development/Tools 	 autoconf
 Development/Tools 	 autoconf213
+Development/Tools 	 autogen
 Development/Tools 	 automake
 Development/Tools 	 automoc
-Development/Tools 	 boost
+Development/Tools 	 binutils
+Development/Tools 	 bison
 Development/Tools 	 byacc
+Development/Tools 	 bzr
+Development/Tools 	 cglib
+Development/Tools 	 check
 Development/Tools 	 chrpath
 Development/Tools 	 cmake
 Development/Tools 	 cscope
 Development/Tools 	 ctags
+Development/Tools 	 cvs
 Development/Tools 	 cvsps
 Development/Tools 	 Cython
-Development/Tools 	 dbus-glib
 Development/Tools 	 dejagnu
 Development/Tools 	 desktop-file-utils
 Development/Tools 	 diffstat
@@ -1498,140 +1283,70 @@ Development/Tools 	 dwz
 Development/Tools 	 ElectricFence
 Development/Tools 	 elfutils
 Development/Tools 	 epydoc
+Development/Tools 	 flatpak
+Development/Tools 	 flex
 Development/Tools 	 fonttools
 Development/Tools 	 geronimo-parent-poms
+Development/Tools 	 gettext
+Development/Tools 	 git
+Development/Tools 	 glade3
 Development/Tools 	 gnome-common
 Development/Tools 	 gnome-doc-utils
 Development/Tools 	 gob2
 Development/Tools 	 gperf
-Development/Tools 	 groovy
+Development/Tools 	 gperftools
+Development/Tools 	 graphite2
+Development/Tools 	 hamcrest
 Development/Tools 	 help2man
 Development/Tools 	 highlight
-Development/Tools 	 hsqldb
 Development/Tools 	 icon-naming-utils
+Development/Tools 	 icu
 Development/Tools 	 intltool
-Development/Tools 	 ipxe
 Development/Tools 	 itstool
-Development/Tools 	 ixpdimm_sw
+Development/Tools 	 jarjar
+Development/Tools 	 java_cup
+Development/Tools 	 junit
 Development/Tools 	 ksc
 Development/Tools 	 langtable
-Development/Tools 	 libdrm
-Development/Tools 	 libdwarf
-Development/Tools 	 libkkc
-Development/Tools 	 libvpx
+Development/Tools 	 libmpc
+Development/Tools 	 libtool
 Development/Tools 	 make
+Development/Tools 	 maven
+Development/Tools 	 maven-plugin-bundle
 Development/Tools 	 mercurial
+Development/Tools 	 objectweb-anttask
+Development/Tools 	 %{parent}-%{subname}
+Development/Tools 	 %{parent}-%{subname}
+Development/Tools 	 %{parent}-%{subname}
+Development/Tools 	 %{parent}-%{subproj}
 Development/Tools 	 patch
-Development/Tools 	 pcre
-Development/Tools 	 pcre2
 Development/Tools 	 pkgconfig
 Development/Tools 	 %{pkgname}
 Development/Tools 	 %{pkgname}%{?pkgsuffix}
+Development/Tools 	 plexus-mail-sender
+Development/Tools 	 python-sphinx
 Development/Tools 	 qemu-kvm
-Development/Tools 	 qt3
 Development/Tools 	 ras-utils
 Development/Tools 	 rcs
 Development/Tools 	 rpmlint
+Development/Tools 	 %{?scl_prefix}%{?cross}binutils%{?_with_debug
+Development/Tools 	 sip
+Development/Tools 	 sisu-maven-plugin
+Development/Tools 	 source-highlight
 Development/Tools 	 subversion
 Development/Tools 	 swig
+Development/Tools 	 sysfsutils
+Development/Tools 	 tbb
 Development/Tools 	 trace-cmd
 Development/Tools 	 xdelta
 Development/Tools 	 xorg-sgml-doctools
-Development/Tools 	 xorg-x11-drv-intel
 Development/Tools 	 xrestop
 Development/Tools 	 yum-langpacks
-Documentation 	 ant-contrib
-Documentation 	 apache-commons-exec
-Documentation 	 apache-%{jarname}
-Documentation 	 apache-rat
-Documentation 	 apache-%{short_name}
-Documentation 	 apache-%{short_name}
-Documentation 	 apache-%{short_name}
-Documentation 	 apache-%{short_name}
-Documentation 	 apache-%{short_name}
-Documentation 	 apache-%{short_name}
-Documentation 	 apache-%{short_name}
-Documentation 	 apache-%{short_name}
-Documentation 	 apache-%{short_name}
-Documentation 	 apache-%{short_name}
-Documentation 	 aqute-bnd
-Documentation 	 aqute-bndlib
-Documentation 	 atkmm
-Documentation 	 avalon-%{short_name}
-Documentation 	 avalon-%{short_name}
-Documentation 	 babl
-Documentation 	 batik
-Documentation 	 beust-%{short_name}
-Documentation 	 bsf
-Documentation 	 buildnumber-maven-plugin
-Documentation 	 byteman
-Documentation 	 bzr
-Documentation 	 cairomm
-Documentation 	 cdi-api
+Development/Tools 	 yum-utils
 Documentation 	 centos-indexhtml
-Documentation 	 cglib
-Documentation 	 cim-schema
-Documentation 	 codemodel
-Documentation 	 cppunit
-Documentation 	 cvs
-Documentation 	 dom4j
-Documentation 	 easymock
-Documentation 	 easymock2
-Documentation 	 exec-maven-plugin
-Documentation 	 felix-osgi-compendium
-Documentation 	 felix-osgi-obr
-Documentation 	 felix-utils
-Documentation 	 fftw
-Documentation 	 flex
-Documentation 	 fontconfig
-Documentation 	 geronimo-jaspic-spec
-Documentation 	 geronimo-jaxrpc
-Documentation 	 geronimo-jms
-Documentation 	 geronimo-jta
-Documentation 	 geronimo-osgi-support
-Documentation 	 geronimo-saaj
 Documentation 	 gimp-help
-Documentation 	 glassfish-el
-Documentation 	 glassfish-el-api
-Documentation 	 glassfish-jaxb
-Documentation 	 glassfish-jaxb-api
-Documentation 	 glassfish-jsp
-Documentation 	 glassfish-jsp-api
-Documentation 	 glm
 Documentation 	 gnome-user-docs
-Documentation 	 google-%{short_name}
-Documentation 	 groff
-Documentation 	 httpcomponents-client
-Documentation 	 httpcomponents-core
-Documentation 	 icu
-Documentation 	 inkscape
-Documentation 	 isdn4k-utils
-Documentation 	 istack-commons
-Documentation 	 jackson
-Documentation 	 jai-imageio-core
-Documentation 	 jakarta-commons-httpclient
-Documentation 	 jakarta-taglibs-standard
-Documentation 	 jandex
-Documentation 	 jansi-native
-Documentation 	 jarjar
-Documentation 	 java
-Documentation 	 java_cup
-Documentation 	 javassist
-Documentation 	 jboss-annotations-1.1-api
-Documentation 	 jboss-el-2.2-api
-Documentation 	 jettison
-Documentation 	 jetty
-Documentation 	 jline
-Documentation 	 jre
-Documentation 	 jsch
-Documentation 	 json-c
-Documentation 	 jss
-Documentation 	 keybinder3
 Documentation 	 liblognorm
-Documentation 	 liblouis
-Documentation 	 libmicrohttpd
-Documentation 	 libnl3
-Documentation 	 libpst
 Documentation 	 man-pages
 Documentation 	 man-pages-cs
 Documentation 	 man-pages-es
@@ -1643,157 +1358,81 @@ Documentation 	 man-pages-overrides
 Documentation 	 man-pages-pl
 Documentation 	 man-pages-ru
 Documentation 	 man-pages-zh-CN
-Documentation 	 maven
-Documentation 	 maven-antrun-plugin
-Documentation 	 maven-changes-plugin
-Documentation 	 maven-clean-plugin
-Documentation 	 maven-compiler-plugin
-Documentation 	 maven-dependency-plugin
-Documentation 	 maven-dependency-tree
 Documentation 	 maven-downloader
-Documentation 	 maven-doxia
-Documentation 	 maven-ear-plugin
-Documentation 	 maven-gpg-plugin
-Documentation 	 maven-install-plugin
 Documentation 	 maven-invoker
-Documentation 	 maven-invoker-plugin
-Documentation 	 maven-jarsigner-plugin
 Documentation 	 maven-osgi
-Documentation 	 maven-plugin-build-helper
-Documentation 	 maven-plugin-bundle
-Documentation 	 maven-plugin-tools
-Documentation 	 maven-project-info-reports-plugin
-Documentation 	 maven-release
-Documentation 	 maven-remote-resources-plugin
 Documentation 	 maven-reporting-exec
 Documentation 	 maven-repository-builder
-Documentation 	 maven-resources-plugin
-Documentation 	 maven-scm
-Documentation 	 maven-shared-incremental
 Documentation 	 maven-shared-jar
-Documentation 	 maven-site-plugin
-Documentation 	 maven-source-plugin
-Documentation 	 maven-surefire
 Documentation 	 maven-verifier
-Documentation 	 maven-verifier-plugin
-Documentation 	 maven-war-plugin
-Documentation 	 mpich
-Documentation 	 msv
-Documentation 	 ntp
-Documentation 	 objectweb-anttask
-Documentation 	 objectweb-asm
-Documentation 	 objectweb-asm4
-Documentation 	 OpenJDK
 Documentation 	 openlmi-providers
-Documentation 	 pangomm
 Documentation 	 %{parent}-%{subname}
-Documentation 	 %{parent}-%{subname}
-Documentation 	 %{parent}-%{subname}
-Documentation 	 %{parent}-%{subname}
-Documentation 	 %{parent}-%{subname}
-Documentation 	 %{parent}-%{subproj}
-Documentation 	 pcsc-lite
-Documentation 	 pki-core
-Documentation 	 plexus-digest
-Documentation 	 plexus-interpolation
-Documentation 	 plexus-io
-Documentation 	 plexus-mail-sender
-Documentation 	 plexus-utils
-Documentation 	 plexus-velocity
-Documentation 	 polkit-qt
-Documentation 	 postgresql-jdbc
-Documentation 	 %{project}-framework
-Documentation 	 %{project}-shell
-Documentation 	 protobuf
-Documentation 	 publican
-Documentation 	 python-cups
 Documentation 	 %{python}-docs
-Documentation 	 python-nss
-Documentation 	 python-%{pkgname}
-Documentation 	 python-reportlab
-Documentation 	 python-smbc
-Documentation 	 python-sphinx
-Documentation 	 python-%{srcname}
-Documentation 	 qdox
-Documentation 	 qpdf
-Documentation 	 quota
-Documentation 	 rhino
-Documentation 	 rngom
-Documentation 	 rubygem
-Documentation 	 rubygem-bundler
-Documentation 	 rubygem-%{gem_name}
-Documentation 	 rubygems
-Documentation 	 sblim-cim-client2
-Documentation 	 scannotation
-Documentation 	 %{?scl_prefix}gdb
-Documentation 	 sisu
-Documentation 	 sisu-maven-plugin
 Documentation 	 si-units
-Documentation 	 slf4j
-Documentation 	 snakeyaml
-Documentation 	 stax-ex
-Documentation 	 suitesparse
 Documentation 	 system-config-date-docs
 Documentation 	 system-config-users-docs
-Documentation 	 tagsoup
-Documentation 	 tbb
-Documentation 	 txw2
-Documentation 	 webkitgtk3
-Documentation 	 wordnet
-Documentation 	 wsdl4j
-Documentation 	 ws-jaxme
-Documentation 	 xalan-j2
-Documentation 	 xerces-c
-Documentation 	 xml-commons-apis12
-Documentation 	 xmlgraphics-commons
+Documentation 	 xml-stylebook
 Documentation 	 xorg-x11-docs
-Documentation 	 xstream
-Documentation 	 xz-java
 Networking/Diagnostic 	 qperf
-Productivity/Clustering/HA 	 resource-agents
 Productivity/Networking/Diagnostic 	 perftest
-System/Base 	 dracut
+System Environment/Base 	 acl
 System Environment/Base 	 anaconda-user-help
 System Environment/Base 	 arptables
-System Environment/Base 	 at
+System Environment/Base 	 attr
 System Environment/Base 	 authconfig
 System Environment/Base 	 basesystem
 System Environment/Base 	 biosdevname
 System Environment/Base 	 bridge-utils
+System Environment/Base 	 btrfs-progs
 System Environment/Base 	 ca-certificates
 System Environment/Base 	 centos-logos
 System Environment/Base 	 centos-release
 System Environment/Base 	 centos-release
 System Environment/Base 	 centos-release
 System Environment/Base 	 centos-userland-release
+System Environment/Base 	 ceph-common
 System Environment/Base 	 cgdcbxd
 System Environment/Base 	 chkconfig
 System Environment/Base 	 cloud-init
 System Environment/Base 	 cloud-utils-growpart
+System Environment/Base 	 clufter
 System Environment/Base 	 color-filesystem
 System Environment/Base 	 conntrack-tools
 System Environment/Base 	 coreutils
 System Environment/Base 	 corosync
+System Environment/Base 	 crda
 System Environment/Base 	 createrepo
+System Environment/Base 	 criu
 System Environment/Base 	 cronie
 System Environment/Base 	 crontabs
+System Environment/Base 	 cups-filters
 System Environment/Base 	 cups-pk-helper
+System Environment/Base 	 dconf
 System Environment/Base 	 deltarpm
+System Environment/Base 	 device-mapper-multipath
 System Environment/Base 	 device-mapper-persistent-data
 System Environment/Base 	 dmidecode
 System Environment/Base 	 dmraid
+System Environment/Base 	 dracut
 System Environment/Base 	 dstat
+System Environment/Base 	 e2fsprogs
 System Environment/Base 	 ebtables
+System Environment/Base 	 edac-utils
 System Environment/Base 	 efibootmgr
 System Environment/Base 	 environment-modules
 System Environment/Base 	 fence-agents
 System Environment/Base 	 fence-virt
 System Environment/Base 	 filesystem
 System Environment/Base 	 firstboot
+System Environment/Base 	 FreeIPA
+System Environment/Base 	 fuse
 System Environment/Base 	 fuseiso
+System Environment/Base 	 GConf2
 System Environment/Base 	 gdisk
+System Environment/Base 	 glusterfs
 System Environment/Base 	 grub2
 System Environment/Base 	 grubby
+System Environment/Base 	 gutenprint
 System Environment/Base 	 hardlink
 System Environment/Base 	 hmaccalc
 System Environment/Base 	 hostname
@@ -1805,12 +1444,15 @@ System Environment/Base 	 iprutils
 System Environment/Base 	 ipsilon
 System Environment/Base 	 iptables
 System Environment/Base 	 iptstate
+System Environment/Base 	 ipxe
 System Environment/Base 	 irqbalance
+System Environment/Base 	 iso-codes
 System Environment/Base 	 iw
 System Environment/Base 	 kbd
 System Environment/Base 	 kde-filesystem
 System Environment/Base 	 keyutils
-System Environment/Base 	 krb5
+System Environment/Base 	 libpwquality
+System Environment/Base 	 libuser
 System Environment/Base 	 linuxptp
 System Environment/Base 	 logrotate
 System Environment/Base 	 lvm2
@@ -1822,14 +1464,20 @@ System Environment/Base 	 media-player-info
 System Environment/Base 	 memtest86+
 System Environment/Base 	 microcode_ctl
 System Environment/Base 	 mkbootdisk
-System Environment/Base 	 mod_fcgid
+System Environment/Base 	 mobile-broadband-provider-info
+System Environment/Base 	 ModemManager
+System Environment/Base 	 ncurses
+System Environment/Base 	 ndctl
 System Environment/Base 	 net-tools
 System Environment/Base 	 NetworkManager
 System Environment/Base 	 NetworkManager-libreswan
 System Environment/Base 	 nss-pam-ldapd
-System Environment/Base 	 nvml
-System Environment/Base 	 openssh
+System Environment/Base 	 numactl
+System Environment/Base 	 opencryptoki
+System Environment/Base 	 openhpi
+System Environment/Base 	 OpenIPMI
 System Environment/Base 	 os-prober
+System Environment/Base 	 pam
 System Environment/Base 	 pam_krb5
 System Environment/Base 	 pam_pkcs11
 System Environment/Base 	 passwd
@@ -1837,11 +1485,17 @@ System Environment/Base 	 pcs
 System Environment/Base 	 pcsd
 System Environment/Base 	 pinfo
 System Environment/Base 	 plymouth
+System Environment/Base 	 pm-utils
 System Environment/Base 	 policycoreutils
 System Environment/Base 	 powerpc-utils
 System Environment/Base 	 ppc64-diag
+System Environment/Base 	 pps-tools
 System Environment/Base 	 prelink
+System Environment/Base 	 qpdf
+System Environment/Base 	 quota
+System Environment/Base 	 rarian
 System Environment/Base 	 redhat-lsb
+System Environment/Base 	 resource-agents
 System Environment/Base 	 rfkill
 System Environment/Base 	 rhn-client-tools
 System Environment/Base 	 rhnsd
@@ -1861,6 +1515,7 @@ System Environment/Base 	 shadow-utils
 System Environment/Base 	 shared-mime-info
 System Environment/Base 	 smartmontools
 System Environment/Base 	 squashfs-tools
+System Environment/Base 	 subscription-manager
 System Environment/Base 	 system-config-date
 System Environment/Base 	 system-config-firewall
 System Environment/Base 	 system-config-kdump
@@ -1874,40 +1529,56 @@ System Environment/Base 	 telepathy-filesystem
 System Environment/Base 	 tmpwatch
 System Environment/Base 	 tzdata
 System Environment/Base 	 unoconv
+System Environment/Base 	 util-linux
 System Environment/Base 	 virt-who
+System Environment/Base 	 wpa_supplicant
 System Environment/Base 	 x86info
 System Environment/Base 	 xdg-utils
 System Environment/Base 	 xfsdump
+System Environment/Base 	 xfsprogs
 System Environment/Base 	 xguest
 System Environment/Base 	 yp-tools
 System Environment/Base 	 yum
 System Environment/Base 	 yum-rhn-plugin
-System Environment/Base 	 yum-utils
+System Environment/Daemons 	 389-ds-base
+System Environment/Daemons 	 accountsservice
 System Environment/Daemons 	 acpid
+System Environment/Daemons 	 at
 System Environment/Daemons 	 audit
 System Environment/Daemons 	 authd
 System Environment/Daemons 	 autofs
+System Environment/Daemons 	 bacula
 System Environment/Daemons 	 bind
-System Environment/Daemons 	 bluez
 System Environment/Daemons 	 booth
+System Environment/Daemons 	 brltty
 System Environment/Daemons 	 cachefilesd
 System Environment/Daemons 	 certmonger
 System Environment/Daemons 	 chrony
+System Environment/Daemons 	 cifs-utils
 System Environment/Daemons 	 cups
+System Environment/Daemons 	 cyrus-imapd
+System Environment/Daemons 	 dhcp
 System Environment/Daemons 	 dnsmasq
+System Environment/Daemons 	 dovecot
 System Environment/Daemons 	 fedfs-utils
-System Environment/Daemons 	 finger
+System Environment/Daemons 	 fprintd
 System Environment/Daemons 	 freeradius
-System Environment/Daemons 	 ghostscript
+System Environment/Daemons 	 gpm
 System Environment/Daemons 	 haproxy
 System Environment/Daemons 	 hplip
 System Environment/Daemons 	 httpd
+System Environment/Daemons 	 hyperv-daemons
 System Environment/Daemons 	 iputils
+System Environment/Daemons 	 iscsi-initiator-utils
 System Environment/Daemons 	 isns-utils
 System Environment/Daemons 	 keepalived
 System Environment/Daemons 	 libreswan
-System Environment/Daemons 	 lm_sensors
+System Environment/Daemons 	 libtalloc
+System Environment/Daemons 	 libtdb
+System Environment/Daemons 	 libtevent
+System Environment/Daemons 	 lldpad
 System Environment/Daemons 	 mcstrans
+System Environment/Daemons 	 memcached
 System Environment/Daemons 	 migrationtools
 System Environment/Daemons 	 mipv6-daemon
 System Environment/Daemons 	 mod_auth_gssapi
@@ -1915,6 +1586,7 @@ System Environment/Daemons 	 mod_auth_kerb
 System Environment/Daemons 	 mod_auth_mellon
 System Environment/Daemons 	 mod_authnz_pam
 System Environment/Daemons 	 mod_auth_openidc
+System Environment/Daemons 	 mod_fcgid
 System Environment/Daemons 	 mod_intercept_form_submit
 System Environment/Daemons 	 mod_lookup_identity
 System Environment/Daemons 	 mod_nss
@@ -1924,60 +1596,75 @@ System Environment/Daemons 	 mod_security_crs
 System Environment/Daemons 	 netlabel_tools
 System Environment/Daemons 	 net-snmp
 System Environment/Daemons 	 nfs-utils
+System Environment/Daemons 	 ntp
 System Environment/Daemons 	 numad
 System Environment/Daemons 	 obexd
 System Environment/Daemons 	 obex-data-server
 System Environment/Daemons 	 oddjob
 System Environment/Daemons 	 opa-fm
+System Environment/Daemons 	 opal-prd
+System Environment/Daemons 	 openldap
+System Environment/Daemons 	 ORBit2
 System Environment/Daemons 	 pacemaker
+System Environment/Daemons 	 pcsc-lite
+System Environment/Daemons 	 pki-core
 System Environment/Daemons 	 portreserve
+System Environment/Daemons 	 postfix
+System Environment/Daemons 	 ppp
 System Environment/Daemons 	 qemu-guest-agent
 System Environment/Daemons 	 quagga
 System Environment/Daemons 	 radvd
 System Environment/Daemons 	 rpcbind
 System Environment/Daemons 	 rp-pppoe
-System Environment/Daemons 	 rsh
 System Environment/Daemons 	 rsyslog
 System Environment/Daemons 	 rsyslog
 System Environment/Daemons 	 rusers
 System Environment/Daemons 	 rwho
 System Environment/Daemons 	 sbd
+System Environment/Daemons 	 sendmail
 System Environment/Daemons 	 slapi-nis
 System Environment/Daemons 	 squid
-System Environment/Daemons 	 talk
-System Environment/Daemons 	 telnet
-System Environment/Daemons 	 tftp
-System Environment/Daemons 	 usbredir
-System Environment/Daemons 	 util-linux
+System Environment/Daemons 	 tcp_wrappers
+System Environment/Daemons 	 tog-pegasus
+System Environment/Daemons 	 tomcat
+System Environment/Daemons 	 unbound
+System Environment/Daemons 	 usbguard
 System Environment/Daemons 	 vsftpd
 System Environment/Daemons 	 wvdial
 System Environment/Daemons 	 xinetd
 System Environment/Daemons 	 ypbind
 System Environment/Daemons 	 ypserv
-System Environment/Development 	 infinipath-psm
 System Environment/Kernel 	 aic94xx-firmware
+System Environment/Kernel 	 dlm
 System Environment/Kernel 	 fxload
 System Environment/Kernel 	 gfs2-utils
 System Environment/Kernel 	 ivtv-firmware
 System Environment/Kernel 	 kabi-yum-plugins
-System Environment/Kernel\ 	 kernel
+System Environment/Kernel 	 kernel
+System Environment/Kernel 	 kmod
 System Environment/Kernel 	 kpatch
 System Environment/Kernel 	 linux-firmware
-System Environment/Kernel\ 	 %{src_pkg_name}
+System Environment/Kernel 	 %{src_pkg_name}
 System Environment/Libraries 	 abrt-java-connector
+System Environment/Libraries 	 agg
+System Environment/Libraries 	 alsa-lib
 System Environment/Libraries 	 alsa-plugins
+System Environment/Libraries 	 apr
+System Environment/Libraries 	 apr-util
+System Environment/Libraries 	 atkmm
+System Environment/Libraries 	 atlas
+System Environment/Libraries 	 at-spi
+System Environment/Libraries 	 audiofile
 System Environment/Libraries 	 augeas
+System Environment/Libraries 	 babl
 System Environment/Libraries 	 bind-dyndb-ldap
-System Environment/Libraries 	 binutils
-System Environment/Libraries 	 bzip2
-System Environment/Libraries 	 ceph-common
-System Environment/Libraries 	 clufter
+System Environment/Libraries 	 boost
+System Environment/Libraries 	 cairomm
+System Environment/Libraries 	 c-ares
+System Environment/Libraries 	 celt051
 System Environment/Libraries 	 compat-dapl
 System Environment/Libraries 	 compat-db
-System Environment/Libraries 	 compat-gcc-32
-System Environment/Libraries 	 compat-gcc-34
 System Environment/Libraries 	 compat-glew
-System Environment/Libraries 	 compat-gnome-bluetooth38
 System Environment/Libraries 	 compat-gnome-desktop38
 System Environment/Libraries 	 compat-libcap1
 System Environment/Libraries 	 compat-libgdata013
@@ -1989,72 +1676,342 @@ System Environment/Libraries 	 compat-openldap
 System Environment/Libraries 	 compat-opensm-libs
 System Environment/Libraries 	 compat-upower09
 System Environment/Libraries 	 coolkey
+System Environment/Libraries 	 cpptest
 System Environment/Libraries 	 cracklib
-System Environment/Libraries 	 cryptsetup
 System Environment/Libraries 	 cyrus-sasl
 System Environment/Libraries 	 dapl
+System Environment/Libraries 	 dbus
+System Environment/Libraries 	 dbus-glib
+System Environment/Libraries 	 dbusmenu-qt
+System Environment/Libraries 	 dotconf
+System Environment/Libraries 	 enchant
+System Environment/Libraries 	 evolution-data-server
+System Environment/Libraries 	 exempi
+System Environment/Libraries 	 expat
 System Environment/Libraries 	 festival-freebsoft-utils
+System Environment/Libraries 	 fftw
 System Environment/Libraries 	 fipscheck
+System Environment/Libraries 	 flute
+System Environment/Libraries 	 fontconfig
 System Environment/Libraries 	 foomatic
 System Environment/Libraries 	 foomatic-db
-System Environment/Libraries 	 FreeIPA
+System Environment/Libraries 	 freeglut
+System Environment/Libraries 	 freetype
+System Environment/Libraries 	 frei0r-plugins
 System Environment/Libraries 	 fribidi
+System Environment/Libraries 	 gavl
+System Environment/Libraries 	 gc
 System Environment/Libraries 	 gcc-libraries
+System Environment/Libraries 	 gd
+System Environment/Libraries 	 gdbm
+System Environment/Libraries 	 gegl
 System Environment/Libraries 	 geoclue
+System Environment/Libraries 	 giflib
 System Environment/Libraries 	 glew
+System Environment/Libraries 	 glibc
+System Environment/Libraries 	 gmp
+System Environment/Libraries 	 gnome-keyring
+System Environment/Libraries 	 gnome-menus
 System Environment/Libraries 	 gnome-vfs2
 System Environment/Libraries 	 gnome-video-effects
+System Environment/Libraries 	 gnutls
+System Environment/Libraries 	 grantlee
+System Environment/Libraries 	 gsl
+System Environment/Libraries 	 gsm
 System Environment/Libraries 	 gssproxy
+System Environment/Libraries 	 gtk2
+System Environment/Libraries 	 gtkhtml3
+System Environment/Libraries 	 gtkspell
+System Environment/Libraries 	 gupnp-dlna
+System Environment/Libraries 	 gupnp-igd
+System Environment/Libraries 	 hesiod
+System Environment/Libraries 	 hsakmt
+System Environment/Libraries 	 hunspell
+System Environment/Libraries 	 hyphen
+System Environment/Libraries 	 ibus
 System Environment/Libraries 	 ibus-chewing
 System Environment/Libraries 	 ibus-hangul
 System Environment/Libraries 	 ibus-kkc
 System Environment/Libraries 	 ibus-libpinyin
 System Environment/Libraries 	 ibus-m17n
+System Environment/Libraries 	 ibus-qt
 System Environment/Libraries 	 ibus-rawcode
 System Environment/Libraries 	 ibus-sayura
+System Environment/Libraries 	 ibus-table
 System Environment/Libraries 	 ibus-table-chinese
 System Environment/Libraries 	 ibus-typing-booster
 System Environment/Libraries 	 ibutils
+System Environment/Libraries 	 ilmbase
+System Environment/Libraries 	 infinipath-psm
+System Environment/Libraries 	 iniparser
+System Environment/Libraries 	 jai-imageio-core
+System Environment/Libraries 	 jansson
+System Environment/Libraries 	 jasper
+System Environment/Libraries 	 json-glib
+System Environment/Libraries 	 jss
 System Environment/Libraries 	 kio_sysinfo
+System Environment/Libraries 	 krb5
+System Environment/Libraries 	 ladspa
+System Environment/Libraries 	 lasso
+System Environment/Libraries 	 ldns
+System Environment/Libraries 	 libaio
+System Environment/Libraries 	 libao
+System Environment/Libraries 	 libarchive
+System Environment/Libraries 	 libart_lgpl
+System Environment/Libraries 	 libassuan
+System Environment/Libraries 	 libasyncns
+System Environment/Libraries 	 libatasmart
+System Environment/Libraries 	 libavc1394
+System Environment/Libraries 	 libbase
+System Environment/Libraries 	 libbluray
+System Environment/Libraries 	 libbonobo
+System Environment/Libraries 	 libbonoboui
+System Environment/Libraries 	 libburn
+System Environment/Libraries 	 libcanberra
+System Environment/Libraries 	 libcap
+System Environment/Libraries 	 libcap-ng
+System Environment/Libraries 	 libcdio
+System Environment/Libraries 	 libcdio-paranoia
+System Environment/Libraries 	 libchewing
+System Environment/Libraries 	 libcmpiutil
+System Environment/Libraries 	 libconfig
+System Environment/Libraries 	 libcroco
+System Environment/Libraries 	 libcryptui
+System Environment/Libraries 	 libdaemon
+System Environment/Libraries 	 libdb
+System Environment/Libraries 	 libdmx
+System Environment/Libraries 	 libdrm
+System Environment/Libraries 	 libdv
+System Environment/Libraries 	 libdvdnav
+System Environment/Libraries 	 libdvdread
+System Environment/Libraries 	 libeasyfc
+System Environment/Libraries 	 libedit
+System Environment/Libraries 	 libee
+System Environment/Libraries 	 libesmtp
 System Environment/Libraries 	 libevdev
+System Environment/Libraries 	 libevent
+System Environment/Libraries 	 libexif
+System Environment/Libraries 	 libexttextcat
 System Environment/Libraries 	 libfabric
+System Environment/Libraries 	 libffi
+System Environment/Libraries 	 libfontenc
+System Environment/Libraries 	 libfonts
+System Environment/Libraries 	 libformula
+System Environment/Libraries 	 libfprint
+System Environment/Libraries 	 libgcrypt
+System Environment/Libraries 	 libgdither
+System Environment/Libraries 	 libgee06
+System Environment/Libraries 	 libglade2
+System Environment/Libraries 	 libgnome
+System Environment/Libraries 	 libgnomecanvas
+System Environment/Libraries 	 libgnome-keyring
+System Environment/Libraries 	 libgnomeui
+System Environment/Libraries 	 libgpg-error
+System Environment/Libraries 	 libgpod
+System Environment/Libraries 	 libgsf
+System Environment/Libraries 	 libgxim
+System Environment/Libraries 	 libgxps
+System Environment/Libraries 	 libhangul
+System Environment/Libraries 	 libhbaapi
+System Environment/Libraries 	 libhbalinux
+System Environment/Libraries 	 libhugetlbfs
 System Environment/Libraries 	 libibcommon
 System Environment/Libraries 	 libibmad
+System Environment/Libraries 	 libical
+System Environment/Libraries 	 libICE
+System Environment/Libraries 	 libid3tag
+System Environment/Libraries 	 libIDL
+System Environment/Libraries 	 libidn
+System Environment/Libraries 	 libiec61883
 System Environment/Libraries 	 libieee1284
+System Environment/Libraries 	 libimobiledevice
+System Environment/Libraries 	 libiodbc
+System Environment/Libraries 	 libiscsi
+System Environment/Libraries 	 libisofs
+System Environment/Libraries 	 libjpeg-turbo
+System Environment/Libraries 	 libkkc
+System Environment/Libraries 	 libksba
+System Environment/Libraries 	 liblayout
+System Environment/Libraries 	 libloader
+System Environment/Libraries 	 liblouis
+System Environment/Libraries 	 libmemcached
+System Environment/Libraries 	 libmng
+System Environment/Libraries 	 libmnl
+System Environment/Libraries 	 libmodman
+System Environment/Libraries 	 libmpcdec
+System Environment/Libraries 	 libmsn
+System Environment/Libraries 	 libmspack
 System Environment/Libraries 	 libmtp
-System Environment/Libraries 	 libpsm2
+System Environment/Libraries 	 libmusicbrainz
+System Environment/Libraries 	 libmusicbrainz5
+System Environment/Libraries 	 libmx
+System Environment/Libraries 	 libndp
+System Environment/Libraries 	 libnet
+System Environment/Libraries 	 libnetfilter_conntrack
+System Environment/Libraries 	 libnetfilter_cthelper
+System Environment/Libraries 	 libnetfilter_cttimeout
+System Environment/Libraries 	 libnetfilter_queue
+System Environment/Libraries 	 libnetfilter_queue
+System Environment/Libraries 	 libnfnetlink
+System Environment/Libraries 	 libnfsidmap
+System Environment/Libraries 	 libnice
+System Environment/Libraries 	 libntlm
+System Environment/Libraries 	 liboauth
+System Environment/Libraries 	 libofa
+System Environment/Libraries 	 libogg
+System Environment/Libraries 	 liboil
+System Environment/Libraries 	 libotf
+System Environment/Libraries 	 libpaper
+System Environment/Libraries 	 libpciaccess
+System Environment/Libraries 	 libpfm
+System Environment/Libraries 	 libplist
+System Environment/Libraries 	 libpng
+System Environment/Libraries 	 libpng12
+System Environment/Libraries 	 libproxy
+System Environment/Libraries 	 libqb
+System Environment/Libraries 	 librabbitmq
+System Environment/Libraries 	 libraw
+System Environment/Libraries 	 librelp
+System Environment/Libraries 	 librepo
+System Environment/Libraries 	 libreport
+System Environment/Libraries 	 librepository
+System Environment/Libraries 	 librsvg2
+System Environment/Libraries 	 librtas
+System Environment/Libraries 	 libsamplerate
+System Environment/Libraries 	 libseccomp
+System Environment/Libraries 	 libselinux
+System Environment/Libraries 	 libsemanage
+System Environment/Libraries 	 libsepol
+System Environment/Libraries 	 libserializer
+System Environment/Libraries 	 libservicelog
+System Environment/Libraries 	 libsexy
+System Environment/Libraries 	 lib%{shortname}
+System Environment/Libraries 	 libshout
+System Environment/Libraries 	 libSM
+System Environment/Libraries 	 libsmbios
+System Environment/Libraries 	 libsmi
+System Environment/Libraries 	 libsndfile
+System Environment/Libraries 	 libspectre
+System Environment/Libraries 	 libspiro
+System Environment/Libraries 	 libssh2
 System Environment/Libraries 	 libstoragemgmt
+System Environment/Libraries 	 libtar
+System Environment/Libraries 	 libtasn1
+System Environment/Libraries 	 libteam
+System Environment/Libraries 	 libthai
+System Environment/Libraries 	 libtheora
+System Environment/Libraries 	 libtiff
+System Environment/Libraries 	 libtimezonemap
+System Environment/Libraries 	 libtirpc
+System Environment/Libraries 	 libtnc
 System Environment/Libraries 	 libtranslit
+System Environment/Libraries 	 libuninameslist
+System Environment/Libraries 	 libunistring
+System Environment/Libraries 	 libusb
+System Environment/Libraries 	 libusbmuxd
+System Environment/Libraries 	 libusbx
 System Environment/Libraries 	 libusnic_verbs
+System Environment/Libraries 	 libutempter
+System Environment/Libraries 	 libvncserver
+System Environment/Libraries 	 libvoikko
+System Environment/Libraries 	 libvorbis
+System Environment/Libraries 	 libvpx
 System Environment/Libraries 	 libwacom
+System Environment/Libraries 	 libwmf
+System Environment/Libraries 	 libwnck3
+System Environment/Libraries 	 libwvstreams
+System Environment/Libraries 	 libX11
+System Environment/Libraries 	 libXau
+System Environment/Libraries 	 libXaw
+System Environment/Libraries 	 libXcomposite
+System Environment/Libraries 	 libXcursor
+System Environment/Libraries 	 libXdamage
+System Environment/Libraries 	 libXdmcp
+System Environment/Libraries 	 libXevie
+System Environment/Libraries 	 libXext
+System Environment/Libraries 	 libXfixes
+System Environment/Libraries 	 libxfont
+System Environment/Libraries 	 libXfont2
+System Environment/Libraries 	 libXft
+System Environment/Libraries 	 libXi
+System Environment/Libraries 	 libXinerama
+System Environment/Libraries 	 libxkbfile
+System Environment/Libraries 	 libXmu
+System Environment/Libraries 	 libXp
+System Environment/Libraries 	 libXpm
+System Environment/Libraries 	 libXrandr
+System Environment/Libraries 	 libXrender
+System Environment/Libraries 	 libXres
+System Environment/Libraries 	 libXScrnSaver
+System Environment/Libraries 	 libXt
+System Environment/Libraries 	 libXtst
+System Environment/Libraries 	 libXv
+System Environment/Libraries 	 libXvMC
+System Environment/Libraries 	 libXxf86dga
+System Environment/Libraries 	 libXxf86misc
+System Environment/Libraries 	 libXxf86vm
+System Environment/Libraries 	 libyaml
 System Environment/Libraries 	 lksctp-tools
 System Environment/Libraries 	 llvm-private
 System Environment/Libraries 	 lockdev
-System Environment/Libraries 	 lua
+System Environment/Libraries 	 log4cxx
+System Environment/Libraries 	 lpsolve
+System Environment/Libraries 	 lzo
 System Environment/Libraries 	 m17n-contrib
+System Environment/Libraries 	 m17n-db
 System Environment/Libraries 	 m17n-lib
 System Environment/Libraries 	 m2crypto
+System Environment/Libraries 	 memkind
 System Environment/Libraries 	 mesa
+System Environment/Libraries 	 mesa-demos
+System Environment/Libraries 	 mesa-libGLw
 System Environment/Libraries 	 mesa-private-llvm
 System Environment/Libraries 	 mod_wsgi
+System Environment/Libraries 	 motif
+System Environment/Libraries 	 mpfr
 System Environment/Libraries 	 mtdev
 System Environment/Libraries 	 mysql-connector-java
 System Environment/Libraries 	 mysql-connector-odbc
-System Environment/Libraries 	 ndctl
+System Environment/Libraries 	 mythes
+System Environment/Libraries 	 neon
 System Environment/Libraries 	 netcf
-System Environment/Libraries 	 numactl
+System Environment/Libraries 	 netpbm
+System Environment/Libraries 	 newt
+System Environment/Libraries 	 nspr
+System Environment/Libraries 	 nss
+System Environment/Libraries 	 nss_compat_ossl
+System Environment/Libraries 	 nss-softokn
+System Environment/Libraries 	 nss-util
 System Environment/Libraries 	 nuxwdog
-System Environment/Libraries 	 opencryptoki
+System Environment/Libraries 	 nvml
+System Environment/Libraries 	 opal
+System Environment/Libraries 	 opencc
 System Environment/Libraries 	 OpenEXR
 System Environment/Libraries 	 openobex
 System Environment/Libraries 	 opensc
+System Environment/Libraries 	 openscap
+System Environment/Libraries 	 openslp
+System Environment/Libraries 	 openssl
 System Environment/Libraries 	 openssl098e
-System Environment/Libraries 	 pciutils
+System Environment/Libraries 	 opus
+System Environment/Libraries 	 orc
+System Environment/Libraries 	 ortp
+System Environment/Libraries 	 pakchois
+System Environment/Libraries 	 pangomm
+System Environment/Libraries 	 pcre
+System Environment/Libraries 	 pcre2
 System Environment/Libraries 	 pcsc-lite-ccid
+System Environment/Libraries 	 pentaho-libxml
+System Environment/Libraries 	 pentaho-reporting-flow-engine
 System Environment/Libraries 	 perl-Newt
 System Environment/Libraries 	 phonon
 System Environment/Libraries 	 phonon-backend-gstreamer
-System Environment/Libraries 	 php
+System Environment/Libraries 	 pixman
+System Environment/Libraries 	 polkit
+System Environment/Libraries 	 popt
+System Environment/Libraries 	 protobuf-c
+System Environment/Libraries 	 pth
+System Environment/Libraries 	 ptlib
 System Environment/Libraries 	 pykickstart
 System Environment/Libraries 	 PyOpenGL
 System Environment/Libraries 	 pyparted
@@ -2071,7 +2028,6 @@ System Environment/Libraries 	 python-linux-procfs
 System Environment/Libraries 	 python-meh
 System Environment/Libraries 	 python-%{oname}
 System Environment/Libraries 	 python-paste
-System Environment/Libraries 	 python-pillow
 System Environment/Libraries 	 python-ply
 System Environment/Libraries 	 python-pyasn1
 System Environment/Libraries 	 python-pycparser
@@ -2082,32 +2038,64 @@ System Environment/Libraries 	 python-slip
 System Environment/Libraries 	 python-%{srcname}
 System Environment/Libraries 	 python-%{srcname}
 System Environment/Libraries 	 python-%{srcname}
+System Environment/Libraries 	 python-%{srcname}
 System Environment/Libraries 	 python-webob
+System Environment/Libraries 	 qca2
 System Environment/Libraries 	 qca-ossl
 System Environment/Libraries 	 qimageblitz
-System Environment/Libraries 	 Qt
+System Environment/Libraries 	 qt
+System Environment/Libraries 	 qt3
+System Environment/Libraries 	 rasqal
+System Environment/Libraries 	 readline
 System Environment/Libraries 	 redland
+System Environment/Libraries 	 sac
 System Environment/Libraries 	 sane-backends
-System Environment/Libraries 	 %{?scl_prefix}%{?cross}binutils%{?_with_debug
-System Environment/Libraries 	 sendmail
+System Environment/Libraries 	 satyr
+System Environment/Libraries 	 SDL
 System Environment/Libraries 	 skkdic
+System Environment/Libraries 	 slang
+System Environment/Libraries 	 snappy
+System Environment/Libraries 	 soundtouch
+System Environment/Libraries 	 speech-dispatcher
+System Environment/Libraries 	 speex
+System Environment/Libraries 	 spice-gtk
+System Environment/Libraries 	 startup-notification
+System Environment/Libraries 	 suitesparse
 System Environment/Libraries 	 targetcli
 System Environment/Libraries 	 targetd
+System Environment/Libraries 	 telepathy-farstream
+System Environment/Libraries 	 telepathy-glib
+System Environment/Libraries 	 telepathy-mission-control
 System Environment/Libraries 	 tomcatjss
-System Environment/Libraries 	 volume_key
+System Environment/Libraries 	 trousers
+System Environment/Libraries 	 udisks2
+System Environment/Libraries 	 unique3
+System Environment/Libraries 	 unixODBC
+System Environment/Libraries 	 upower
+System Environment/Libraries 	 uriparser
+System Environment/Libraries 	 usbredir
+System Environment/Libraries 	 ustr
+System Environment/Libraries 	 uuid
 System Environment/Libraries 	 words
 System Environment/Libraries 	 xcb-util
 System Environment/Libraries 	 xcb-util-image
 System Environment/Libraries 	 xcb-util-keysyms
 System Environment/Libraries 	 xcb-util-renderutil
 System Environment/Libraries 	 xcb-util-wm
+System Environment/Libraries 	 xerces-c
+System Environment/Libraries 	 xml-commons-apis12
+System Environment/Libraries 	 xmlrpc-c
+System Environment/Libraries 	 xmlsec
 System Environment/Libraries 	 xorg-x11-xtrans-devel
+System Environment/Libraries 	 zlib
+System Environment/Shells 	 bash
 System Environment/Shells 	 ksh
 System Environment/Shells 	 mc
 System Environment/Shells 	 mksh
 System Environment/Shells 	 tcsh
 System Environment/Shells 	 zsh
 System/Kernel 	 %{kmod_name}
+Text Processing/Markup/XML 	 tagsoup
 Unknown 	 adcli
 Unknown 	 adwaita-icon-theme
 Unknown 	 adwaita-qt
@@ -2210,6 +2198,7 @@ Unknown 	 genwqe-tools
 Unknown 	 geoclue2
 Unknown 	 geocode-glib
 Unknown 	 geronimo-annotation
+Unknown 	 gjs
 Unknown 	 glade
 Unknown 	 glib2
 Unknown 	 glibmm24
@@ -2542,7 +2531,7 @@ Unknown 	 %{python}-twisted-words
 Unknown 	 python-yubico
 Unknown 	 qgnomeplatform
 Unknown 	 qrencode
-Unknown 	 Qt5
+Unknown 	 qt5-qtbase
 Unknown 	 qt5-%{qt_module}
 Unknown 	 qt5-%{qt_module}
 Unknown 	 qt5-%{qt_module}
@@ -2582,7 +2571,6 @@ Unknown 	 seahorse-nautilus
 Unknown 	 seahorse-sharing
 Unknown 	 shotwell
 Unknown 	 soprano
-Unknown 	 SpiderMonkey %{mozjs_version}
 Unknown 	 %{srcname}
 Unknown 	 supermin
 Unknown 	 sushi
@@ -2633,11 +2621,12 @@ Unknown 	 xorg-server
 Unknown 	 xorg-x11-drv-libinput
 Unknown 	 xpp3
 Unknown 	 zenity
-User Interface/Desktop 	 gnome-session
 User Interface/Desktops 	 fonts-tweak-tool
 User Interface/Desktops 	 gnome-abrt
+User Interface/Desktops 	 gnome-icon-theme
 User Interface/Desktops 	 gnome-icon-theme-extras
 User Interface/Desktops 	 gnome-icon-theme-symbolic
+User Interface/Desktops 	 gnome-session
 User Interface/Desktops 	 gnome-shell
 User Interface/Desktops 	 gnome-shell-extensions
 User Interface/Desktops 	 gnome-terminal
@@ -2647,6 +2636,7 @@ User Interface/Desktops 	 kdeaccessibility
 User Interface/Desktops 	 kdeadmin
 User Interface/Desktops 	 kde-l10n
 User Interface/Desktops 	 matchbox-window-manager
+User Interface/Desktops 	 metacity
 User Interface/Desktops 	 mousetweaks
 User Interface/Desktops 	 nautilus-sendto
 User Interface/Desktops 	 orca
@@ -2654,7 +2644,10 @@ User Interface/Desktops 	 oxygen-gtk
 User Interface/Desktops 	 oxygen-gtk2
 User Interface/Desktops 	 oxygen-gtk3
 User Interface/Desktops 	 redhat-menus
+User Interface/Desktops 	 shared-desktop-ontologies
 User Interface/Desktops 	 sound-theme-freedesktop
+User Interface/Desktops 	 spice
+User Interface/Desktops 	 tigervnc
 User Interface/Desktops 	 xdg-user-dirs
 User Interface/Desktops 	 xdg-user-dirs-gtk
 User Interface/Desktops 	 xsettings-kde
@@ -2716,24 +2709,30 @@ User Interface/X 	 %{fontname}-fonts
 User Interface/X 	 %{fontname}-fonts
 User Interface/X 	 %{fontname}-fonts
 User Interface/X 	 %{fontname}-fonts
+User Interface/X 	 gdm
 User Interface/X 	 ghostscript-chinese
 User Interface/X Hardware Support 	 xorg-x11-drivers
 User Interface/X Hardware Support 	 xorg-x11-drv-ati
 User Interface/X Hardware Support 	 xorg-x11-drv-dummy
+User Interface/X Hardware Support 	 xorg-x11-drv-evdev
 User Interface/X Hardware Support 	 xorg-x11-drv-fbdev
+User Interface/X Hardware Support 	 xorg-x11-drv-intel
 User Interface/X Hardware Support 	 xorg-x11-drv-keyboard
+User Interface/X Hardware Support 	 xorg-x11-drv-mouse
 User Interface/X Hardware Support 	 xorg-x11-drv-nouveau
+User Interface/X Hardware Support 	 xorg-x11-drv-openchrome
 User Interface/X Hardware Support 	 xorg-x11-drv-qxl
+User Interface/X Hardware Support 	 xorg-x11-drv-synaptics
 User Interface/X Hardware Support 	 xorg-x11-drv-v4l
 User Interface/X Hardware Support 	 xorg-x11-drv-vesa
 User Interface/X Hardware Support 	 xorg-x11-drv-vmmouse
 User Interface/X Hardware Support 	 xorg-x11-drv-vmware
 User Interface/X Hardware Support 	 xorg-x11-drv-void
-User Interface/X 	 html2ps
+User Interface/X Hardware Support 	 xorg-x11-drv-wacom
 User Interface/X 	 icc-profiles-openicc
 User Interface/X 	 imake
-User Interface/X 	 tigervnc
 User Interface/X 	 urw-fonts
+User Interface/X 	 vte3
 User Interface/X 	 xkeyboard-config
 User Interface/X 	 xorg-x11-fonts
 User Interface/X 	 xorg-x11-%{pkgname}
@@ -2742,5 +2741,6 @@ User Interface/X 	 xorg-x11-%{pkgname}
 User Interface/X 	 xorg-x11-%{pkgname}
 User Interface/X 	 xorg-x11-%{pkgname}
 User Interface/X 	 xorg-x11-%{pkgname}
+User Interface/X 	 xorg-x11-server-Xorg
+User Interface/X 	 xorg-x11-xkb-utils
 User Interface/X 	 xterm
-User Interface/X 	 xvattr
