@@ -1,0 +1,2746 @@
+389-ds-base	System Environment/Daemons	Development/Libraries
+Cython	Development/Tools
+ElectricFence	Development/Tools
+GConf2	System Environment/Base	Development/Libraries
+GeoIP	Development/Libraries	Applications/Databases
+ImageMagick	System Environment/Libraries	Applications/Multimedia	Development/Libraries	Documentation
+LibRaw	Development/Libraries
+ModemManager	System Environment/Base	Development/Libraries
+MySQL-python	Development/Libraries
+NetworkManager	System Environment/Base	Development/Libraries
+NetworkManager-libreswan	System Environment/Base
+ORBit2	System Environment/Daemons	Development/Libraries
+OpenEXR	System Environment/Libraries	Development/Libraries
+OpenIPMI	System Environment/Base	System Environment/Kernel	Development/Libraries
+PackageKit	Unknown
+PyGreSQL	Applications/Databases
+PyOpenGL	System Environment/Libraries
+PyPAM	Development/Libraries
+PyQt4	Unknown
+PyYAML	Development/Libraries
+SDL	System Environment/Libraries	Development/Libraries
+SLOF	Applications/Emulators
+SOAPpy	Development/Languages
+a2ps	Applications/Publishing	Applications/Editors
+%{fontname}-fonts	User Interface/X
+abrt	System Environment/Libraries	Development/Libraries	User Interface/Desktops	Documentation	Applications/System
+abrt-java-connector	System Environment/Libraries
+accountsservice	System Environment/Daemons	Development/Libraries
+acl	System Environment/Base	System Environment/Libraries	Development/Libraries
+acpica-tools	Development/Languages
+acpid	System Environment/Daemons
+adcli	Unknown
+advancecomp	Applications/Emulators
+adwaita-icon-theme	Unknown
+adwaita-qt	Unknown
+adwaita-qt	Unknown
+aether	Unknown
+agg	System Environment/Libraries	Development/Libraries
+aic94xx-firmware	System Environment/Kernel
+aide	Applications/System
+akonadi	Unknown
+alacarte	Applications/System
+alsa-firmware	Applications/Multimedia
+alsa-lib	System Environment/Libraries	Development/Libraries
+alsa-plugins	System Environment/Libraries
+alsa-tools	Applications/Multimedia	Applications/System
+alsa-utils	Applications/Multimedia
+amanda	Applications/System
+anaconda	System Environment/Libraries	Development/Libraries	Applications/System
+anaconda	Applications/System	System Environment/Libraries	Development/Libraries
+anaconda-user-help	System Environment/Base
+ant	Unknown
+ant-%{base_name}	Development/Libraries
+ant-contrib	Documentation	Development/Libraries
+antlr	Development/Libraries	Development/Tools	Documentation
+aopalliance	Unknown
+apache-%{short_name}	Unknown
+apache-%{short_name}	Development/Libraries	Documentation
+apache-%{short_name}	Unknown
+apache-%{short_name}	Development/Libraries	Development/Tools	Documentation
+apache-%{short_name}	Documentation	Development/Libraries
+apache-%{short_name}	Development/Libraries	Documentation
+apache-%{short_name}	Applications/System	Documentation
+apache-%{short_name}	Unknown
+apache-%{short_name}	Unknown
+apache-commons-exec	Documentation	Development/Libraries
+apache-%{short_name}	Unknown
+apache-%{jarname}	Development/Libraries	Documentation
+apache-%{short_name}	Development/Libraries	Documentation
+apache-%{short_name}	Development/Libraries	Documentation
+apache-%{short_name}	Unknown
+apache-%{short_name}	Development/Libraries	Documentation
+apache-%{short_name}	Development/Libraries	Documentation
+apache-%{short_name}	Development/Libraries
+apache-%{short_name}	Unknown
+apache-%{short_name}	Development/Libraries	Documentation
+apache-commons-vfs	Unknown
+apache-ivy	Development/Tools
+apache-parent	Development/Libraries
+apache-rat	Development/Libraries	Documentation
+apache-resource-bundles	Development/Libraries
+appstream-data	Unknown
+apr	System Environment/Libraries	Development/Libraries
+apr-util	System Environment/Libraries	Development/Libraries
+aqute-bnd	Development/Tools	Documentation
+aqute-bndlib	Development/Tools	Documentation
+args4j	Unknown
+ark	Unknown
+arptables	System Environment/Base
+arpwatch	Applications/System
+asciidoc	Applications/System
+aspell	Development/Libraries	Applications/Text
+at	System Environment/Daemons	System Environment/Base
+at-spi	System Environment/Libraries	Development/Libraries
+at-spi2-atk	Unknown
+at-spi2-core	Unknown
+atinject	Unknown
+atk	Unknown
+atkmm	System Environment/Libraries	Development/Libraries	Documentation
+atlas	System Environment/Libraries	Development/Libraries
+attica	Unknown
+attr	System Environment/Base	System Environment/Libraries	Development/Libraries
+audiocd-kio	Unknown
+audiofile	Development/Libraries	System Environment/Libraries
+audit	System Environment/Daemons	Development/Libraries
+augeas	System Environment/Libraries	Development/Libraries
+authconfig	System Environment/Base
+authd	System Environment/Daemons
+autoconf	Development/Tools
+autoconf-archive	Unknown
+autoconf213	Development/Tools
+autofs	System Environment/Daemons
+autogen	Development/Tools	System Environment/Libraries	Development/Libraries
+automake	Development/Tools
+automoc	Development/Tools
+autotrace	Applications/Multimedia	Development/Libraries
+avahi	Unknown
+avalon-%{short_name}	Development/Libraries	Documentation
+avalon-%{short_name}	Development/Libraries	Documentation
+awscli	Unknown
+babel	Development/Languages
+babl	System Environment/Libraries	Development/Libraries	Documentation
+bacula	System Environment/Daemons	Development/Libraries	Applications/System
+%{fontname}-fonts	User Interface/X
+baobab	Unknown
+base64coder	Unknown
+basesystem	System Environment/Base
+bash	System Environment/Shells	Development/Languages
+bash-completion	Unknown
+batik	Applications/Multimedia	Documentation
+bc	Applications/Engineering
+bcel	Unknown
+bea-stax	Development/Libraries/Java	Development/Documentation
+beust-%{short_name}	Development/Libraries	Documentation
+bind	System Environment/Daemons	Applications/System	Development/Libraries
+bind-dyndb-ldap	System Environment/Libraries
+binutils	Development/Tools	System Environment/Libraries
+biosdevname	System Environment/Base
+bison	Development/Tools	Development/Libraries
+bitmap-fonts	User Interface/X
+blktrace	Development/System
+bltk	Applications/System
+bluedevil	Unknown
+bluez	Applications/System	System Environment/Libraries	Development/Libraries	System Environment/Daemons
+bogofilter	Applications/Internet
+boost	System Environment/Libraries	Development/Libraries	Documentation	Development/Tools
+booth	System Environment/Daemons
+%{fontname}-fonts	User Interface/X
+brasero	Development/Libraries	Applications/Multimedia	System Environment/Libraries	User Interface/Desktops
+bridge-utils	System Environment/Base
+brltty	Development/System	System Environment/Daemons	Applications/System
+bsf	Development/Libraries	Documentation
+bsh	Unknown
+btrfs-progs	System Environment/Base	Development/Libraries
+buildnumber-maven-plugin	Development/Libraries	Documentation
+bwidget	Development/Libraries
+byacc	Development/Tools
+byaccj	Development/Libraries
+byteman	Development/Libraries	Documentation
+bzip2	Applications/File	Development/Libraries	System Environment/Libraries
+bzr	Development/Tools	Documentation
+c-ares	System Environment/Libraries	Development/Libraries
+ca-certificates	System Environment/Base
+cachefilesd	System Environment/Daemons
+cairo	Unknown
+cairomm	System Environment/Libraries	Development/Libraries	Documentation
+cal10n	Unknown
+caribou	Unknown
+cdi-api	Development/Libraries	Documentation
+cdparanoia	Applications/Multimedia	Development/Libraries
+cdrdao	Applications/Multimedia
+cdrkit	Applications/System	Applications/Archiving	Applications/Multimedia	Development/Libraries
+celt051	System Environment/Libraries	Development/Libraries
+centos-bookmarks	Applications/Internet
+centos-indexhtml	Documentation
+centos-logos	System Environment/Base
+centos-release	System Environment/Base
+centos-release	System Environment/Base
+centos-release	System Environment/Base
+centos-userland-release	System Environment/Base
+ceph-common	System Environment/Base	System Environment/Libraries	Development/Libraries
+certmonger	System Environment/Daemons
+cgdcbxd	System Environment/Base
+cglib	Documentation	Development/Tools
+check	Development/Tools	Development/Libraries
+checkpolicy	Development/System
+cheese	Unknown
+chkconfig	System Environment/Base
+chrony	System Environment/Daemons
+chrpath	Development/Tools
+cifs-utils	System Environment/Daemons	Development/Libraries
+cim-schema	Development/Libraries	Documentation
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+clevis	Unknown
+cloud-init	System Environment/Base
+cloud-utils-growpart	System Environment/Base
+clucene	Development/Libraries	Development/System
+clufter	System Environment/Base	System Environment/Libraries
+clutter	Unknown
+clutter-gst2	Unknown
+clutter-gst3	Unknown
+clutter-gtk	Unknown
+cmake	Development/Tools
+cmpi-bindings	Development/Libraries	Development/Languages
+cobertura	Unknown
+cockpit	Unknown
+codehaus-parent	Development/Libraries
+codemodel	Development/Libraries	Documentation
+cogl	Unknown
+color-filesystem	System Environment/Base
+colord	Unknown
+colord-gtk	Unknown
+colord-kde	Unknown
+compat-PackageKit08	Unknown
+compat-cheese314	Unknown
+compat-cogl114	Development/Libraries
+compat-colord10	Unknown
+compat-dapl	System Environment/Libraries
+compat-db	System Environment/Libraries
+compat-gcc-32	Development/Languages	System Environment/Libraries
+compat-gcc-34	Development/Languages	System Environment/Libraries
+compat-gcc-44	Development/Languages
+compat-glade315	Unknown
+compat-glew	System Environment/Libraries
+compat-glibc	Development/Libraries
+compat-gnome-bluetooth38	Applications/Communications	System Environment/Libraries
+compat-gnome-desktop314	Unknown
+compat-gnome-desktop38	System Environment/Libraries
+compat-grilo02	Applications/Multimedia
+compat-libcap1	System Environment/Libraries
+compat-libgdata013	System Environment/Libraries
+compat-libgfortran-41	System Environment/Libraries
+compat-libgweather3	System Environment/Libraries
+compat-libmediaart0	Unknown
+compat-libtiff3	System Environment/Libraries
+compat-libxcb	System Environment/Libraries
+compat-openldap	System Environment/Libraries
+compat-opensm-libs	System Environment/Libraries
+compat-poppler022	Development/Libraries	System Environment/Libraries
+compat-upower09	System Environment/Libraries
+comps-extras	Applications/System
+conman	Applications/System
+conntrack-tools	System Environment/Base
+console-setup	Applications/System
+control-center	Unknown
+convmv	Unknown
+coolkey	System Environment/Libraries
+copy-jdk-configs	Unknown
+coreutils	System Environment/Base
+corosync	System Environment/Libraries	System Environment/Base	Development/Libraries
+cpio	Applications/Archiving
+cpptest	System Environment/Libraries	Development/Libraries
+cppunit	Development/Libraries	Documentation
+cpuid	Unknown
+cracklib	System Environment/Libraries	Development/Libraries
+crash	Development/Debuggers
+crash-gcore-command	Development/Debuggers
+crash-ptdump-command	Development/Debuggers
+crash-trace-command	Development/Debuggers
+crda	System Environment/Base	Development/System
+createrepo	System Environment/Base
+criu	System Environment/Base	Development/Libraries	Development/Languages
+cronie	System Environment/Base
+crontabs	System Environment/Base
+crypto-utils	Applications/System
+cryptsetup	Applications/System	Development/Libraries	System Environment/Libraries
+cscope	Development/Tools
+ctags	Development/Tools
+%{fontname}-fonts	User Interface/X
+cups	System Environment/Daemons	Development/Libraries	System Environment/Libraries	System Environment/Base
+cups-filters	System Environment/Libraries	Development/Libraries	System Environment/Base
+cups-pk-helper	System Environment/Base
+curl	Applications/Internet	Development/Libraries
+custodia	Unknown
+cvs	Development/Tools	Documentation
+cvsps	Development/Tools
+cyrus-imapd	System Environment/Daemons	Development/Libraries	Applications/System
+cyrus-sasl	System Environment/Libraries	Development/Libraries
+dapl	System Environment/Libraries
+dblatex	Unknown
+dbus	System Environment/Libraries	Development/Libraries	Documentation
+dbus-glib	System Environment/Libraries	Development/Libraries	Development/Tools
+dbus-python	Unknown
+dbusmenu-qt	System Environment/Libraries	Development/Libraries
+dbxtool	Unknown
+dconf	Development/Libraries	System Environment/Base
+dconf-editor	Unknown
+dcraw	Applications/Multimedia
+dejagnu	Development/Tools
+%{fontname}-fonts	User Interface/X
+deltarpm	System Environment/Base
+desktop-file-utils	Development/Tools
+devhelp	Unknown
+device-mapper-multipath	System Environment/Base	System Environment/Libraries	Development/Libraries
+device-mapper-persistent-data	System Environment/Base
+%{?scl_prefix}%{?cross}binutils%{?_with_debug	Development/Tools	System Environment/Libraries
+dhcp	Development/Libraries	System Environment/Daemons	System Environment/Base
+dialog	Applications/System	Development/Libraries
+diffstat	Development/Tools
+diffutils	Applications/Text
+ding-libs	Development/Libraries
+dleyna-connector-dbus	Unknown
+dleyna-core	Unknown
+dleyna-server	Unknown
+dlm	System Environment/Libraries	Development/Libraries	System Environment/Kernel
+dmidecode	System Environment/Base
+dmraid	System Environment/Base	Development/Libraries
+dnsmasq	System Environment/Daemons
+dnssec-trigger	Unknown
+docbook-dtds	Applications/Text
+docbook-simple	Applications/Text
+docbook-slides	Applications/Text
+docbook-style-dsssl	Applications/Text
+docbook-style-xsl	Applications/Text
+docbook-utils	Applications/Text
+docbook5-schemas	Applications/Text
+docbook5-style-xsl	Applications/Text
+dom4j	Documentation	Development/Libraries
+dos2unix	Applications/Text
+dosfstools	Applications/System
+dotconf	System Environment/Libraries	Development/Libraries
+dovecot	System Environment/Daemons	Development/Libraries
+doxygen	Unknown
+dracut	System Environment/Base	System/Base
+dragon	Unknown
+dropwatch	Applications/System
+dstat	System Environment/Base
+dump	Applications/Archiving
+dumpet	Development/Tools
+dvd+rw-tools	Applications/Multimedia
+dvgrab	Applications/Multimedia
+dwz	Development/Tools
+dyninst	Development/System	Development/Libraries	Documentation
+e2fsprogs	System Environment/Base	Development/Libraries
+easymock	Documentation	Development/Libraries
+easymock2	Development/Languages	Documentation
+ebtables	System Environment/Base
+ecj	Development/Languages
+ed	Applications/Text
+edac-utils	System Environment/Base	Development/Libraries
+efax	Applications/Communications
+efibootmgr	System Environment/Base
+efivar	Unknown
+ekiga	Applications/Communications
+elfutils	Development/Tools
+elinks	Applications/Internet
+emacs	Applications/Editors
+emacs-auctex	Applications/Editors	Documentation	Applications/Publishing
+emacs-php-mode	Applications/Editors
+empathy	Unknown
+enchant	System Environment/Libraries	Development/Libraries
+enscript	Applications/Publishing
+environment-modules	System Environment/Base
+eog	Unknown
+epydoc	Development/Tools
+esc	Applications/Internet
+espeak	Applications/Multimedia	Development/Libraries
+ethtool	Applications/System
+evince	Unknown
+evolution	Applications/Productivity	Development/Libraries
+evolution-data-server	Applications/Productivity	System Environment/Libraries	Development/Libraries
+evolution-ews	Applications/Productivity
+evolution-mapi	Applications/Productivity	Development/Libraries
+exec-maven-plugin	Development/Libraries	Documentation
+exempi	System Environment/Libraries	Development/Libraries
+exiv2	Unknown
+expat	System Environment/Libraries	Development/Libraries
+expect	Development/Languages
+fabtests	Unknown
+farstream	Development/Libraries
+%{far}02	Development/Libraries
+fcoe-utils	Applications/System
+fedfs-utils	System Environment/Daemons
+felix-bundlerepository	Unknown
+%{project}-framework	Development/Libraries	Documentation
+felix-osgi-compendium	Development/Libraries	Documentation
+felix-osgi-core	Unknown
+felix-osgi-foundation	Unknown
+felix-osgi-obr	Development/Libraries	Documentation
+felix-parent	Development/Libraries
+%{project}-shell	Development/Libraries	Documentation
+felix-utils	Development/Libraries	Documentation
+fence-agents	System Environment/Base
+fence-virt	System Environment/Base
+festival	Applications/Multimedia	System Environment/Libraries	Development/Libraries
+festival-freebsoft-utils	System Environment/Libraries
+fetchmail	Applications/Internet
+fftw	Documentation	System Environment/Libraries	Development/Libraries
+file	Applications/File	Development/Libraries
+file-roller	Unknown
+filebench	Applications/File
+filesystem	System Environment/Base
+findutils	Applications/File
+finger	Applications/Internet	System Environment/Daemons
+fio	Applications/System
+fipscheck	System Environment/Libraries
+firefox	Applications/Internet
+firewalld	Unknown
+firstboot	System Environment/Base
+flac	Applications/Multimedia	System Environment/Libraries	Development/Libraries
+flatpak	Development/Tools	Development/Libraries
+flex	Development/Tools	Documentation
+flite	Development/Libraries	Applications/Multimedia
+fltk	Unknown
+flute	System Environment/Libraries	Development Documentation
+folks	Unknown
+%{fontname}-fonts	Unknown
+fontconfig	System Environment/Libraries	Development/Libraries	Documentation
+fontforge	Development/Libraries	Applications/Publishing
+fontpackages	Development/System
+fonts-tweak-tool	User Interface/Desktops
+fonttools	Development/Tools
+foomatic	System Environment/Libraries
+foomatic-db	System Environment/Libraries	System Environment/Base
+fop	Unknown
+forge-parent	Unknown
+fprintd	System Environment/Daemons	System Environment/Base	Development/Libraries
+freeglut	System Environment/Libraries	Development/Libraries
+freeipmi	Applications/System	Development/System
+freeradius	System Environment/Daemons	Documentation
+freerdp	Applications/Communications	Development/Libraries
+freetype	System Environment/Libraries	Development/Libraries
+frei0r-plugins	System Environment/Libraries	System Environment/License	Development/Libraries
+fribidi	System Environment/Libraries
+fros	Applications/System
+ftp	Applications/Internet
+fuse	System Environment/Base	System Environment/Libraries	Development/Libraries
+fuseiso	System Environment/Base
+fusesource-pom	Unknown
+fwupd	Unknown
+fwupdate	Unknown
+fxload	System Environment/Kernel
+gamin	Development/Libraries
+gavl	System Environment/Libraries	Development/Libraries
+gawk	Applications/Text
+gc	System Environment/Libraries	Development/Libraries
+gcab	Unknown
+gcc	Development/Languages	System Environment/Libraries	Development/Libraries	Development/Debug
+gcc-libraries	System Environment/Libraries
+gcc48	Development/Languages
+gconf-editor	Applications/System
+gcr	Development/Libraries
+gd	Applications/Multimedia	Development/Libraries	System Environment/Libraries
+%{?scl_prefix}gdb	Development/Debuggers	Documentation
+gdbm	System Environment/Libraries	Development/Libraries
+gdisk	System Environment/Base
+gdkpixbuf	Unknown
+gdm	User Interface/X	Development/Libraries
+gedit	Unknown
+gedit-plugins	Applications/Editors
+gegl	Development/Libraries	System Environment/Libraries
+genwqe-tools	Unknown
+geoclue	System Environment/Libraries	Development/Libraries
+geoclue2	Unknown
+geocode-glib	Unknown
+geronimo-annotation	Unknown
+geronimo-jaspic-spec	Development/Libraries	Documentation
+geronimo-jaxrpc	Development/Libraries	Documentation
+geronimo-jms	Documentation	Development/Libraries
+geronimo-jta	Development/Libraries	Documentation
+geronimo-osgi-support	Development/Libraries	Documentation
+geronimo-parent-poms	Development/Tools
+geronimo-saaj	Development/Libraries	Documentation
+gettext	Development/Tools	System Environment/Libraries	Applications/Editors
+gfs2-utils	System Environment/Kernel
+ghostscript	Applications/Publishing	Development/Libraries	Documentation	System Environment/Daemons
+ghostscript-chinese	User Interface/X
+ghostscript-fonts	Applications/Publishing
+giflib	Applications/Multimedia	System Environment/Libraries	Development/Libraries
+gimp	Applications/Multimedia	System Environment/Libraries	Development/Libraries	Development/Tools
+gimp-data-extras	Applications/Multimedia
+gimp-help	Documentation
+git	Development/Tools	Development/Libraries	Applications/Editors
+gjs	Unknown
+gl-manpages	Unknown
+glade	Unknown
+glade3	Development/Tools	Development/Libraries
+glassfish-dtd-parser	Development/Libraries
+glassfish-el	Development/Libraries	Documentation
+glassfish-el-api	Documentation	Development/Libraries
+glassfish-fastinfoset	Development/Libraries
+glassfish-jaxb	Development/Libraries	Documentation
+glassfish-jaxb-api	Development/Libraries	Documentation
+glassfish-jsp	Development/Libraries	Documentation
+glassfish-jsp-api	Development/Libraries	Documentation
+glew	System Environment/Libraries	Development/Libraries
+glib-networking	Unknown
+glib2	Unknown
+glibc	System Environment/Libraries	Development/Libraries	System Environment/Base	System Environment/Daemons	Development/Tools	Development/Debug
+glibmm24	Unknown
+glm	Development/Libraries	Documentation
+glusterfs	System Environment/Daemons	Development/Libraries	Applications/File	Development/Tools	Productivity/Clustering/HA	System Environment/Base
+gmp	System Environment/Libraries	Development/Libraries
+gnome-abrt	User Interface/Desktops
+gnome-backgrounds	Unknown
+gnome-bluetooth	Unknown
+gnome-boxes	Unknown
+gnome-calculator	Unknown
+gnome-clocks	Unknown
+gnome-color-manager	Unknown
+gnome-common	Development/Tools
+gnome-contacts	Unknown
+gnome-desktop3	Unknown
+gnome-devel-docs	Unknown
+gnome-dictionary	Applications/Text	Development/Libraries
+gnome-disk-utility	Unknown
+gnome-doc-utils	Development/Tools
+gnome-documents	Unknown
+gnome-font-viewer	Unknown
+gnome-getting-started-docs	Unknown
+gnome-icon-theme	Development/Libraries	User Interface/Desktops
+gnome-icon-theme-extras	User Interface/Desktops
+gnome-icon-theme-symbolic	User Interface/Desktops
+gnome-initial-setup	Unknown
+gnome-keyring	System Environment/Libraries	Development/Libraries
+gnome-menus	System Environment/Libraries	Development/Libraries
+gnome-online-accounts	Unknown
+gnome-online-miners	Unknown
+gnome-packagekit	Applications/System
+gnome-python2	Development/Languages
+gnome-screenshot	Unknown
+gnome-session	User Interface/Desktops	User Interface/Desktop
+gnome-settings-daemon	Unknown
+gnome-shell	User Interface/Desktops
+gnome-shell-extensions	User Interface/Desktops
+gnome-software	Unknown
+gnome-system-log	Applications/System
+gnome-system-monitor	Unknown
+gnome-terminal	User Interface/Desktops
+gnome-themes-standard	Unknown
+gnome-tweak-tool	Unknown
+gnome-user-docs	Documentation
+gnome-vfs2	System Environment/Libraries	Development/Libraries
+gnome-video-effects	System Environment/Libraries
+gnome-weather	Unknown
+gnote	Unknown
+gnu-efi	Development/System	Applications/System
+%{fontname}-fonts	User Interface/X
+gnu-getopt	Development/Libraries	Development/Documentation
+gnupg2	Applications/System	Applications/Internet
+gnuplot	Applications/Engineering
+gnutls	System Environment/Libraries	Development/Libraries	Applications/System
+gob2	Development/Tools
+gobject-introspection	Unknown
+golang	Unknown
+golang-github-coreos-go-systemd	Unknown
+golang-%{provider}-%{project}-%{repo}	Unknown
+golang-github-godbus-dbus	Unknown
+golang-github-gorilla-context	Unknown
+golang-github-gorilla-mux	Unknown
+golang-github-kr-pty	Unknown
+golang-github-syndtr-gocapability	Unknown
+golang-googlecode-net	Unknown
+golang-googlecode-sqlite	Unknown
+gom	Unknown
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+google-%{short_name}	Development/Libraries	Documentation
+%{fontname}-fonts	User Interface/X
+gperf	Development/Tools
+gperftools	Development/Tools	Development/Libraries
+gpgme	Applications/System	Development/Libraries
+gpm	System Environment/Daemons	System Environment/Libraries	Development/Libraries
+grantlee	Development/Libraries	Development/Documentation	System Environment/Libraries
+graphite2	Development/Tools	Development/Libraries
+graphviz	Applications/Multimedia	Development/Libraries	Documentation
+grep	Applications/Text
+grilo	Unknown
+grilo-plugins	Unknown
+groff	Applications/Publishing	Documentation
+groovy	Development/Languages	Development/Tools
+grub2	System Environment/Base
+grubby	System Environment/Base
+gsettings-desktop-schemas	Unknown
+gsl	System Environment/Libraries	Development/Libraries
+gsm	System Environment/Libraries	Applications/Multimedia	Development/Libraries
+gsound	Unknown
+gspell	Unknown
+gssdp	Unknown
+gssproxy	System Environment/Libraries
+gstreamer	Development/Libraries	Applications/Multimedia
+gstreamer-plugins-bad-free	Applications/Multimedia	Development/Libraries
+%{gstreamer}-plugins-base	Applications/Multimedia	Development/Libraries
+%{gstreamer}-plugins-good	Applications/Multimedia	Development/Libraries
+gstreamer-python	Development/Languages	Development/Libraries
+gstreamer1	Unknown
+gstreamer1-plugins-bad-free	Unknown
+gstreamer1-plugins-base	Unknown
+gstreamer1-plugins-good	Unknown
+gstreamer1-plugins-ugly-free	Unknown
+gtk-doc	Unknown
+gtk-vnc	Development/Libraries	Applications/Internet
+gtk2	Development/Libraries	System Environment/Libraries
+gtk3	Unknown
+gtkhtml3	System Environment/Libraries	Development/Libraries
+gtkmm24	Unknown
+gtkmm30	Unknown
+gtksourceview3	Unknown
+gtkspell	System Environment/Libraries	Development/Libraries
+gtkspell3	Unknown
+guava	Unknown
+%{fontname}-fonts	User Interface/X
+gucharmap	Unknown
+guile	Development/Languages	Development/Libraries
+gupnp	Unknown
+gupnp-av	Unknown
+gupnp-dlna	System Environment/Libraries	Development/Libraries
+gupnp-igd	System Environment/Libraries	Development/Libraries
+gutenprint	System Environment/Base	Documentation	Development/Libraries	System Environment/Libraries	Applications/Publishing
+gvfs	Unknown
+gwenview	Unknown
+gzip	Applications/File
+hamcrest	Development/Tools	Documentation	Development/Libraries
+haproxy	System Environment/Daemons
+hardlink	System Environment/Base
+harfbuzz	Unknown
+hawkey	Unknown
+hawtjni	Unknown
+hdparm	Applications/System
+help2man	Development/Tools
+hesiod	System Environment/Libraries	Development/Libraries
+hexedit	Unknown
+hicolor-icon-theme	User Interface/Desktops
+highcontrast-qt	Unknown
+highlight	Development/Tools
+hivex	Unknown
+hmaccalc	System Environment/Base
+hostname	System Environment/Base
+hplip	System Environment/Daemons	System Environment/Libraries	Applications/System	Applications/Publishing
+hsakmt	System Environment/Libraries	Development/Libraries
+hspell	Applications/Text
+hsqldb	Applications/Databases	Documentation	Development/Tools
+html2ps	User Interface/X	Applications/Publishing
+http-parser	Unknown
+httpcomponents-client	Development/Libraries	Documentation
+httpcomponents-core	Development/Libraries	Documentation
+httpcomponents-project	Development/Libraries
+httpd	Development/Libraries	Documentation	System Environment/Daemons
+httpunit	Unknown
+hunspell	System Environment/Libraries	Development/Libraries
+hunspell-af	Applications/Text
+hunspell-ak	Applications/Text
+hunspell-am	Applications/Text
+hunspell-ar	Applications/Text
+hunspell-as	Applications/Text
+hunspell-ast	Applications/Text
+hunspell-az	Applications/Text
+hunspell-be	Applications/Text
+hunspell-ber	Applications/Text
+hunspell-bg	Applications/Text
+hunspell-bn	Applications/Text
+hunspell-br	Applications/Text
+hunspell-ca	Applications/Text
+hunspell-cop	Applications/Text
+hunspell-csb	Applications/Text
+hunspell-cv	Applications/Text
+hunspell-cy	Applications/Text
+hunspell-da	Applications/Text
+hunspell-de	Applications/Text
+hunspell-dsb	Applications/Text
+hunspell-el	Applications/Text
+hunspell-en	Applications/Text
+hunspell-eo	Applications/Text
+hunspell-es	Applications/Text
+hunspell-et	Applications/Text
+hunspell-eu	Applications/Text
+hunspell-fa	Applications/Text
+hunspell-fj	Applications/Text
+hunspell-fo	Applications/Text
+hunspell-fr	Applications/Text
+hunspell-fur	Applications/Text
+hunspell-fy	Applications/Text
+hunspell-ga	Applications/Text
+hunspell-gd	Applications/Text
+hunspell-gl	Applications/Text
+hunspell-grc	Applications/Text
+hunspell-gu	Applications/Text
+hunspell-gv	Applications/Text
+hunspell-haw	Applications/Text
+hunspell-hi	Applications/Text
+hunspell-hil	Applications/Text
+hunspell-hr	Applications/Text
+hunspell-hsb	Applications/Text
+hunspell-ht	Applications/Text
+hunspell-hu	Applications/Text
+hunspell-hy	Applications/Text
+hunspell-ia	Applications/Text
+hunspell-id	Applications/Text
+hunspell-is	Applications/Text
+hunspell-it	Applications/Text
+hunspell-kk	Applications/Text
+hunspell-km	Applications/Text
+hunspell-kn	Applications/Text
+hunspell-ko	Applications/Text
+hunspell-ku	Applications/Text
+hunspell-ky	Applications/Text
+hunspell-la	Applications/Text
+hunspell-lb	Applications/Text
+hunspell-ln	Applications/Text
+hunspell-lt	Applications/Text
+hunspell-mai	Applications/Text
+hunspell-mg	Applications/Text
+hunspell-mi	Applications/Text
+hunspell-mk	Applications/Text
+hunspell-ml	Applications/Text
+hunspell-mn	Applications/Text
+hunspell-mos	Applications/Text
+hunspell-mr	Applications/Text
+hunspell-ms	Applications/Text
+hunspell-mt	Applications/Text
+hunspell-nds	Applications/Text
+hunspell-ne	Applications/Text
+hunspell-nl	Applications/Text
+hunspell-no	Applications/Text
+hunspell-nr	Applications/Text
+hunspell-nso	Applications/Text
+hunspell-ny	Applications/Text
+hunspell-oc	Applications/Text
+hunspell-om	Applications/Text
+hunspell-or	Applications/Text
+hunspell-pa	Applications/Text
+hunspell-pl	Applications/Text
+hunspell-pt	Applications/Text
+hunspell-qu	Applications/Text
+hunspell-quh	Applications/Text
+hunspell-ro	Applications/Text
+hunspell-ru	Applications/Text
+hunspell-rw	Applications/Text
+hunspell-sc	Applications/Text
+hunspell-se	Applications/Text
+hunspell-shs	Applications/Text
+hunspell-si	Applications/Text
+hunspell-sk	Applications/Text
+hunspell-sl	Applications/Text
+hunspell-smj	Applications/Text
+hunspell-so	Applications/Text
+hunspell-sq	Applications/Text
+hunspell-sr	Applications/Text
+hunspell-ss	Applications/Text
+hunspell-st	Applications/Text
+hunspell-sv	Applications/Text
+hunspell-sw	Applications/Text
+hunspell-ta	Applications/Text
+hunspell-te	Applications/Text
+hunspell-tet	Applications/Text
+hunspell-th	Applications/Text
+hunspell-ti	Applications/Text
+hunspell-tk	Applications/Text
+hunspell-tl	Applications/Text
+hunspell-tn	Applications/Text
+hunspell-tpi	Applications/Text
+hunspell-ts	Applications/Text
+hunspell-uk	Applications/Text
+hunspell-ur	Applications/Text
+hunspell-uz	Applications/Text
+hunspell-ve	Applications/Text
+hunspell-vi	Applications/Text
+hunspell-wa	Applications/Text
+hunspell-xh	Applications/Text
+hunspell-yi	Applications/Text
+hunspell-zu	Applications/Text
+hwdata	System Environment/Base
+hwloc	Applications/System	Development/Libraries
+hyperv-daemons	System Environment/Daemons	Applications/System
+hyphen	System Environment/Libraries	Development/Libraries	Applications/Text
+hyphen-as	Applications/Text
+hyphen-bg	Applications/Text
+hyphen-bn	Applications/Text
+hyphen-ca	Applications/Text
+hyphen-cy	Applications/Text
+hyphen-da	Applications/Text
+hyphen-de	Applications/Text
+hyphen-el	Applications/Text
+hyphen-es	Applications/Text
+hyphen-eu	Applications/Text
+hyphen-fa	Applications/Text
+hyphen-fo	Applications/Text
+hyphen-fr	Applications/Text
+hyphen-ga	Applications/Text
+hyphen-gl	Applications/Text
+hyphen-grc	Applications/Text
+hyphen-gu	Applications/Text
+hyphen-hi	Applications/Text
+hyphen-hsb	Applications/Text
+hyphen-hu	Applications/Text
+hyphen-ia	Applications/Text
+hyphen-id	Applications/Text
+hyphen-is	Applications/Text
+hyphen-it	Applications/Text
+hyphen-kn	Applications/Text
+hyphen-ku	Applications/Text
+hyphen-lt	Applications/Text
+hyphen-mi	Applications/Text
+hyphen-ml	Applications/Text
+hyphen-mn	Applications/Text
+hyphen-mr	Applications/Text
+hyphen-nl	Applications/Text
+hyphen-or	Applications/Text
+hyphen-pa	Applications/Text
+hyphen-pl	Applications/Text
+hyphen-pt	Applications/Text
+hyphen-ro	Applications/Text
+hyphen-ru	Applications/Text
+hyphen-sa	Applications/Text
+hyphen-sk	Applications/Text
+hyphen-sl	Applications/Text
+hyphen-sv	Applications/Text
+hyphen-ta	Applications/Text
+hyphen-te	Applications/Text
+hyphen-tk	Applications/Text
+hyphen-uk	Applications/Text
+i2c-tools	Applications/System
+ibus	Development/Libraries	System Environment/Libraries
+ibus-chewing	System Environment/Libraries
+ibus-hangul	System Environment/Libraries
+ibus-kkc	System Environment/Libraries
+ibus-libpinyin	System Environment/Libraries
+ibus-m17n	System Environment/Libraries
+ibus-qt	System Environment/Libraries	Development/Libraries
+ibus-rawcode	System Environment/Libraries
+ibus-sayura	System Environment/Libraries
+ibus-table	System Environment/Libraries	Development/Libraries
+ibus-table-chinese	System Environment/Libraries
+ibus-typing-booster	System Environment/Libraries
+ibutils	System Environment/Libraries
+icc-profiles-openicc	User Interface/X
+icedtea-web	Documentation	devel	Applications/Internet
+icon-naming-utils	Development/Tools
+icoutils	Unknown
+icu	Development/Tools	System Environment/Libraries	Development/Libraries	Documentation
+ilmbase	System Environment/Libraries	Development/Libraries
+im-chooser	Applications/System
+ima-evm-utils	Unknown
+imake	User Interface/X
+imsettings	Applications/System	Development/Libraries
+indent	Applications/Text
+infiniband-diags	Unknown
+infinipath-psm	System Environment/Development	System Environment/Libraries
+iniparser	System Environment/Libraries	Development/Libraries
+initial-setup	System Environment/Base
+initscripts	System Environment/Base
+inkscape	Applications/Productivity	Documentation
+%{pkgname}	Development/Tools
+intltool	Development/Tools
+iok	Applications/System
+iotop	Applications/System
+iowatcher	Development/System
+FreeIPA	System Environment/Base	System Environment/Libraries
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+iperf3	Applications/Internet	Development/Libraries
+ipmitool	System Environment/Base
+iproute	Applications/System	Development/Libraries
+iprutils	System Environment/Base
+ipset	Unknown
+ipsilon	System Environment/Base
+iptables	System Environment/Base
+iptraf-ng	Applications/System
+iptstate	System Environment/Base
+iputils	System Environment/Daemons
+ipvsadm	Applications/System
+ipxe	System Environment/Base	Development/Tools
+irqbalance	System Environment/Base
+irssi	Development/Libraries	Applications/Communications
+iscsi-initiator-utils	System Environment/Daemons	Development/Libraries
+isdn4k-utils	Applications/System	Development/Libraries	Applications/Communications	Documentation
+isns-utils	System Environment/Daemons
+iso-codes	Development/Libraries	System Environment/Base
+isomd5sum	Applications/System	Development/System
+isorelax	Unknown
+istack-commons	Development/Libraries	Documentation
+itstool	Development/Tools
+ivtv-firmware	System Environment/Kernel
+iw	System Environment/Base
+ixpdimm_sw	Applications/System	Development/Libraries	System Environment/Daemons	Development/Tools
+jackson	Development/Libraries	Documentation
+jai-imageio-core	System Environment/Libraries	Documentation
+jakarta-commons-httpclient	Development/Libraries	Documentation	Development/Tools
+jakarta-oro	Unknown
+jakarta-taglibs-standard	Documentation	Development/Libraries
+jandex	Development/Libraries	Documentation
+jansi	Unknown
+jansi-native	Development/Libraries	Documentation
+jansson	System Environment/Libraries	Development/Libraries
+jarjar	Documentation	Development/Tools
+jasper	System Environment/Libraries	Development/Libraries
+java	Development/Languages	Development/Tools	Documentation
+jre	Development/Languages	Development/Tools	Documentation
+OpenJDK	Development/Languages	Development/Tools	Documentation
+java-atk-wrapper	Development/Libraries
+java_cup	Development/Tools	Documentation
+javacc	Unknown
+javacc-maven-plugin	Unknown
+javamail	Unknown
+javapackages-tools	Unknown
+javassist	Documentation	Development/Libraries
+jaxen	Development/Libraries	Development/Documentation
+jbigkit	Development/Libraries
+jboss-annotations-1.1-api	Development/Libraries	Documentation
+jboss-ejb-3.1-api	Development/Libraries
+jboss-el-2.2-api	Development/Libraries	Documentation
+jboss-interceptors-1.1-api	Development/Libraries
+jboss-jaxrpc-1.1-api	Development/Libraries
+jboss-parent	Development/Libraries
+jboss-servlet-2.5-api	Development/Libraries
+jboss-servlet-3.0-api	Development/Libraries
+jboss-specs-parent	Development/Libraries
+jboss-transaction-1.1-api	Development/Libraries
+jdepend	Development/Libraries	Documentation
+jdependency	Unknown
+jdom	Development/Libraries	Documentation
+jettison	Documentation	Development/Libraries
+jetty	Development/Libraries	Documentation
+jetty-artifact-remote-resources	Unknown
+jetty-assembly-descriptors	Development/Libraries
+jetty-build-support	Unknown
+jetty-distribution-remote-resources	Unknown
+jetty-parent	Development/Libraries
+jetty-test-policy	Unknown
+jetty-toolchain	Unknown
+jetty-version-maven-plugin	Unknown
+jflex	Unknown
+jing-trang	Applications/Text	Documentation
+jline	Documentation	Development/Libraries
+jna	Unknown
+joda-convert	Unknown
+joda-time	Unknown
+%{fontname}-fonts	User Interface/X
+jose	Unknown
+js	Development/Languages	Development/Libraries
+jsch	Development/Libraries	Documentation
+json-c	Development/Libraries	Documentation
+json-glib	System Environment/Libraries	Development/Libraries
+jsoup	Unknown
+jsr-305	Unknown
+jsr-311	Development/Libraries
+jss	Documentation	System Environment/Libraries
+jtidy	Unknown
+juk	Unknown
+junit	Development/Tools	Documentation	Development/Libraries
+jvnet-parent	Development/Libraries
+jzlib	Unknown
+k3b	Applications/Archiving	System Environment/Libraries	Development/Libraries
+kabi-yum-plugins	System Environment/Kernel
+kaccessible	Unknown
+%{fontname}-fonts	User Interface/X
+kactivities	Unknown
+kamera	Unknown
+kate	Unknown
+kbd	System Environment/Base
+kcalc	Unknown
+kcharselect	Unknown
+kcm-gtk	User Interface/Desktops
+kcm_touchpad	User Interfaces/Desktops
+kcolorchooser	Unknown
+kcoloredit	Unknown
+kde-base-artwork	Unknown
+kde-baseapps	Unknown
+kde-filesystem	System Environment/Base
+kde-l10n	User Interface/Desktops
+kde-plasma-networkmanagement	Unknown
+kde-print-manager	Unknown
+kde-runtime	Unknown
+kde-settings	Unknown
+kde-wallpapers	Unknown
+kde-workspace	Unknown
+kdeaccessibility	User Interface/Desktops
+kdeadmin	User Interface/Desktops
+kdeartwork	Unknown
+kdegraphics	Applications/Multimedia	System Environment/Libraries	Development/Libraries
+kdegraphics-strigi-analyzer	Unknown
+kdegraphics-thumbnailers	Unknown
+kdelibs	Unknown
+kdemultimedia	Unknown
+kdenetwork	Unknown
+kdepim	Unknown
+kdepim-runtime	Unknown
+kdepimlibs	Unknown
+kdeplasma-addons	Unknown
+kdesdk	Unknown
+kdeutils	Applications/System
+kdf	Unknown
+keepalived	System Environment/Daemons
+kernel	System Environment/Kernel\	System Environment/Kernel	Documentation	Development/System	Development/Debug	Development/Libraries	Development/Debug\
+%{src_pkg_name}	Development/Libraries	Development/Debug\	System Environment/Kernel\	System Environment/Kernel	Documentation	Development/System	Development/Debug
+kexec-tools	Applications/System
+keybinder3	Development/Libraries	Documentation
+%{srcname}	Unknown
+keytool-maven-plugin	Unknown
+keyutils	System Environment/Base
+kgamma	Unknown
+kgpg	Unknown
+%{fontname}-fonts	User Interface/X
+kiconedit	Unknown
+kio_sysinfo	System Environment/Libraries
+kmag	Unknown
+kmix	Unknown
+kmod	System Environment/Libraries	Development/Libraries	System Environment/Kernel
+kmod-kvdo	Unknown
+kolourpaint	Unknown
+konkretcmpi	Unknown
+konsole	Unknown
+kpatch	System Environment/Kernel
+krb5	System Environment/Daemons	System Environment/Base	System Environment/Libraries	Development/Libraries
+kross-interpreters	Unknown
+kruler	Unknown
+ksaneplugin	Unknown
+ksc	Development/Tools
+kscreen	Unknown
+ksh	System Environment/Shells
+ksnapshot	Unknown
+ksshaskpass	Applications/Internet
+ktimer	Unknown
+%{fontname}-fonts	User Interface/X
+kwallet	Unknown
+kxml	Unknown
+ladspa	System Environment/Libraries	Development/Libraries
+langtable	Development/Tools
+lapack	Development/Libraries
+lasso	System Environment/Libraries	Development/Libraries
+latencytop	Applications/System
+latex2html	Applications/Publishing
+latrace	Development/Debuggers
+lcms2	Applications/Productivity	Development/Libraries
+ldapjdk	Development/Java	Development/Documentation
+ldns	System Environment/Libraries	Development/Libraries	Applications/System
+ledmon	Applications/System
+less	Applications/Text
+lftp	Applications/Internet
+libICE	System Environment/Libraries	Development/Libraries
+libIDL	Development/Libraries	System Environment/Libraries
+libSM	System Environment/Libraries	Development/Libraries
+libX11	System Environment/Libraries	Development/Libraries
+libXScrnSaver	Development/Libraries	System Environment/Libraries
+libXau	System Environment/Libraries	Development/Libraries
+libXaw	System Environment/Libraries	Development/Libraries
+libXcomposite	System Environment/Libraries	Development/Libraries
+libXcursor	System Environment/Libraries	Development/Libraries
+libXdamage	System Environment/Libraries	Development/Libraries
+libXdmcp	System Environment/Libraries	Development/Libraries
+libXevie	System Environment/Libraries	Development/Libraries
+libXext	System Environment/Libraries	Development/Libraries
+libXfixes	System Environment/Libraries	Development/Libraries
+libxfont	System Environment/Libraries	Development/Libraries
+libXfont2	System Environment/Libraries	Development/Libraries
+libXft	System Environment/Libraries	Development/Libraries
+libXi	Development/Libraries	System Environment/Libraries
+libXinerama	System Environment/Libraries	Development/Libraries
+libXmu	System Environment/Libraries	Development/Libraries
+libXp	System Environment/Libraries	Development/Libraries
+libXpm	System Environment/Libraries	Development/Libraries
+libXrandr	System Environment/Libraries	Development/Libraries
+libXrender	System Environment/Libraries	Development/Libraries
+libXres	System Environment/Libraries	Development/Libraries
+libXt	System Environment/Libraries	Development/Libraries
+libXtst	System Environment/Libraries	Development/Libraries
+libXv	System Environment/Libraries	Development/Libraries
+libXvMC	System Environment/Libraries	Development/Libraries
+libXxf86dga	System Environment/Libraries	Development/Libraries
+libXxf86misc	System Environment/Libraries	Development/Libraries
+libXxf86vm	System Environment/Libraries	Development/Libraries
+libabw	Unknown
+libaio	System Environment/Libraries	Development/System
+libao	System Environment/Libraries	Development/Libraries
+libappindicator	Unknown
+libappstream-glib	Unknown
+libarchive	System Environment/Libraries	Development/Libraries	Applications/File
+libart_lgpl	System Environment/Libraries	Development/Libraries
+libassuan	System Environment/Libraries	Development/Libraries
+libasyncns	System Environment/Libraries	Development/Libraries
+libatasmart	System Environment/Libraries	Development/Libraries
+libavc1394	System Environment/Libraries	Development/Libraries
+libbase	Development/Documentation	System Environment/Libraries
+libblockdev	Unknown
+libbluedevil	Unknown
+libbluray	System Environment/Libraries	Development/Libraries
+libbonobo	System Environment/Libraries	Development/Libraries
+libbonoboui	System Environment/Libraries	Development/Libraries
+libburn	System Environment/Libraries	Development/Libraries	Applications/Multimedia
+libbytesize	Unknown
+libcacard	Development/Libraries
+libcanberra	Development/Libraries	System Environment/Libraries
+libcap	System Environment/Libraries	Development/Libraries
+libcap-ng	System Environment/Libraries	Development/Libraries
+libcdio	System Environment/Libraries	Development/Libraries
+libcdio-paranoia	System Environment/Libraries	Development/Libraries
+libcdr	Unknown
+libcgroup	Development/Libraries	System Environment/Base
+libchamplain	Unknown
+libchewing	System Environment/Libraries	Development/Libraries
+libcmis	Unknown
+libcmpiutil	System Environment/Libraries	Development/Libraries
+libconfig	System Environment/Libraries	Development/Libraries
+libcroco	Development/Libraries	System Environment/Libraries
+libcryptui	System Environment/Libraries	Development/Libraries
+libdaemon	System Environment/Libraries	Development/Libraries
+libdb	System Environment/Libraries	Applications/Databases	Development/Libraries	Documentation
+libdbi	Development/Libraries
+libdbi-drivers	Development/Libraries
+libdbusmenu	Unknown
+libdmapsharing	Development/Libraries
+libdmx	Development/Libraries	System Environment/Libraries
+libdnet	Unknown
+libdrm	System Environment/Libraries	Development/Libraries	Development/Tools
+libdv	System Environment/Libraries	Applications/Multimedia	Development/Libraries
+libdvdnav	System Environment/Libraries	Development/Libraries
+libdvdread	System Environment/Libraries	Development/Libraries
+libdwarf	Development/Libraries	Development/Tools
+libeasyfc	System Environment/Libraries	Development/Libraries
+libecap	Development/Libraries
+libedit	System Environment/Libraries	Development/Libraries
+libee	System Environment/Libraries	Development/Libraries
+libepoxy	Unknown
+%{fontname}-fonts	User Interface/X
+libesmtp	Development/Libraries	System Environment/Libraries
+libestr	Unknown
+libetonyek	Unknown
+libevdev	System Environment/Libraries
+libevent	System Environment/Libraries	Development/Libraries
+libexif	System Environment/Libraries	Development/Libraries
+libexttextcat	System Environment/Libraries	Development/Libraries	Applications/Publishing
+libfabric	System Environment/Libraries
+libfastjson	Development/Libraries
+libffi	System Environment/Libraries	Development/Libraries
+libfontenc	System Environment/Libraries	Development/Libraries
+libfonts	System Environment/Libraries	Development/Documentation
+libformula	System Environment/Libraries	Development/Documentation
+libfprint	System Environment/Libraries	Development/Libraries
+libfreehand	Unknown
+libgcrypt	System Environment/Libraries	Development/Libraries
+libgdata	Unknown
+libgdither	System Environment/Libraries	Development/Libraries
+libgee	Unknown
+libgee06	System Environment/Libraries	Development/Libraries
+libgepub	Unknown
+libgexiv2	Unknown
+libglade2	System Environment/Libraries	Development/Libraries
+libgnome	Development/Libraries	System Environment/Libraries
+libgnome-keyring	System Environment/Libraries	Development/Libraries
+libgnomecanvas	System Environment/Libraries	Development/Libraries
+libgnomekbd	Unknown
+libgnomeui	System Environment/Libraries	Development/Libraries
+libgovirt	Development/Libraries
+libgpg-error	System Environment/Libraries	Development/Libraries
+libgphoto2	Development/Libraries
+libgpod	System Environment/Libraries	Development/Libraries	Documentation	Development/Languages
+libgsf	System Environment/Libraries	Development/Libraries
+libgtop2	Unknown
+libguestfs	Unknown
+libguestfs-winsupport	Unknown
+libgusb	Unknown
+libgweather	Unknown
+libgxim	System Environment/Libraries	Development/Libraries
+libgxps	System Environment/Libraries	Development/Libraries	Applications/Text
+libhangul	Development/Libraries	System Environment/Libraries
+libhbaapi	System Environment/Libraries	Development/Libraries
+libhbalinux	System Environment/Libraries	Development/Libraries
+libhif	Unknown
+libhugetlbfs	Development/Libraries	Applications/System	System Environment/Libraries
+libibcommon	System Environment/Libraries
+libibmad	System Environment/Libraries
+libical	System Environment/Libraries	Development/Libraries
+libid3tag	System Environment/Libraries	Development/Libraries
+libidn	System Environment/Libraries	Development/Libraries
+libiec61883	System Environment/Libraries	Development/Libraries	Applications/Multimedia
+libieee1284	System Environment/Libraries	Development/Libraries
+libimobiledevice	System Environment/Libraries	Development/Libraries	Applications/System
+libindicator	Unknown
+libinput	Unknown
+libinvm-cim	Development/Libraries
+libinvm-cli	Development/Libraries
+libinvm-i18n	Development/Libraries
+libiodbc	System Environment/Libraries	Development/Libraries
+libiptcdata	Development/Libraries
+libiscsi	System Environment/Libraries	Applications/System	Development/Libraries
+libisofs	System Environment/Libraries	Development/Libraries
+libjpeg-turbo	System Environment/Libraries	Development/Libraries	Applications/Multimedia
+libkcddb	Unknown
+libkcompactdisc	Unknown
+libkdcraw	Unknown
+libkexiv2	Unknown
+libkipi	Unknown
+libkkc	System Environment/Libraries	Development/Tools
+libksane	Unknown
+libksba	System Environment/Libraries	Development/Libraries
+libkscreen	Unknown
+liblangtag	Unknown
+liblayout	System Environment/Libraries	Development/Documentation
+libldb	Development/Libraries
+libloader	System Environment/Libraries	Development/Documentation
+liblockfile	Applications/System	Development/Libraries
+liblognorm	Documentation
+liblouis	System Environment/Libraries	Development/Libraries	Applications/Text	Development/Languages	Documentation
+libmatchbox	Development/C	Development/Libraries
+libmbim	Unknown
+libmediaart	Development/Libraries
+libmemcached	System Environment/Libraries	Development/Libraries
+libmicrohttpd	Development/Libraries	Documentation
+libmng	System Environment/Libraries	Development/Libraries
+libmnl	System Environment/Libraries	Development/Libraries
+libmodman	System Environment/Libraries	Development/Libraries
+libmpc	Development/Tools	Development/Libraries
+libmpcdec	System Environment/Libraries	Development/Libraries
+libmsn	System Environment/Libraries	Development/Libraries
+libmspack	System Environment/Libraries	Development/Libraries
+libmspub	Unknown
+libmtp	Applications/Multimedia	System Environment/Libraries
+libmusicbrainz	System Environment/Libraries	Development/Libraries
+libmusicbrainz5	System Environment/Libraries	Development/Libraries
+libmwaw	Unknown
+libmx	System Environment/Libraries	Development/Libraries
+libndp	System Environment/Libraries	Development/Libraries
+libnet	System Environment/Libraries	Development/Libraries
+libnetfilter_conntrack	Development/Libraries	System Environment/Libraries
+libnetfilter_cthelper	System Environment/Libraries	Development/Libraries
+libnetfilter_cttimeout	System Environment/Libraries	Development/Libraries
+libnetfilter_queue	System Environment/Libraries	Development/Libraries
+libnetfilter_queue	Development/Libraries	System Environment/Libraries
+libnfnetlink	System Environment/Libraries	Development/Libraries
+libnfsidmap	System Environment/Libraries	Development/Libraries
+libnftnl	Unknown
+libnice	System Environment/Libraries	Development/Libraries
+libnl	Development/Libraries
+libnl3	Development/Libraries	Documentation
+libnotify	Unknown
+libntlm	System Environment/Libraries	Development/Libraries
+liboauth	System Environment/Libraries	Development/Libraries
+libodfgen	Unknown
+libofa	System Environment/Libraries	Development/Libraries
+libogg	Development/Libraries	System Environment/Libraries
+liboil	System Environment/Libraries	Development/Libraries
+libopenraw	Unknown
+liborcus	Unknown
+libosinfo	Development/Libraries
+libotf	System Environment/Libraries	Development/Libraries
+libpagemaker	Unknown
+libpaper	System Environment/Libraries	Development/Libraries
+libpcap	Development/Libraries
+libpciaccess	Development/Libraries	System Environment/Libraries
+libpeas	Unknown
+libpfm	Development/Languages	System Environment/Libraries	Development/Libraries
+libpinyin	Unknown
+libpipeline	Development/Libraries
+libplist	System Environment/Libraries	Development/Libraries
+libpng	System Environment/Libraries	Development/Libraries
+libpng12	System Environment/Libraries	Development/Libraries
+libproxy	System Environment/Libraries	Applications/System	Development/Libraries
+libpsm2	Development/Libraries	System Environment/Libraries
+libpst	Applications/Productivity	Development/Libraries	Documentation
+libpwquality	System Environment/Base	Development/Libraries
+libqb	System Environment/Libraries	Development/Libraries
+libqmi	Development/Libraries
+libquvi	Applications/Internet	Development/Libraries
+libquvi-scripts	Applications/Internet
+librabbitmq	System Environment/Libraries	Development/Libraries
+libraw	System Environment/Libraries	Development/Libraries
+librelp	System Environment/Libraries	Development/Libraries
+libreoffice	Unknown
+libreoffice-voikko	Applications/Productivity
+librepo	Development/Libraries	Development/Languages	System Environment/Libraries
+libreport	System Environment/Libraries	Applications/File	Development/Libraries	User Interface/Desktops
+librepository	System Environment/Libraries	Development/Documentation
+libreswan	System Environment/Daemons
+librevenge	Unknown
+librsvg2	System Environment/Libraries	Development/Libraries
+librtas	System Environment/Libraries	Development/Libraries
+libsamplerate	System Environment/Libraries	Development/Libraries
+libseccomp	System Environment/Libraries	Development/Libraries
+libsecret	Unknown
+libselinux	System Environment/Libraries	Development/Libraries
+libsemanage	System Environment/Libraries	Development/Libraries
+libsepol	System Environment/Libraries	Development/Libraries
+libserializer	Development/Documentation	System Environment/Libraries
+libservicelog	System Environment/Libraries	Development/Libraries
+libsexy	System Environment/Libraries	Development/Libraries
+libshout	System Environment/Libraries	Development/Libraries
+libsigc++20	Unknown
+libsmbios	System Environment/Libraries	Applications/System	Development/Libraries
+libsmi	System Environment/Libraries	Development/Libraries
+libsndfile	Development/Libraries	Applications/Multimedia	System Environment/Libraries
+lib%{libname}	Unknown
+libsoup	Unknown
+libspectre	System Environment/Libraries	Development/Libraries
+libspiro	System Environment/Libraries	Development/Libraries
+lib%{shortname}	System Environment/Libraries	Development/Libraries
+libssh2	System Environment/Libraries	Development/Libraries
+libstaroffice	Unknown
+libstoragemgmt	System Environment/Libraries	Development/Libraries	System Environment/Base
+libtalloc	System Environment/Daemons	Development/Libraries
+libtar	System Environment/Libraries	Development/Libraries
+libtasn1	System Environment/Libraries	Development/Libraries	Applications/Text
+libtdb	System Environment/Daemons	Development/Libraries
+libteam	System Environment/Libraries	Development/Libraries	Documentation	System Environment/Daemons
+libtevent	System Environment/Daemons	Development/Libraries
+libthai	System Environment/Libraries	Development/Libraries
+libtheora	System Environment/Libraries	Development/Libraries	Applications/Multimedia
+libtiff	System Environment/Libraries	Development/Libraries
+libtimezonemap	System Environment/Libraries	Development/Libraries
+libtirpc	System Environment/Libraries	Development/Libraries
+libtnc	System Environment/Libraries	Development/Libraries
+libtool	System Environment/Libraries	Development/Libraries	Development/Tools
+libtranslit	System Environment/Libraries
+libuninameslist	System Environment/Libraries	Development/Libraries
+libunistring	System Environment/Libraries	Development/Libraries
+libunwind	Development/Debuggers
+libusb	System Environment/Libraries	Development/Libraries
+libusbmuxd	System Environment/Libraries	Applications/System	Development/Libraries
+libusbx	System Environment/Libraries	Development/Libraries
+libuser	Development/Libraries	System Environment/Base
+libusnic_verbs	System Environment/Libraries
+libutempter	System Environment/Libraries	Development/Libraries
+libva	Unknown
+libvdpau	Unknown
+libverto	Unknown
+libvirt	Development/Libraries
+libvirt-cim	Development/Libraries
+libvirt-glib	Development/Libraries
+libvirt-java	Development/Libraries	Development/Documentation
+libvirt-python	Development/Libraries
+libvirt-snmp	Development/Libraries
+libvisio	Unknown
+libvisual	Applications/Multimedia	Development/Libraries
+libvma	Unknown
+libvncserver	System Environment/Libraries	Development/Libraries
+libvoikko	System Environment/Libraries	Development/Libraries	Applications/Text
+libvorbis	System Environment/Libraries	Development/Libraries
+libvpx	System Environment/Libraries	Development/Libraries	Development/Tools
+libwacom	System Environment/Libraries
+libwebp	Development/Libraries	Development/Tools
+libwmf	System Environment/Libraries	Development/Libraries
+libwnck3	System Environment/Libraries	Development/Libraries
+libwpd	Unknown
+libwpg	Unknown
+libwps	Unknown
+libwvstreams	System Environment/Libraries	Development/Libraries
+libxcb	Unknown
+libxkbcommon	Unknown
+libxkbfile	System Environment/Libraries	Development/Libraries
+libxklavier	Development/Libraries
+libxml2	Development/Libraries
+libxshmfence	Unknown
+libxslt	Development/Libraries
+libyami	Unknown
+libyaml	System Environment/Libraries	Development/Libraries
+libzapojit	Unknown
+libzip	Unknown
+libzmf	Unknown
+linux-firmware	System Environment/Kernel
+linuxconsoletools	Applications/System
+linuxdoc-tools	Applications/Publishing
+linuxptp	System Environment/Base
+%{fontname}-fonts	User Interface/X
+lksctp-tools	Development/Libraries	System Environment/Libraries
+lldpad	System Environment/Daemons	Development/Libraries
+llvm-private	System Environment/Libraries
+lm_sensors	Applications/System	System Environment/Libraries	Development/System	System Environment/Daemons
+lockdev	System Environment/Libraries
+log4cxx	System Environment/Libraries	Development/Libraries
+log4j	Unknown
+logrotate	System Environment/Base
+logwatch	Applications/System
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+lorax	Applications/System
+lpsolve	System Environment/Libraries	Development/Libraries
+lrzsz	Applications/Communications
+lshw	Applications/System
+lsof	Development/Debuggers
+lsscsi	Applications/System
+%{name}	Applications/System
+ltrace	Development/Debuggers
+lua	Development/Languages	System Environment/Libraries
+luksmeta	Unknown
+lvm2	System Environment/Base	Development/Libraries	System Environment/Libraries
+lynx	Applications/Internet
+lz4	Unknown
+lzo	System Environment/Libraries	Development/Libraries
+lzop	Applications/Archiving
+m17n-contrib	System Environment/Libraries
+m17n-db	System Environment/Libraries	Development/Libraries
+m17n-lib	System Environment/Libraries	Development/Libraries
+m2crypto	System Environment/Libraries
+m4	Applications/Text
+%{fontname}-fonts	User Interface/X
+mail	System Environment/Base
+mailman	Applications/Internet
+mailx	Applications/Internet
+make	Development/Tools
+malaga	Development/Libraries	Development/Languages
+malaga-suomi-voikko	Applications/Text
+mallard-rng	Unknown
+man-db	System Environment/Base
+man-pages	Documentation
+man-pages-cs	Documentation
+man-pages-es	Documentation
+man-pages-fr	Documentation
+man-pages-it	Documentation
+man-pages-ja	Documentation
+man-pages-ko	Documentation
+man-pages-overrides	Documentation
+man-pages-pl	Documentation
+man-pages-ru	Documentation
+man-pages-zh-CN	Documentation
+mariadb	Applications/Databases
+marisa	Development/Libraries	Development/Tools
+matchbox-window-manager	User Interface/Desktops
+maven	Development/Tools	Documentation
+maven-antrun-plugin	Development/Libraries	Documentation
+maven-archiver	Unknown
+maven-artifact-resolver	Unknown
+maven-assembly-plugin	Unknown
+maven-changes-plugin	Documentation	Development/Libraries
+maven-clean-plugin	Development/Libraries	Documentation
+maven-common-artifact-filters	Unknown
+maven-compiler-plugin	Development/Libraries	Documentation
+maven-dependency-analyzer	Unknown
+maven-dependency-plugin	Development/Libraries	Documentation
+maven-dependency-tree	Development/Libraries	Documentation
+maven-deploy-plugin	Development/Libraries
+maven-downloader	Documentation
+maven-doxia	Development/Libraries	Documentation
+%{parent}-%{subproj}	Documentation	Development/Tools
+maven-doxia-tools	Unknown
+maven-ear-plugin	Development/Libraries	Documentation
+maven-ejb-plugin	Unknown
+maven-enforcer	Unknown
+maven-%{pkgname}	Unknown
+maven-filtering	Unknown
+maven-gpg-plugin	Development/Libraries	Documentation
+maven-install-plugin	Development/Libraries	Documentation
+maven-invoker	Documentation
+maven-invoker-plugin	Development/Libraries	Documentation
+maven-jar-plugin	Unknown
+maven-jarsigner-plugin	Development/Libraries	Documentation
+maven-javadoc-plugin	Unknown
+maven-jxr	Unknown
+maven-osgi	Documentation
+maven-parent	Unknown
+maven-plugin-build-helper	Development/Libraries	Documentation
+maven-plugin-bundle	Development/Tools	Documentation
+maven-plugin-testing	Unknown
+maven-plugin-tools	Development/Libraries	Documentation
+%{short_name}-pom	Development/Libraries
+maven-project-info-reports-plugin	Development/Libraries	Documentation
+maven-release	Development/Libraries	Documentation
+maven-remote-resources-plugin	Documentation	Development/Libraries
+maven-reporting-api	Unknown
+maven-reporting-exec	Documentation
+maven-reporting-impl	Unknown
+maven-repository-builder	Documentation
+maven-resources-plugin	Development/Libraries	Documentation
+maven-scm	Documentation	Development/Libraries	Development/Tools
+maven-script-interpreter	Unknown
+maven-shade-plugin	Unknown
+maven-shared	Development/Libraries
+maven-shared-incremental	Development/Libraries	Documentation
+maven-shared-io	Unknown
+maven-shared-jar	Documentation
+maven-shared-utils	Unknown
+maven-site-plugin	Development/Libraries	Documentation
+maven-source-plugin	Development/Libraries	Documentation
+maven-surefire	Development/Libraries	Documentation
+maven-verifier	Documentation
+maven-verifier-plugin	Development/Libraries	Documentation
+maven-%{bname}	Unknown
+maven-war-plugin	Development/Libraries	Documentation
+maven2	Unknown
+mc	System Environment/Shells
+mcelog	System Environment/Base
+mcstrans	System Environment/Daemons
+mdadm	System Environment/Base
+mdds	Unknown
+meanwhile	Unknown
+media-player-info	System Environment/Base
+memcached	System Environment/Daemons	Development/Libraries
+memkind	Development/Libraries	System Environment/Libraries
+memstomp	Development/Debuggers
+memtest86+	System Environment/Base
+mercurial	Development/Tools	Applications/Editors
+mesa	System Environment/Libraries	User Interface/X Hardware Support	Development/Libraries
+mesa-demos	System Environment/Libraries	Development/Libraries
+mesa-libGLU	Unknown
+mesa-libGLw	System Environment/Libraries	Development/Libraries
+mesa-private-llvm	System Environment/Libraries
+metacity	User Interface/Desktops	Development/Libraries
+mgetty	Applications/Communications
+microcode_ctl	System Environment/Base
+migrationtools	System Environment/Daemons
+minicom	Applications/Communications
+mipv6-daemon	System Environment/Daemons
+mkbootdisk	System Environment/Base
+mksh	System Environment/Shells
+mlocate	Applications/System
+mobile-broadband-provider-info	System Environment/Base	Development/Libraries
+mod_auth_gssapi	System Environment/Daemons
+mod_auth_kerb	System Environment/Daemons
+mod_auth_mellon	System Environment/Daemons
+mod_auth_openidc	System Environment/Daemons
+mod_authnz_pam	System Environment/Daemons
+mod_fcgid	System Environment/Daemons	System Environment/Base
+mod_intercept_form_submit	System Environment/Daemons
+mod_lookup_identity	System Environment/Daemons
+mod_nss	System Environment/Daemons
+mod_revocator	System Environment/Daemons
+mod_security	System Environment/Daemons
+mod_security_crs	System Environment/Daemons
+mod_wsgi	System Environment/Libraries
+modello	Unknown
+mojo-parent	Unknown
+motif	Development/Libraries	System Environment/Libraries
+mousetweaks	User Interface/Desktops
+mozilla-filesystem	Applications/Internet
+mozjs17	Development/Languages	Development/Libraries
+mozjs24	Development/Languages	Development/Libraries
+mpage	Applications/Publishing
+mpfr	System Environment/Libraries	Development/Libraries
+mpg123	Unknown
+mpich	Documentation	Development/Libraries	System Environment/Base
+mpitests	Applications/Engineering	Applications
+mrtg	Applications/Internet
+mstflint	Applications/System
+msv	Development/Libraries	Documentation
+mt-st	Applications/System
+mtdev	System Environment/Libraries
+mtools	Applications/System
+mtr	Applications/Internet
+mtx	Applications/System
+munge-maven-plugin	Unknown
+mutt	Applications/Internet
+mutter	Unknown
+mvapich2	Development/Libraries	Documentation
+mysql-connector-java	System Environment/Libraries
+mysql-connector-odbc	System Environment/Libraries
+mythes	System Environment/Libraries	Development/Libraries
+mythes-bg	Applications/Text
+mythes-ca	Applications/Text
+mythes-cs	Applications/Text
+mythes-da	Applications/Text
+mythes-de	Applications/Text
+mythes-el	Applications/Text
+mythes-en	Applications/Text
+mythes-es	Applications/Text
+mythes-fr	Applications/Text
+mythes-ga	Applications/Text
+mythes-hu	Applications/Text
+mythes-it	Applications/Text
+mythes-mi	Applications/Text
+mythes-ne	Applications/Text
+mythes-nl	Applications/Text
+mythes-pl	Applications/Text
+mythes-pt	Applications/Text
+mythes-ro	Applications/Text
+mythes-ru	Applications/Text
+mythes-sk	Applications/Text
+mythes-sl	Applications/Text
+mythes-sv	Applications/Text
+mythes-uk	Applications/Text
+%{fontname}-fonts	User Interface/X
+nano	Applications/Editors
+nasm	Unknown
+nautilus	Unknown
+nautilus-sendto	User Interface/Desktops
+%{fontname}-fonts	User Interface/X
+ncompress	Applications/File
+ncurses	Development/Libraries	System Environment/Base	System Environment/Libraries
+ndctl	System Environment/Base	Development/Libraries	System Environment/Libraries
+nekohtml	Development/Libraries	Documentation
+neon	System Environment/Libraries	Development/Libraries
+nepomuk-core	Unknown
+nepomuk-widgets	Unknown
+net-snmp	System Environment/Daemons	Applications/System	Development/Libraries
+net-tools	System Environment/Base
+netcf	System Environment/Libraries	Development/Libraries
+netlabel_tools	System Environment/Daemons
+netpbm	System Environment/Libraries	Development/Libraries	Applications/Multimedia
+netsniff-ng	Applications/Internet
+nettle	Development/Libraries
+network-manager-applet	Development/Libraries	Applications/System
+newt	System Environment/Libraries	Development/Libraries
+nfs-utils	System Environment/Daemons
+nfs4-acl-tools	Applications/System
+nfsometer	Applications/System
+nfstest	Applications/System
+nftables	Unknown
+%{fontname}-fonts	User Interface/X
+nmap	Applications/System
+nspr	System Environment/Libraries	Development/Libraries
+nss	System Environment/Libraries	System Environment/Base	Development/Libraries
+nss-pam-ldapd	System Environment/Base
+nss-pem	Unknown
+nss-softokn	System Environment/Libraries	System Environment/Base	Development/Libraries
+nss-util	System Environment/Libraries	Development/Libraries
+nss_compat_ossl	Development/Libraries	System Environment/Libraries
+ntp	Documentation	System Environment/Daemons	Applications/System
+numactl	System Environment/Base	System Environment/Libraries
+numad	System Environment/Daemons
+numpy	Development/Languages	Development/Libraries
+nuxwdog	System Environment/Libraries	Development/Libraries
+nvme-cli	Unknown
+nvmetcli	Applications/System
+nvml	System Environment/Libraries	Development/Libraries	System Environment/Base
+obex-data-server	System Environment/Daemons
+obexd	System Environment/Daemons
+objectweb-anttask	Development/Tools	Documentation
+objectweb-asm	Documentation	Development/Libraries/Java
+objectweb-asm4	Development/Libraries	Documentation
+ocaml	Unknown
+ocaml-calendar	Unknown
+ocaml-camlp4	Unknown
+ocaml-csv	Unknown
+ocaml-curses	Development/Libraries
+ocaml-extlib	Unknown
+ocaml-fileutils	Unknown
+ocaml-findlib	Unknown
+ocaml-gettext	Unknown
+ocaml-libvirt	Unknown
+ocaml-ocamlbuild	Unknown
+ocaml-srpm-macros	Unknown
+ocaml-xml-light	Development/Libraries
+oddjob	System Environment/Daemons
+okular	Unknown
+omping	Applications/Internet
+opa-ff	Unknown
+opa-fm	System Environment/Daemons
+opal	System Environment/Libraries	Development/Libraries
+opal-prd	System Environment/Daemons	Applications/System
+%{fontname}-fonts	Unknown
+open-vm-tools	Applications/System	System Environment/Libraries	Development/Libraries
+opencc	System Environment/Libraries	Applications/Text	Development/Libraries
+openchange	Development/Libraries	Applications/System
+opencryptoki	System Environment/Base	System Environment/Libraries	Development/Libraries
+opencv	Development/Libraries
+opendnssec	Applications/System
+openhpi	System Environment/Libraries	Development/Libraries	System Environment/Base
+openjade	Applications/Text
+openjpeg	Unknown
+openldap	Applications/Internet	System Environment/Daemons	Development/Libraries
+openlmi-networking	Unknown
+openlmi-providers	Documentation
+openlmi-storage	Unknown
+openlmi-tools	Unknown
+openmpi%{?_cc_name_suffix}	Development/Libraries
+openobex	System Environment/Libraries	Development/Libraries
+openoffice	Applications/Text
+openoffice.org-dict-cs_CZ	Applications/Productivity	Applications/Text
+opensc	System Environment/Libraries
+openscap	System Environment/Libraries	Development/Libraries	Applications/System
+openslp	System Environment/Libraries	System Environment/Daemons	Development/Libraries
+opensm	Unknown
+opensp	Applications/Text	Development/Libraries
+openssh	Applications/Internet	System Environment/Daemons	System Environment/Base
+openssl	System Environment/Libraries	Development/Libraries	Applications/Internet
+openssl098e	System Environment/Libraries
+openvswitch	Unknown
+openwsman	Applications/System	System Environment/Libraries	Development/Libraries	System Environment/Daemons
+oprofile	Development/System	Development/Libraries
+optipng	Applications/Multimedia
+opus	System Environment/Libraries	Development/Libraries
+%{kmod_name}	System/Kernel
+orc	Development/Libraries	System Environment/Libraries	Development/Languages
+orca	User Interface/Desktops
+ortp	System Environment/Libraries	Development/Libraries
+os-prober	System Environment/Base
+oscap-anaconda-addon	Unknown
+oscap-anaconda-addon	Unknown
+osinfo-db	Unknown
+osinfo-db-tools	Unknown
+%{fontname}-fonts	Unknown
+ovmf	Applications/Emulators
+oxygen-gtk	User Interface/Desktops
+oxygen-gtk2	User Interface/Desktops
+oxygen-gtk3	User Interface/Desktops
+oxygen-icon-theme	Unknown
+p11-kit	Unknown
+pacemaker	Documentation	System Environment/Daemons	Development/Libraries
+pakchois	System Environment/Libraries	Development/Libraries
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+pam	System Environment/Base	Development/Libraries
+pam_krb5	System Environment/Base
+pam_pkcs11	System Environment/Base
+pango	Unknown
+pangomm	Documentation	System Environment/Libraries	Development/Libraries
+papi	Development/System
+paps	Applications/Publishing	Development/Libraries
+%{fontname}-fonts	User Interface/X
+parfait	Unknown
+parted	Development/Libraries	Applications/System
+passivetex	Applications/Publishing
+passwd	System Environment/Base
+patch	Development/Tools
+patchutils	Applications/System
+pavucontrol	Applications/Multimedia
+pax	Applications/Archiving
+pciutils	Development/Libraries	System Environment/Libraries	Applications/System
+pcp	Development/Libraries	Applications/Internet	Documentation	Applications/System	System Environment/Libraries
+pcre	System Environment/Libraries	Development/Libraries	Development/Tools
+pcre2	System Environment/Libraries	Development/Libraries	Development/Tools
+pcs	System Environment/Base
+pcsd	System Environment/Base
+pcsc-lite	System Environment/Daemons	System Environment/Libraries	Development/Libraries	Documentation
+pcsc-lite-ccid	System Environment/Libraries
+pentaho-libxml	System Environment/Libraries	Development/Documentation
+pentaho-reporting-flow-engine	System Environment/Libraries	Development/Documentation
+perftest	Productivity/Networking/Diagnostic
+perl	Development/Libraries	Development/Debug	Development/Languages
+perl-Algorithm-Diff	Development/Libraries
+perl-App-cpanminus	Development/Libraries
+perl-AppConfig	Development/Libraries
+perl-Archive-Extract	Development/Libraries
+perl-Archive-Tar	Development/Libraries
+perl-Archive-Zip	Development/Libraries
+perl-Authen-SASL	Development/Libraries
+perl-B-Keywords	Development/Libraries
+perl-B-Lint	Development/Libraries
+perl-Bit-Vector	Development/Libraries
+perl-Browser-Open	Development/Libraries
+perl-Business-ISBN	Development/Libraries
+perl-Business-ISBN-Data	Development/Libraries
+perl-CGI	Development/Libraries
+perl-CGI-Session	Development/Libraries
+perl-CPAN-Changes	Development/Libraries
+perl-CPAN-Meta	Development/Libraries
+perl-CPAN-Meta-Requirements	Development/Libraries
+perl-CPAN-Meta-YAML	Development/Libraries
+perl-CPANPLUS	Development/Libraries
+perl-CPANPLUS-Dist-Build	Development/Libraries
+perl-CSS-Tiny	Development/Libraries
+perl-Capture-Tiny	Development/Libraries
+perl-Carp	Development/Libraries
+perl-Carp-Clan	Development/Libraries
+perl-Class-Data-Inheritable	Development/Libraries
+perl-Class-ISA	Development/Libraries
+perl-Class-Inspector	Development/Libraries
+perl-Class-Load	Development/Libraries
+perl-Class-Load-XS	Development/Libraries
+perl-Class-Singleton	Development/Libraries
+perl-Clone	Development/Libraries
+perl-Compress-Raw-Bzip2	Development/Libraries
+perl-Compress-Raw-Zlib	Development/Libraries
+perl-Config-Simple	Development/Libraries
+perl-Config-Tiny	Development/Libraries
+perl-Convert-ASN1	Development/Libraries
+perl-Crypt-CBC	Development/Libraries
+perl-Crypt-DES	Development/Libraries
+perl-Crypt-OpenSSL-Bignum	Development/Libraries
+perl-Crypt-OpenSSL-RSA	Development/Libraries
+perl-Crypt-OpenSSL-Random	Development/Libraries
+perl-Crypt-PasswdMD5	Development/Libraries
+perl-Crypt-SSLeay	Development/Libraries
+perl-DBD-MySQL	Development/Libraries
+perl-DBD-Pg	Development/Libraries
+perl-DBD-SQLite	Development/Libraries
+perl-DBI	Development/Libraries
+perl-DBIx-Simple	Development/Libraries
+perl-DB_File	Development/Libraries
+perl-Data-Dumper	Development/Libraries
+perl-Data-OptList	Development/Libraries
+perl-Data-Peek	Development/Libraries
+perl-Date-Calc	Development/Libraries
+perl-Date-Manip	Development/Libraries
+perl-DateTime	Development/Libraries
+perl-DateTime-Format-DateParse	Development/Libraries
+perl-DateTime-Locale	Development/Libraries
+perl-DateTime-TimeZone	Development/Libraries
+perl-Devel-CheckLib	Development/Libraries
+perl-Devel-Cover	Development/Libraries
+perl-Devel-Cycle	Development/Libraries
+perl-Devel-EnforceEncapsulation	Development/Libraries
+perl-Devel-Leak	Development/Libraries
+perl-Devel-StackTrace	Development/Libraries
+perl-Devel-Symdump	Development/Libraries
+perl-Digest	Development/Libraries
+perl-Digest-HMAC	Development/Libraries
+perl-Digest-MD5	Development/Libraries
+perl-Digest-SHA	Development/Libraries
+perl-Digest-SHA1	Development/Libraries
+perl-Dist-CheckConflicts	Development/Libraries
+perl-Email-Address	Development/Libraries
+perl-Encode	Development/Libraries
+perl-Encode-Detect	Development/Libraries
+perl-Encode-Locale	Development/Libraries
+perl-Env	Development/Libraries
+perl-Error	Development/Libraries
+perl-Exception-Class	Development/Libraries
+perl-Exporter	Development/Libraries
+perl-%{cpan_name}	Development/Libraries
+perl-ExtUtils-Manifest	Development/Libraries
+perl-ExtUtils-ParseXS	Development/Libraries
+perl-FCGI	Development/Libraries
+perl-File-CheckTree	Development/Libraries
+perl-File-Copy-Recursive	Development/Libraries
+perl-File-Fetch	Development/Libraries
+perl-File-Find-Rule	Development/Libraries
+perl-File-Find-Rule-Perl	Development/Libraries
+perl-File-HomeDir	Development/Libraries
+perl-File-Inplace	Development/Libraries
+perl-File-Listing	Development/Libraries
+perl-File-Path	Development/Libraries
+perl-File-Remove	Development/Libraries
+perl-File-ShareDir	Development/Libraries
+perl-File-Slurp	Development/Libraries
+perl-File-Temp	Development/Libraries
+perl-File-Which	Development/Libraries
+perl-File-pushd	Development/Libraries
+perl-Filter	Development/Libraries
+perl-Font-AFM	Development/Libraries
+perl-Font-TTF	Development/Libraries
+perl-FreezeThaw	Development/Libraries
+perl-GD	Development/Libraries
+perl-GD-Barcode	Development/Libraries
+perl-GSSAPI	Development/Libraries
+perl-Getopt-Long	Development/Libraries
+perl-HTML-Format	Development/Libraries
+perl-HTML-FormatText-WithLinks	Development/Libraries
+perl-HTML-FormatText-WithLinks-AndTables	Development/Libraries
+perl-HTML-Parser	Development/Libraries
+perl-HTML-Tagset	Development/Libraries
+perl-HTML-Tree	Development/Libraries
+perl-HTTP-Cookies	Development/Libraries
+perl-HTTP-Daemon	Development/Libraries
+perl-HTTP-Date	Development/Libraries
+perl-HTTP-Message	Development/Libraries
+perl-HTTP-Negotiate	Development/Libraries
+perl-HTTP-Tiny	Development/Libraries
+perl-Hook-LexWrap	Development/Libraries
+perl-IO-CaptureOutput	Development/Libraries
+perl-IO-Compress	Development/Libraries
+perl-IO-HTML	Development/Libraries
+perl-IO-Socket-INET6	Development/Libraries
+perl-IO-Socket-IP	Development/Libraries
+perl-IO-Socket-SSL	Development/Libraries
+perl-IO-String	Development/Libraries
+perl-IO-Tty	Development/Libraries
+perl-IO-stringy	Development/Libraries
+perl-IPC-Cmd	Development/Libraries
+perl-IPC-Run	Development/Libraries
+perl-IPC-Run3	Development/Libraries
+perl-Image-Base	Development/Libraries
+perl-Image-Info	Development/Libraries
+perl-Image-Xbm	Development/Libraries
+perl-Image-Xpm	Development/Libraries
+perl-Inline	Development/Libraries
+perl-Inline-Files	Development/Libraries
+perl-JSON	Unknown
+perl-JSON-PP	Development/Libraries
+perl-LDAP	Development/Libraries
+perl-LWP-MediaTypes	Development/Libraries
+perl-LWP-Protocol-https	Development/Libraries
+perl-List-MoreUtils	Development/Libraries
+perl-Locale-Codes	Development/Libraries
+perl-Locale-Maketext	Development/Libraries
+perl-Locale-Maketext-Gettext	Development/Libraries
+perl-Locale-PO	Development/Libraries
+perl-Log-Message	Development/Libraries
+perl-Log-Message-Simple	Development/Libraries
+perl-Mail-DKIM	Development/Libraries
+perl-Mail-SPF	Development/Libraries
+perl-MailTools	Development/Libraries
+perl-Mixin-Linewise	Development/Libraries
+perl-Module-Build	Development/Libraries
+perl-Module-Implementation	Development/Libraries
+perl-Module-Install	Development/Libraries
+perl-Module-Load	Development/Libraries
+perl-Module-Load-Conditional	Development/Libraries
+perl-Module-Manifest	Development/Libraries
+perl-Module-Metadata	Development/Libraries
+perl-Module-Pluggable	Development/Libraries
+perl-Module-Runtime	Development/Libraries
+perl-Module-ScanDeps	Development/Libraries
+perl-Module-Signature	Development/Libraries
+perl-Mozilla-CA	Development/Libraries
+perl-Mozilla-LDAP	Development/Libraries
+perl-Net-DNS	Development/Libraries
+perl-Net-DNS-Resolver-Programmable	Development/Libraries
+perl-Net-Daemon	Development/Libraries
+perl-Net-HTTP	Development/Libraries
+perl-Net-LibIDN	Development/Libraries
+perl-Net-SMTP-SSL	Development/Libraries
+perl-Net-SSLeay	Development/Libraries
+perl-Net-Telnet	Development/Libraries
+perl-NetAddr-IP	Development/Libraries
+perl-Newt	System Environment/Libraries
+perl-Number-Compare	Development/Libraries
+perl-Object-Deadly	Development/Libraries
+perl-PAR-Dist	Development/Libraries
+perl-PPI	Development/Libraries
+perl-PPI-HTML	Development/Libraries
+perl-PPIx-Regexp	Development/Libraries
+perl-PPIx-Utilities	Development/Libraries
+perl-Package-DeprecationManager	Development/Libraries
+perl-Package-Generator	Development/Libraries
+perl-Package-Stash	Development/Libraries
+perl-Package-Stash-XS	Development/Libraries
+perl-PadWalker	Development/Libraries
+perl-Parallel-Iterator	Development/Libraries
+perl-Params-Check	Development/Libraries
+perl-Params-Util	Development/Libraries
+perl-Params-Validate	Development/Libraries
+perl-Parse-CPAN-Meta	Development/Libraries
+perl-Parse-RecDescent	Development/Libraries
+perl-Parse-Yapp	Development/Libraries
+perl-PathTools	Development/Libraries
+perl-Perl-Critic	Development/Libraries
+perl-Perl-Critic-More	Development/Libraries
+perl-Perl-MinimumVersion	Development/Libraries
+perl-Perl-OSType	Development/Libraries
+perl-Perl4-CoreLibs	Development/Libraries
+perl-PlRPC	Development/Libraries
+perl-Pod-Checker	Development/Libraries
+perl-Pod-Coverage	Development/Libraries
+perl-Pod-Coverage-TrustPod	Development/Libraries
+perl-Pod-Eventual	Development/Libraries
+perl-Pod-LaTeX	Development/Libraries
+perl-Pod-POM	Development/Libraries
+perl-Pod-Parser	Development/Libraries
+perl-Pod-Perldoc	Development/Libraries
+perl-Pod-Plainer	Unknown
+perl-Pod-Simple	Development/Libraries
+perl-Pod-Spell	Development/Libraries
+perl-Pod-Usage	Development/Libraries
+perl-Probe-Perl	Development/Libraries
+perl-Readonly	Development/Libraries
+perl-Readonly-XS	Development/Libraries
+perl-SGMLSpm	Development/Libraries
+perl-SNMP_Session	Development/Libraries
+perl-Scalar-List-Utils	Development/Libraries
+perl-Socket	Development/Libraries
+perl-Socket6	Development/Libraries
+perl-Sort-Versions	Development/Libraries
+perl-Storable	Development/Libraries
+perl-String-CRC32	Development/Libraries
+perl-String-Format	Development/Libraries
+perl-String-ShellQuote	Development/Libraries
+perl-String-Similarity	Development/Libraries
+perl-Sub-Exporter	Development/Libraries
+perl-Sub-Install	Development/Libraries
+perl-Sub-Uplevel	Development/Libraries
+perl-Switch	Development/Libraries
+perl-Syntax-Highlight-Engine-Kate	Development/Libraries
+perl-Sys-CPU	Development/Libraries
+perl-Sys-MemInfo	Development/Libraries
+perl-Sys-Syslog	Development/Libraries
+perl-Sys-Virt	Unknown
+perl-Taint-Runtime	Development/Libraries
+perl-Task-Weaken	Development/Libraries
+perl-Template-Toolkit	Development/Libraries
+perl-Term-UI	Development/Libraries
+perl-TermReadKey	Development/Libraries
+perl-Test-CPAN-Meta	Development/Libraries
+perl-Test-ClassAPI	Development/Libraries
+perl-Test-Deep	Development/Libraries
+perl-Test-Differences	Development/Libraries
+perl-Test-DistManifest	Development/Libraries
+perl-Test-EOL	Development/Libraries
+perl-Test-Exception	Development/Libraries
+perl-Test-Fatal	Development/Libraries
+perl-Test-Harness	Development/Libraries
+perl-Test-HasVersion	Development/Libraries
+perl-Test-Inter	Development/Libraries
+perl-Test-Manifest	Development/Libraries
+perl-Test-Memory-Cycle	Development/Libraries
+perl-Test-MinimumVersion	Development/Libraries
+perl-Test-MockObject	Development/Libraries
+perl-Test-NoTabs	Development/Libraries
+perl-Test-NoWarnings	Development/Libraries
+perl-Test-Object	Development/Libraries
+perl-Test-Output	Development/Libraries
+perl-Test-Perl-Critic	Development/Libraries
+perl-Test-Pod	Development/Libraries
+perl-Test-Pod-Coverage	Development/Libraries
+perl-Test-Portability-Files	Development/Libraries
+perl-Test-Requires	Development/Libraries
+perl-Test-Script	Development/Libraries
+perl-Test-Simple	Development/Libraries
+perl-Test-Spelling	Development/Libraries
+perl-Test-SubCalls	Development/Libraries
+perl-Test-Synopsis	Development/Libraries
+perl-Test-Taint	Development/Libraries
+perl-Test-Tester	Development/Libraries
+perl-Test-Vars	Development/Libraries
+perl-Test-Warn	Development/Libraries
+perl-Test-Without-Module	Development/Libraries
+perl-Text-CSV_XS	Development/Libraries
+perl-Text-CharWidth	Development/Libraries
+perl-Text-Diff	Development/Libraries
+perl-Text-Glob	Development/Libraries
+perl-Text-Iconv	Development/Libraries
+perl-Text-ParseWords	Development/Libraries
+perl-Text-Soundex	Development/Libraries
+perl-Text-Unidecode	Development/Libraries
+perl-Text-WrapI18N	Development/Libraries
+perl-Thread-Queue	Development/Libraries
+perl-Tie-IxHash	Development/Libraries
+perl-Time-HiRes	Development/Libraries
+perl-Time-Local	Development/Libraries
+perl-TimeDate	Development/Libraries
+perl-Tk	Development/Libraries
+perl-Tree-DAG_Node	Development/Libraries
+perl-Try-Tiny	Development/Libraries
+perl-UNIVERSAL-can	Development/Libraries
+perl-UNIVERSAL-isa	Development/Libraries
+perl-URI	Development/Libraries
+perl-Unicode-Map8	Unknown
+perl-Unicode-String	Development/Libraries
+perl-Version-Requirements	Development/Libraries
+perl-WWW-Curl	Development/Libraries
+perl-WWW-RobotRules	Development/Libraries
+perl-XML-Catalog	Development/Libraries
+perl-XML-DOM	Development/Libraries
+perl-XML-Dumper	Development/Libraries
+perl-XML-Filter-BufferText	Development/Libraries
+perl-XML-Grove	Development/Libraries
+perl-XML-Handler-YAWriter	Development/Libraries
+perl-XML-LibXML	Development/Libraries
+perl-XML-LibXSLT	Development/Libraries
+perl-XML-NamespaceSupport	Development/Libraries
+perl-XML-Parser	Development/Libraries
+perl-XML-RegExp	Development/Libraries
+perl-XML-SAX	Development/Libraries
+perl-XML-SAX-Base	Development/Libraries
+perl-XML-SAX-Writer	Development/Libraries
+perl-XML-Simple	Development/Libraries
+perl-XML-TokeParser	Development/Libraries
+perl-XML-TreeBuilder	Development/Libraries
+perl-XML-Twig	Development/Libraries
+perl-XML-Writer	Development/Libraries
+perl-XML-XPath	Development/Libraries
+perl-XML-XPathEngine	Development/Libraries
+perl-YAML	Development/Libraries
+perl-YAML-Syck	Development/Libraries
+perl-YAML-Tiny	Development/Libraries
+perl-autodie	Development/Libraries
+perl-constant	Development/Libraries
+perl-gettext	Development/Libraries
+perl-libintl	Development/Libraries
+perl-libwww-perl	Development/Libraries
+perl-libxml-perl	Development/Libraries
+perl-local-lib	Development/Libraries
+perl-parent	Development/Libraries
+perl-podlators	Development/Libraries
+perl-prefork	Development/Libraries
+perl-srpm-macros	Development/Libraries
+perl-threads	Development/Libraries
+perl-threads-shared	Development/Libraries
+perl-version	Development/Libraries
+perltidy	Unknown
+pesign	Development/System
+pexpect	Development/Languages
+phonon	System Environment/Libraries	Development/Libraries
+phonon-backend-gstreamer	System Environment/Libraries
+php	Development/Languages	Development/Libraries	System Environment/Libraries
+php-pear	Development/Languages
+php-pecl-memcache	Development/Languages
+pidgin	Applications/Internet	Development/Libraries
+pidgin-sipe	Applications/Internet
+pinentry	Applications/System
+pinfo	System Environment/Base
+pixman	System Environment/Libraries	Development/Libraries
+pkgconfig	Development/Tools
+pki-core	Documentation	System Environment/Daemons	System Environment/Libraries	System Environment/Base
+%{parent}-%{subname}	Documentation	Development/Tools
+plexus-archiver	Unknown
+%{parent}-%{subname}	Unknown
+plexus-build-api	Unknown
+%{parent}-%{subname}	Development/Tools	Documentation
+plexus-cipher	Unknown
+plexus-classworlds	Unknown
+%{parent}-%{subname}	Development/Libraries	Documentation
+plexus-compiler	Unknown
+plexus-component-api	Unknown
+plexus-component-factories-pom	Development/Libraries
+%{short_name}-pom	Development/Libraries
+%{parent}-%{subname}	Documentation
+plexus-digest	Development/Libraries	Documentation
+plexus-i18n	Unknown
+plexus-interactivity	Unknown
+plexus-interpolation	Development/Libraries	Documentation
+plexus-io	Development/Libraries	Documentation
+plexus-mail-sender	Documentation	Development/Tools
+plexus-pom	Development/Libraries
+%{parent}-%{subname}	Development/Tools	Documentation
+plexus-sec-dispatcher	Unknown
+%{short_name}-pom	Development/Libraries
+plexus-utils	Development/Libraries	Documentation
+plexus-velocity	Development/Java	Documentation
+plymouth	System Environment/Base	Development/Libraries	Applications/System
+pm-utils	Development/Libraries	System Environment/Base
+pngcrush	Applications/File
+pngnq	Applications/Multimedia
+pnm2ppa	Applications/Publishing
+po4a	Unknown
+policycoreutils	System Environment/Base
+polkit	Development/Libraries	System Environment/Libraries
+polkit-kde	Unknown
+polkit-pkla-compat	Unknown
+polkit-qt	Development/Libraries	Documentation
+poppler	Development/Libraries	System Environment/Libraries	Applications/Text
+poppler-data	Development/Libraries
+popt	System Environment/Libraries	Development/Libraries
+portreserve	System Environment/Daemons
+postfix	System Environment/Daemons	Applications/System
+postgresql	Applications/Databases	Development/Libraries
+postgresql-jdbc	Applications/Databases	Documentation
+postgresql-odbc	Applications/Databases
+%{fontname}-fonts	User Interface/X
+powerpc-utils	System Environment/Base
+powertop	Applications/System
+ppc64-diag	System Environment/Base
+ppp	System Environment/Daemons	Development/Libraries
+pps-tools	System Environment/Base	Development/System
+pptp	Applications/Internet
+prelink	System Environment/Base
+procmail	Applications/Internet
+procps-ng	Applications/System	Development/Libraries
+protobuf	Development/Libraries	Development/Languages	Applications/Editors	Documentation
+protobuf-c	System Environment/Libraries	Development/Libraries
+ps_mem	Applications/System
+psacct	Applications/System
+psmisc	Applications/System
+psutils	Applications/Publishing
+pth	System Environment/Libraries	Development/Libraries
+ptlib	System Environment/Libraries	Development/Libraries
+publican	Applications/Publishing	Documentation
+publican-redhat	Applications/Text
+pulseaudio	Unknown
+pyOpenSSL	Development/Libraries
+pyatspi	Development/Languages
+pycairo	Development/Languages	Development/Libraries
+pygobject2	Development/Languages
+pygobject3	Unknown
+pygpgme	Development/Languages
+pygtk2	Development/Languages
+pykde4	Unknown
+pykickstart	System Environment/Libraries
+pyliblzma	Unknown
+pyorbit	Development/Languages
+pyparsing	Development/Libraries
+pyparted	System Environment/Libraries
+pyserial	Development/Libraries
+pytest	Development/Languages
+python	Development/Languages	Applications/System	Development/Libraries	Development/Tools
+python-%{oname}	System Environment/Libraries
+python-%{srcname}	System Environment/Libraries
+python-augeas	Development/Languages
+python-%{srcname}	System Environment/Libraries	Documentation
+python-backports	Unknown
+python-backports-ssl_match_hostname	Unknown
+python-beaker	Development/Languages
+python-blivet	System Environment/Libraries
+python-%{pypi_name}	Unknown
+python-cffi	Unknown
+python-chardet	Development/Languages
+python-cherrypy	Development/Libraries
+python-configobj	System Environment/Libraries
+python-configshell	System Environment/Libraries
+python-coverage	System Environment/Libraries
+python-cpio	Development/Languages
+python-cryptography	Development/Libraries
+python-cups	Development/Languages	Documentation
+python-dateutil	Development/Languages
+python-decorator	Development/Languages
+python-di	Unknown
+python-dmidecode	System Environment/Libraries
+python-dns	Development/Languages
+%{python}-docs	Documentation
+python-%{srcname}	Development/Languages
+python-dtopt	System Environment/Libraries
+python-enum34	Development/Libraries
+python-ethtool	System Environment/Libraries
+python-fpconst	Development/Languages
+python-gssapi	Unknown
+python-gudev	Development/Libraries
+python-hwdata	Development/Libraries
+python-%{srcname}	Unknown
+python-iniparse	Development/Libraries
+python-inotify	Development/Libraries	Development/Languages
+python-ipaddr	Development/Languages
+python-%{pyname}	Unknown
+python-%{modulename}	Development/Languages
+python-jinja2	Development/Languages
+python-%{pypi_name}	Unknown
+python-%{pypi_name}	Unknown
+python-jwcrypto	Unknown
+python-jwt	Development/Libraries
+python-%{realname}	Unknown
+python-kerberos	System Environment/Libraries
+python-kitchen	Development/Languages
+python-kmod	Development/Libraries
+python-krbV	Development/Languages
+python-ldap	System Environment/Libraries
+python-linux-procfs	System Environment/Libraries
+python-lxml	Development/Libraries	Documentation
+python-mako	Development/Languages
+python-markupsafe	Development/Languages
+python-matplotlib	Development/Libraries	Documentation
+python-meh	System Environment/Libraries
+python-memcached	Development/Languages
+python-%{srcname}	System Environment/Libraries
+python-%{srcname}	System Environment/Libraries
+python-%{realname}	Development/Languages
+python-netaddr	Development/Libraries
+python-netifaces	Development/Libraries
+python-nose	Development/Languages	Documentation
+python-nss	Development/Languages	Documentation
+python-ntplib	Unknown
+python-oauthlib	Development/Libraries
+python-paste	System Environment/Libraries
+python-pillow	Development/Libraries	Documentation	System Environment/Libraries
+python-ply	System Environment/Libraries
+python-%{modname}	Development/Languages
+python-psycopg2	Documentation	Applications/Databases
+python-py	Development/Languages
+python-pyasn1	System Environment/Libraries
+python-%{realname}	System Environment/Libraries
+python-pycparser	System Environment/Libraries
+python-pycurl	Development/Languages
+python-pygments	Development/Libraries
+python-pyudev	Development/Languages
+python-%{pkgname}	Unknown
+python-reportlab	Development/Libraries	Documentation
+python-requests	Unknown
+python-requests-oauthlib	Development/Libraries
+python-rhsm	Development/Libraries
+python-rtslib	System Environment/Libraries	Documentation
+python-%{pypi_name}	Unknown
+python-schedutils	System Environment/Libraries
+python-setproctitle	Unknown
+python-setuptools	Applications/System
+python-six	Development/Languages
+python-slip	System Environment/Libraries
+python-smbc	Development/Languages	Documentation
+python-sphinx	Development/Tools	Documentation
+python-sqlalchemy	Development/Libraries
+python-suds	Development/Libraries
+python-tempita	Development/Languages
+python-%{pkgname}	Development/Libraries	Documentation
+%{python}-twisted-core	Unknown
+%{python}-twisted-web	Unknown
+%{python}-twisted-words	Unknown
+python-urlgrabber	Development/Libraries
+python-%{srcname}	Unknown
+python-urwid	Development/Languages	Development/Libraries
+python-virtualenv	Development/Languages
+python-webob	System Environment/Libraries
+python-webtest	Development/Languages
+python-which	Development/Languages
+python-yubico	Unknown
+python-zope-interface	Development/Libraries
+pytz	Development/Languages
+pyusb	Development/Languages
+pywbem	Development/Libraries
+pyxattr	Development/Libraries
+qca-ossl	System Environment/Libraries
+qca2	System Environment/Libraries	Development/Libraries
+qdox	Development/Libraries	Documentation
+qemu-guest-agent	System Environment/Daemons
+qemu-kvm	Development/Tools	System Environment/Daemons
+%{pkgname}%{?pkgsuffix}	Development/Tools
+qgnomeplatform	Unknown
+qimageblitz	System Environment/Libraries	Development/Libraries
+qjson	Development/Libraries	Development/Languages
+qpdf	Development/Libraries	Documentation	System Environment/Base	System Environment/Libraries
+qperf	Networking/Diagnostic
+qrencode	Unknown
+qt	Documentation	User Interface/Desktops	Development/Libraries	Applications/Emulators	System Environment/Libraries
+qt3	System Environment/Libraries	User Interface/Desktops	Development/Libraries	Development/Tools
+qt5-%{qt_module}	Unknown
+qt5-qtbase	Unknown
+qt5-%{qt_module}	Unknown
+qt5-%{qt_module}	Unknown
+qt5-%{qt_module}	Unknown
+qt5-%{qt_module}	Unknown
+qt5-%{qt_module}	Unknown
+qt5-%{qt_module}	Unknown
+qt5-%{qt_module}	Unknown
+qt5-%{qt_module}	Unknown
+qt5-%{qt_module}	Unknown
+qt5-%{qt_module}	Unknown
+qt5-%{qt_module}	Unknown
+qt5-%{qt_module}	Unknown
+qt5-%{qt_module}	Unknown
+qt5-%{qt_module}	Unknown
+qt5-%{qt_module}	Unknown
+qt5-%{qt_module}	Unknown
+qt5-qttools	Unknown
+qt5-%{qt_module}	Unknown
+qt5-%{qt_module}	Unknown
+qt5-%{qt_module}	Unknown
+qt5-%{qt_module}	Unknown
+qt5-%{qt_module}	Unknown
+qt5-%{qt_module}	Unknown
+quagga	System Environment/Daemons
+quota	System Environment/Base	Documentation
+radvd	System Environment/Daemons
+raptor2	Unknown
+rarian	System Environment/Base	Development/Languages
+ras-utils	Development/Tools
+rasdaemon	Applications/System
+rasqal	System Environment/Libraries	Development/Libraries
+rcs	Development/Tools
+rdate	Applications/System
+rdist	Applications/System
+rdma-core	Unknown
+readline	System Environment/Libraries	Development/Libraries
+realmd	Unknown
+rear	Applications/File
+recode	Applications/File	Development/Libraries
+redhat-lsb	System Environment/Base
+redhat-menus	User Interface/Desktops
+redhat-rpm-config	Development/System
+%{package_name}	Development/Libraries
+%{package_name}	Development/Libraries
+redhat-upgrade-dracut	Unknown
+redland	System Environment/Libraries	Development/Libraries
+regexp	Development/Libraries/Java	Development/Java
+relaxngDatatype	Unknown
+relaxngcc	Development/Libraries
+resource-agents	System Environment/Base	Productivity/Clustering/HA
+rest	Unknown
+resteasy-base	Unknown
+rfkill	System Environment/Base
+rhdb-utils	Applications/Databases
+rhino	Development/Libraries	Documentation
+rhn-client-tools	System Environment/Base
+rhnlib	Development/Libraries
+rhnsd	System Environment/Base
+rhythmbox	Unknown
+rng-tools	System Environment/Base
+rngom	Development/Libraries	Documentation
+rootfiles	System Environment/Base
+rp-pppoe	System Environment/Daemons
+rpcbind	System Environment/Daemons
+rpm	System Environment/Base	Development/Libraries	Development/Tools	Documentation
+rpmdevtools	Unknown
+rpmlint	Development/Tools
+rrdtool	Applications/Databases	Development/Libraries	Documentation	Development/Languages
+rsh	Applications/Internet	System Environment/Daemons
+rsync	Applications/Internet
+rsyslog	System Environment/Daemons	Documentation
+rsyslog	System Environment/Daemons	Documentation
+rtkit	System Environment/Base
+ruby	Development/Languages	Development/Libraries	Documentation
+rubygems	Development/Languages	Documentation
+rubygem-bundler	Development/Languages	Documentation
+rubygem	Development/Languages	Documentation
+rubygem-%{gem_name}	Development/Languages	Documentation
+rusers	System Environment/Daemons
+rwho	System Environment/Daemons
+%{fontname}-fonts	User Interface/X
+sac	System Environment/Libraries	Development/Java
+samba	Unknown
+%{fontname}-fonts	User Interface/X
+sane-backends	System Environment/Libraries	Documentation	Development/Libraries
+sane-frontends	Applications/System
+sanlock	System Environment/Base	System Environment/Libraries	Development/Libraries
+satyr	System Environment/Libraries	Development/Libraries
+saxon	Applications/Text	Documentation
+sbc	Development/Libraries
+sbd	System Environment/Daemons
+sblim-cim-client2	Development/Libraries	Documentation
+sblim-cmpi-base	Applications/System	Development/Libraries
+sblim-cmpi-devel	Development/Libraries
+sblim-cmpi-fsvol	Applications/System	Development/Libraries
+sblim-cmpi-network	Applications/System	Development/Libraries
+sblim-cmpi-nfsv3	Applications/System	Development/Libraries
+sblim-cmpi-nfsv4	Applications/System	Development/Libraries
+sblim-cmpi-params	Applications/System
+sblim-cmpi-sysfs	Applications/System
+sblim-cmpi-syslog	Applications/System	Development/Libraries
+sblim-gather	Applications/System	Development/Libraries
+sblim-indication_helper	Development/Libraries
+sblim-sfcb	Applications/System
+sblim-sfcc	Applications/System
+sblim-smis-hba	Applications/System
+sblim-testsuite	Applications/System
+sblim-wbemcli	Applications/System
+scannotation	Development/Libraries	Documentation
+scap-security-guide	System Environment/Base
+scap-workbench	System Environment/Base
+scipy	Development/Libraries
+scl-utils	Applications/File
+screen	Applications/System
+scrub	System Environment/Base
+sdparm	Applications/System
+seabios	Applications/Emulators
+seahorse	Unknown
+seahorse-nautilus	Unknown
+seahorse-sharing	Unknown
+sed	Applications/Text
+selinux-policy	System Environment/Base
+sendmail	System Environment/Daemons	Documentation	Development/Libraries	System Environment/Libraries
+setools	System Environment/Base	System Environment/Libraries	Development/Languages	Development/Libraries
+setroubleshoot	Applications/System
+setroubleshoot-plugins	Applications/System
+setserial	Applications/System
+setup	System Environment/Base
+setuptool	Applications/System
+sg3_utils	Applications/System	System Environment/Libraries	Development/Libraries
+sgabios	Applications/Emulators
+sgml-common	Applications/Text
+sgpio	System Environment/Base
+shadow-utils	System Environment/Base
+shared-desktop-ontologies	User Interface/Desktops	Development/Libraries
+shared-mime-info	System Environment/Base
+sharutils	Applications/Archiving
+shim	Development/Debug
+shim-signed	Development/Debug\
+shotwell	Unknown
+si-units	Documentation
+%{fontname}-fonts	Unknown
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+sip	Development/Tools	Development/Libraries
+sisu	Development/Libraries	Documentation
+sisu-maven-plugin	Development/Tools	Documentation
+skkdic	System Environment/Libraries
+slang	System Environment/Libraries	Development/Languages	Development/Libraries
+slapi-nis	System Environment/Daemons
+slf4j	Development/Libraries	Documentation
+smartmontools	System Environment/Base
+%{fontname}-fonts	Unknown
+snakeyaml	Development/Libraries	Documentation
+snapper	Applications/System	System Environment/Libraries	Development/Libraries
+snappy	System Environment/Libraries	Development/Libraries
+socat	Applications/Internet
+softhsm	Applications/System	Development/Libraries
+sonatype-oss-parent	Development/Libraries
+sonatype-plugins-parent	Development/Libraries
+soprano	Unknown
+sos	Applications/System
+sound-theme-freedesktop	User Interface/Desktops
+soundtouch	Development/Libraries	System Environment/Libraries
+source-highlight	Development/Tools	Development/Libraries
+sox	Applications/Multimedia	Development/Libraries
+spamassassin	Applications/Internet
+speech-dispatcher	Documentation	System Environment/Libraries	Development/Libraries
+speex	System Environment/Libraries	Development/Libraries	Applications/Multimedia
+spice	User Interface/Desktops	System Environment/Libraries	Development/Libraries
+spice-gtk	System Environment/Libraries	Development/Libraries	Applications/Internet
+spice-parent	Development/Libraries
+spice-protocol	Development/Libraries
+spice-vdagent	Applications/System
+spice-xpi	Applications/Internet
+sqlite3	Development/Languages	Applications/Databases	Development/Libraries	Documentation	Development/Tools
+squashfs-tools	System Environment/Base
+squid	System Environment/Daemons
+sssd	Applications/System	Development/Libraries
+star	Applications/Archiving
+startup-notification	System Environment/Libraries	Development/Libraries
+stax-ex	Development/Libraries	Documentation
+stax2-api	Development/Libraries
+%{fontname}-fonts	User Interface/X
+strace	Development/Debuggers
+strigi	Applications/Productivity	Development/Libraries
+strongimcv	Applications/System
+stunnel	Applications/Internet
+subscription-manager	System Environment/Base	Development/Libraries
+subversion	Development/Tools	Development/Libraries	System Environment/Daemons
+sudo	Applications/System	Development/Libraries
+suitesparse	System Environment/Libraries	Development/Libraries	Documentation
+supermin	Unknown
+sushi	Unknown
+svgpart	Unknown
+svrcore	Development/Libraries
+sweeper	Unknown
+swig	Development/Tools
+symlinks	Applications/System
+sysfsutils	Development/Tools	System Environment/Libraries	Development/Libraries
+syslinux	Applications/System	System/Boot	Development/Libraries	Applications/Internet
+sysstat	Applications/System
+system-config-date	System Environment/Base
+system-config-date-docs	Documentation
+system-config-firewall	System Environment/Base
+system-config-kdump	System Environment/Base
+system-config-keyboard	System Environment/Base
+system-config-kickstart	System Environment/Base
+system-config-language	Unknown
+system-config-printer	System Environment/Base
+system-config-users	Applications/System
+system-config-users-docs	Documentation
+system-storage-manager	System Environment/Base
+system-switch-java	Applications/System
+systemd	Unknown
+systemtap	Development/System
+sysvinit	System Environment/Base
+t1lib	Applications/Text	Development/Libraries	Applications/Publishing
+t1utils	Applications/Publishing
+taglib	Unknown
+tagsoup	Text Processing/Markup/XML	Documentation
+talk	System Environment/Daemons	Applications/Internet
+tang	Unknown
+tar	Applications/Archiving
+targetcli	System Environment/Libraries
+targetd	System Environment/Libraries
+tbb	Development/Tools	Development/Libraries	Documentation
+tboot	System Environment/Base
+tcl	Development/Languages
+tcl-pgtcl	Applications/Databases
+tclx	Development/Languages
+tcp_wrappers	System Environment/Daemons	System Environment/Libraries	Development/Libraries
+tcpdump	Applications/Internet
+tcsh	System Environment/Shells
+teckit	Development/Libraries
+telepathy-farstream	Development/Libraries	System Environment/Libraries
+telepathy-filesystem	System Environment/Base
+telepathy-gabble	Applications/Communications
+telepathy-glib	System Environment/Libraries	Development/Libraries
+telepathy-haze	Applications/Communications
+telepathy-logger	Applications/Communications	Development/Libraries
+telepathy-mission-control	Development/Libraries	System Environment/Libraries
+telepathy-salut	Applications/Communications
+telnet	Applications/Internet	System Environment/Daemons
+testng	Unknown
+tex-fonts-hebrew	Unknown
+texi2html	Applications/Text
+texinfo	Applications/Publishing	System Environment/Base
+texlive	Applications/Publishing
+tftp	Applications/Internet	System Environment/Daemons
+%{fontname}-fonts	User Interface/X
+thunderbird	Applications/Internet
+%{fontname}-fonts	User Interface/X
+tigervnc	User Interface/Desktops	User Interface/X
+time	Applications/System
+tix	Development/Languages
+tk	Development/Languages
+tmpwatch	System Environment/Base
+tmux	Applications/System
+tn5250	Applications/Internet	Development/Libraries
+tncfhh	Development/Libraries	Applications/System
+tog-pegasus	System Environment/Libraries	Development/Debug	System Environment/Daemons	Development/Tools
+tokyocabinet	Development/Libraries
+tomcat	System Environment/Daemons	Applications/System	Applications/Text	Documentation	Development/Libraries	Applications/Internet
+tomcatjss	System Environment/Libraries
+totem	Unknown
+totem-pl-parser	Unknown
+tpm-quote-tools	Applications/System
+tpm-tools	Development/Libraries	Applications/System
+tpm2-abrmd	Unknown
+tpm2-tools	Unknown
+tpm2-tss	Unknown
+trace-cmd	Development/Tools
+traceroute	Applications/Internet
+tracker	Unknown
+transfig	Applications/Multimedia
+tree	Applications/File
+trousers	System Environment/Libraries	Development/Libraries
+ttmkfdir	Applications/System
+tuna	Applications/System
+tuned	Unknown
+txw2	Development/Libraries	Documentation
+tzdata	System Environment/Base
+%{fontname}-fonts	User Interface/X
+udftools	Applications/Archiving
+udisks2	System Environment/Libraries	Development/Libraries
+unbound	System Environment/Daemons	Development/Libraries	Applications/System
+unicode-ucd	Unknown
+unique3	Development/Libraries	System Environment/Libraries
+unit-api	Unknown
+units	Applications/Engineering
+unixODBC	System Environment/Libraries	Development/Libraries
+unoconv	System Environment/Base
+unzip	Applications/Archiving
+uom-lib	Unknown
+uom-parent	Unknown
+uom-se	Unknown
+uom-systems	Unknown
+upower	System Environment/Libraries	Development/Libraries
+uriparser	Development/Libraries	System Environment/Libraries
+urlview	Applications/Internet
+urw-fonts	User Interface/X
+usb_modeswitch	Applications/System
+usb_modeswitch-data	Applications/System
+usbguard	System Environment/Daemons	Development/Libraries	Applications/System
+usbmuxd	Applications/System
+usbredir	System Environment/Daemons	System Environment/Libraries	Development/Libraries
+usbutils	Applications/System
+usermode	Applications/System
+ustr	System Environment/Libraries	Development/Libraries
+util-linux	System Environment/Base	Development/Libraries	System Environment/Daemons
+uuid	System Environment/Libraries	Development/Libraries
+v4l-utils	Applications/System	System Environment/Libraries	Development/Libraries
+vala	Unknown
+%{?scl_prefix}valgrind	Development/Debuggers
+vdo	Unknown
+velocity	Documentation	Development/Libraries
+%{fontname}-fonts	User Interface/X
+vigra	Development/Libraries
+vim	Applications/Editors
+vinagre	Applications/System
+vino	Unknown
+virt-manager	Applications/Emulators
+virt-p2v	Unknown
+virt-top	Unknown
+virt-viewer	Applications/System
+virt-what	Unknown
+virt-who	System Environment/Base
+virtuoso-opensource	Applications/Databases	Documentation
+%{fontname}-fonts	User Interface/X
+volume_key	Applications/System	Development/Libraries	System Environment/Libraries
+vorbis-tools	Applications/Multimedia
+vsftpd	System Environment/Daemons
+vte291	Unknown
+vte3	User Interface/X	Development/Libraries
+vulkan	Unknown
+watchdog	Unknown
+wavpack	Applications/Multimedia	Development/Libraries
+wayland	Unknown
+wayland-protocols	Unknown
+webkitgtk3	Development/Libraries	Documentation
+webkitgtk4	Unknown
+webrtc-audio-processing	Unknown
+weld-parent	Development/Libraries
+wget	Applications/Internet
+which	Applications/System
+whois	Applications/Internet
+wireshark	Applications/Internet	Development/Libraries
+%{core_name}	Unknown
+wordnet	Applications/Text	Development/Libraries	Documentation
+words	System Environment/Libraries
+wpa_supplicant	System Environment/Base	Applications/System
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+%{fontname}-fonts	User Interface/X
+ws-commons-util	Unknown
+ws-jaxme	Development/Libraries/Java	Documentation
+wsdl4j	Development/Libraries	Documentation
+wsmancli	Applications/System
+wvdial	System Environment/Daemons
+x3270	Applications/Internet
+x86info	System Environment/Base
+xalan-j2	Development/Tools	Documentation	Development/Libraries
+xbean	Unknown
+xcb-proto	Development/Libraries
+xcb-util	System Environment/Libraries
+xcb-util-image	System Environment/Libraries
+xcb-util-keysyms	System Environment/Libraries
+xcb-util-renderutil	System Environment/Libraries
+xcb-util-wm	System Environment/Libraries
+xchat	Applications/Internet
+xdelta	Development/Tools
+xdg-desktop-portal	Unknown
+xdg-desktop-portal-gtk	Unknown
+xdg-user-dirs	User Interface/Desktops
+xdg-user-dirs-gtk	User Interface/Desktops
+xdg-utils	System Environment/Base
+xerces-c	Development/Libraries	Documentation	System Environment/Libraries
+xerces-j2	Development/Libraries	Documentation
+xferstats	Applications/System
+xfsdump	System Environment/Base
+xfsprogs	System Environment/Base	Development/Libraries
+xguest	System Environment/Base
+xhtml1-dtds	Applications/Text
+xhtml2fo-style-xsl	Applications/Text
+xinetd	System Environment/Daemons
+xkeyboard-config	User Interface/X
+xml-commons-apis	Unknown
+xml-commons-apis12	System Environment/Libraries	Documentation
+xml-commons-resolver	Unknown
+xml-stylebook	Documentation	Development/Libraries
+xmlgraphics-commons	Development/Libraries	Documentation
+xmlrpc	Unknown
+xmlrpc-c	Development/Libraries	Applications/Internet	System Environment/Libraries
+xmlsec	System Environment/Libraries	Development/Libraries
+xmlto	Applications/System
+xmltoman	Applications/Publishing
+xmlunit	Unknown
+xmvn	Unknown
+xorg-sgml-doctools	Development/Tools
+xorg-x11-%{pkgname}	User Interface/X
+xorg-x11-docs	Documentation
+xorg-x11-drivers	User Interface/X Hardware Support
+xorg-x11-drv-ati	User Interface/X Hardware Support
+xorg-x11-drv-dummy	User Interface/X Hardware Support
+xorg-x11-drv-evdev	User Interface/X Hardware Support	Development/Libraries
+xorg-x11-drv-fbdev	User Interface/X Hardware Support
+xorg-x11-drv-intel	User Interface/X Hardware Support	Development/System	Development/Tools
+xorg-x11-drv-keyboard	User Interface/X Hardware Support
+xorg-x11-drv-libinput	Unknown
+xorg-x11-drv-mouse	User Interface/X Hardware Support	Development/Libraries
+xorg-x11-drv-nouveau	User Interface/X Hardware Support
+xorg-x11-drv-openchrome	User Interface/X Hardware Support	Development/System
+xorg-x11-drv-qxl	User Interface/X Hardware Support
+xorg-x11-drv-synaptics	Development/Libraries	User Interface/X Hardware Support
+xorg-x11-drv-v4l	User Interface/X Hardware Support
+xorg-x11-drv-vesa	User Interface/X Hardware Support
+xorg-x11-drv-vmmouse	User Interface/X Hardware Support
+xorg-x11-drv-vmware	User Interface/X Hardware Support
+xorg-x11-drv-void	User Interface/X Hardware Support
+xorg-x11-drv-wacom	User Interface/X Hardware Support	Development/Libraries
+xorg-x11-%{pkgname}	User Interface/X
+xorg-x11-fonts	User Interface/X
+xorg-x11-proto-devel	Development/System
+xorg-x11-server-Xorg	Development/Libraries	User Interface/X
+xorg-server	Unknown
+xorg-x11-util-macros	Development/System
+xorg-x11-%{pkgname}	User Interface/X
+xorg-x11-%{pkgname}	User Interface/X
+xorg-x11-%{pkgname}	User Interface/X
+xorg-x11-%{pkgname}	User Interface/X
+xorg-x11-xkb-utils	User Interface/X	Development/Libraries
+xorg-x11-xtrans-devel	System Environment/Libraries
+xpp3	Unknown
+xrestop	Development/Tools
+xsane	Applications/Multimedia
+xsettings-kde	User Interface/Desktops
+xsom	Development/Libraries
+xstream	Development/Libraries	Documentation
+xterm	User Interface/X
+xulrunner	Applications/Internet	Development/Libraries
+xvattr	Applications/System	User Interface/X
+xz	Applications/File	System Environment/Libraries	Development/Libraries
+xz-java	Documentation	Development/Libraries
+yajl	Development/Libraries
+yasm	Development/Languages	Development/Libraries
+yelp	Applications/System	Development/Libraries
+yelp-tools	Applications/Publishing
+yelp-xsl	Applications/System
+yp-tools	System Environment/Base
+ypbind	System Environment/Daemons
+ypserv	System Environment/Daemons
+yum	System Environment/Base	Applications/System
+yum-langpacks	Development/Tools
+yum-metadata-parser	Development/Libraries
+yum-rhn-plugin	System Environment/Base
+yum-utils	Development/Tools	System Environment/Base
+zaf	Applications/Text
+zenity	Unknown
+zip	Applications/Archiving
+zlib	System Environment/Libraries	Development/Libraries
+zsh	System Environment/Shells
+zziplib	Applications/Archiving	Development/Libraries
